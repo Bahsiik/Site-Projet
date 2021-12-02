@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;:
+}
+
+.bandeau {
+    background: linear-gradient(#01454a, #1DA8B1, #01454a);
+    height: 200px;
+}
+
+.separation {
+    background: #CD9734;
+    height: 10px;
+}
+
+#fond {
+    display: flex;
+    width: 100vw;
+    height:  auto;
+    padding: 0;
+}
