@@ -1,28 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+
 * {
     padding: 0;
     margin: 0;
 }
 
+button {
+    border-color: black;
+}
+
 .logo {
+    width: 150px;
     position: absolute;
     left: 0;
     right: 0;
+    padding-top: 15px;
     margin: 0 auto;:
 }
 
 .bandeau {
-    background: linear-gradient(#01454a, #1DA8B1, #01454a);
+    background: linear-gradient(black, #01454a, #1DA8B1, #01454a, black);
     height: 200px;
 }
 
-.separation {
-    background: #CD9734;
-    height: 10px;
+.separationHaut {
+    background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
+    height: 25px;
 }
 
-#fond {
-    display: flex;
-    width: 100vw;
-    height:  auto;
-    padding: 0;
+.separation {
+    background: linear-gradient(#7a5b1b, #CD9734, #7a5b1b);
+    height: 25px;
 }
+
+.separationBas {
+    background: linear-gradient(#7a5b1b, #CD9734, black);
+    height: 25px;
+}
+
+.basDePage {
+    background-color: black;
+    height: 300px;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    margin: 0;
+}
+
+/* Make the image responsive */
+.container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: Teko;
+    font-size: 4em;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #01454a;
+    color: white;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.btn:before {
+    content: '';
+    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.btn:active {
+    color: #CD9734
+}
+
+.btn:active:after {
+    background: transparent;
+}
+
+.btn:not(:hover):before {
+    opacity: 0;
+}
+
+.btn:hover:before {
+    opacity: 1;
+}
+
+.btn:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #01454a;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+/*.container .btn:hover {*/
+/*    transform: scale(1.1) translate(-45%, -45%);*/
+/*    -ms-transform: translate(-50%, -50%);*/
+/*    transition: all 0.2s;*/
+/*}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
