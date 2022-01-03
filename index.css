@@ -15,11 +15,11 @@ button {
     height: 200px;
     justify-content: space-evenly;
     align-items: center;
-    animation: glowing 15s linear infinite;
 }
 
 .logo {
     width: 150px;
+    background-color: black;
 }
 
 .bandeau .btn {
@@ -32,6 +32,16 @@ button {
     cursor: pointer;
     border-radius: 10px;
     text-decoration: none;
+}
+.bandeau .btn:hover {
+    transition: color 0.3s ease-out 0.1s, transform 0.3s ease-in-out 0.1s;
+    transform: scale(1.1);
+    color: #CD9734
+}
+.bandeau .btn:not(:hover) {
+    transition: color 0.3s ease-out, transform 0.3s ease-in-out;
+    transform: scale(1);
+    color: white
 }
 
 .separationHaut {
@@ -58,13 +68,18 @@ button {
     position: relative;
     width: 100%;
     margin: 0;
+    padding: 50px 0 50px 0;
+    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
+    background-size: 400%;
+    animation: glowing 15s linear infinite;
 }
 
 /* Make the image responsive */
 .container img {
-    width: 100%;
-    height: auto;
+    width: 60%;
     display: block;
+    margin: auto;
+    transition: transform 0.3s ease-in-out 0.1s;
 }
 
 /* Style the button and place it in the middle of the container/image */
@@ -73,17 +88,26 @@ button {
     top: 50%;
     left: 50%;
     font-family: Teko;
+    z-index: 100;
     font-size: 4em;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%) scale(1);
     -ms-transform: translate(-50%, -50%);
-    background-color: #01454a;
-    color: white;
     padding: 12px 24px;
     cursor: pointer;
-    border-radius: 10px;
+    color: white;
+    transition: transform 0.3s ease-in-out 0.1s;
 }
 
-.btn:before {
+.btn:hover + .fond {
+    transform: scale(1.1);
+}
+
+/*.btn:not(:hover) + .fond {
+    transition: transform 0.3s ease-in-out 0.1s;
+    transform: scale(1);
+}*/
+
+.bandeau .btn:before {
     content: '';
     background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
     position: absolute;
@@ -97,18 +121,19 @@ button {
     animation: glowing 15s linear infinite;
 }
 
-.btn:hover {
+.container .btn:hover {
     transition: color 0.3s ease-out 0.1s, transform 0.3s ease-in-out 0.1s;
     transform: translate(-50%, -50%) scale(1.1);
     -ms-transform: translate(-50%, -50%);
     color: #CD9734
 }
-.btn:not(:hover) {
+
+/*.container .btn:not(:hover) {
     transition: color 0.3s ease-out, transform 0.3s ease-in-out;
     transform: translate(-50%, -50%) scale(1);
     -ms-transform: translate(-50%, -50%);
     color: white
-}
+}*/
 
 @keyframes glowing {
     0% { background-position: 0 0; }
