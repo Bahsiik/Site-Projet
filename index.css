@@ -8,7 +8,7 @@
 body {
     background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
-    animation: glowing 35s linear infinite;
+    animation: glowing 30s linear infinite;
 }
 
 .bandeau {
@@ -24,9 +24,31 @@ body {
 }
 
 .logo {
-    width: 150px;
-    background-color: black;
+    width: 165px;
     margin-right: 50px;
+}
+
+.bandeau .btn {
+    font-family: Teko;
+    font-size: 2em;
+    color: white;
+    padding: 6px 12px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.bandeau .btn:hover {
+    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
+    transform: scale(1.05);
+    color: #CD9734
+}
+
+.bandeau .btn:not(:hover) {
+    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
+    transform: scale(1);
+    color: white
 }
 
 .space {
@@ -49,17 +71,6 @@ body {
     height: 10px;
 }
 
-.bandeau .btn {
-    font-family: Teko;
-    font-size: 2em;
-    color: white;
-    padding: 6px 12px;
-    margin: 10px;
-    cursor: pointer;
-    border-radius: 10px;
-    text-decoration: none;
-}
-
 /*
 .bandeau .btn:before {
     content: '';
@@ -74,18 +85,6 @@ body {
     height: calc(100% + 4px);
     animation: glowing 15s linear infinite;
 }*/
-
-.bandeau .btn:hover {
-    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
-    transform: scale(1.05);
-    color: #CD9734
-}
-
-.bandeau .btn:not(:hover) {
-    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
-    transform: scale(1);
-    color: white
-}
 
 .container {
     position: relative;
