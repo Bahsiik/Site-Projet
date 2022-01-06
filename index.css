@@ -5,6 +5,12 @@
     margin: 0;
 }
 
+body {
+    background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background-size: 400%;
+    animation: glowing 35s linear infinite;
+}
+
 .bandeau {
     position: fixed;
     left: 0;
@@ -18,39 +24,34 @@
 }
 
 .logo {
-    width: 75px;
+    width: 150px;
     background-color: black;
-    margin-left: 20px;
     margin-right: 50px;
 }
-
 
 .space {
     height: 100px;
 }
+
 .separationHaut {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
-    height: 20px;
+    height: 10px;
 }
 
 .separation {
     background: linear-gradient(#7a5b1b, #CD9734, #7a5b1b);
-    height: 20px;
+    height: 10px;
+    filter: blur(1px);
 }
 
 .separationBas {
     background: linear-gradient(#7a5b1b, #CD9734, black);
-    height: 20px;
-}
-
-.basDePage {
-    background-color: black;
-    height: 300px;
+    height: 10px;
 }
 
 .bandeau .btn {
     font-family: Teko;
-    font-size: 3em;
+    font-size: 2em;
     color: white;
     padding: 6px 12px;
     margin: 10px;
@@ -58,6 +59,7 @@
     border-radius: 10px;
     text-decoration: none;
 }
+
 /*
 .bandeau .btn:before {
     content: '';
@@ -74,12 +76,13 @@
 }*/
 
 .bandeau .btn:hover {
-    transition: color 0.3s ease-out, transform 0.3s ease-in-out 0.1s;
+    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
     transform: scale(1.05);
     color: #CD9734
 }
+
 .bandeau .btn:not(:hover) {
-    transition: color 0.3s ease-out, transform 0.3s ease-in-out 0.1s;
+    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
     transform: scale(1);
     color: white
 }
@@ -89,20 +92,16 @@
     width: 100%;
     margin: 0;
     padding: 50px 0 50px 0;
-    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
-    background-size: 400%;
-    animation: glowing 15s linear infinite;
 }
 
 /* Make the image responsive */
 .container img {
-    width: 60%;
-    height: 500px;
+    width: 55%;
     display: block;
     margin: auto;
     border: #CD9734 solid 3px;
     border-radius: 1%;
-    transition: transform 0.3s ease-in-out 0.1s, box-shadow 0.3s ease-out;
+    transition: transform 0.2s ease-in-out 0.1s, box-shadow 0.2s ease-out;
 }
 
 /* Style the button and place it in the middle of the container/image */
@@ -119,7 +118,7 @@
     cursor: pointer;
     color: white;
     -webkit-text-stroke: 1px black;
-    transition: transform 0.3s ease-in-out 0.1s;
+    transition: transform 0.2s ease-in-out 0.1s;
 }
 
 .container .btn:hover + .fond {
@@ -128,7 +127,7 @@
 }
 
 .container .btn:hover {
-    transition: color 0.3s ease-out, transform 0.3s ease-in-out 0.1s, text-shadow 0.3s ease-out;
+    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s, text-shadow 0.2s ease-out;
     transform: translate(-50%, -50%) scale(1.1);
     -ms-transform: translate(-50%, -50%);
     color: #CD9734;
@@ -158,15 +157,22 @@
 /*    transition: all 0.2s;*/
 /*}*/
 
+.footer {
+    background-color: black;
+}
 
+.footer p {
+    padding: 50px 20px 0 20px;
+    color: gray;
+    font-size: 1.5em;
+    text-align: center;
+}
 
-
-
-
-
-
-
-
-
-
-
+.footer .sigle {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.footer img {
+    margin: 10px;
+}
