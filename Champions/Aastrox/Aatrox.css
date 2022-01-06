@@ -14,7 +14,7 @@
     justify-content: space-evenly;
     align-items: center;
 }
-.logoBan {
+.logoban {
     width: 200px;
 }
 .separationHaut {
@@ -22,11 +22,17 @@
     height: 25px;
 }
 button {
-    border-color: black;
-    margin : 0 20px 0 30px;
-    padding: 10px 20px;
+    font-family: Teko;
+    font-size: 3em;
+    color: white;
+    padding: 6px 12px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: black;
 }
-
+/*
 button, button::after {
     font-size: 36px;
     font-family: 'Bebas Neue', cursive;
@@ -42,7 +48,7 @@ button, button::after {
 
 .bandeau .btn:before {
     content: '';
-    background: linear-gradient(45deg, #01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
+    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
     position: absolute;
     top: -2px;
     left:-2px;
@@ -53,10 +59,10 @@ button, button::after {
     height: calc(100% + 4px);
     animation: glowing 15s linear infinite;
 }
-
+*/
 .bandeau .btn:hover {
     transition: color 0.3s ease-out, transform 0.3s ease-in-out 0.1s;
-    transform: scale(1.1);
+    transform: scale(1.05);
     color: #CD9734
 }
 .bandeau .btn:not(:hover) {
@@ -74,23 +80,37 @@ button, button::after {
     margin-left: 65px;
 }
 .onglet{
-    font-size: 1.5em;
+    font-size: 2em;
     position: absolute;
-    margin : 50px;
-    margin-left: 27.5%;
+    margin : 125px;
+    margin-left: 25%;
     font-family: 'Bebas Neue', cursive;
 }
-div .histoire{
-    margin: 0 auto;
-    width: 600px;
+
+.fond{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 50%;
 }
 
 .histoire{
-    display: none;
-    font-size: 1.8em;
+    margin: -1550px auto 570px auto;
+    width: 600px;
+    font-size: 2em;
     padding: 150px;
     text-align: center;
     font-family: 'Merriweather', serif;
+}
+#skill{
+    display: none;
+}
+.gameplay{
+    display: none;
+}
+.graphismes{
+    display: none;
 }
 .separationBas {
     background: linear-gradient(#7a5b1b, #CD9734, black);
