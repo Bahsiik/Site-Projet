@@ -14,7 +14,7 @@
     justify-content: space-evenly;
     align-items: center;
 }
-.logoban {
+.logoBan {
     width: 200px;
 }
 .separationHaut {
@@ -42,7 +42,7 @@ button, button::after {
 
 .bandeau .btn:before {
     content: '';
-    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
+    background: linear-gradient(45deg, #01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
     position: absolute;
     top: -2px;
     left:-2px;
