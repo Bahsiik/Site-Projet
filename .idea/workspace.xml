@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/ChampionList_ahri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Akali/ChampionList_akali.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixedHeaderAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headerAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/headerAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aastrox.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aastrox.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/AatroxE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/AatroxQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/AatroxR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxW.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/AatroxW.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_Passive.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_Passive.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/RiotX_ChampionList_aatrox.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/ChampionList_aatrox.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/listeChampions.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,15 +32,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23dVEnAFPh35IgwUx1HoCFTV2jm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,8 +76,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642063843364</updated>
-      <workItem from="1642063846495" duration="5858000" />
+      <workItem from="1642063846495" duration="14803000" />
     </task>
+    <task id="LOCAL-00001" summary="Début page Liste des Champions">
+      <created>1642071027886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642071027886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +101,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Début page Liste des Champions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Début page Liste des Champions" />
   </component>
 </project>

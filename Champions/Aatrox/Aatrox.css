@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather:ital,wght@1,300&family=Roboto:wght@300;400;700&display=swap');
+@import "../../Style/headerAndFooter.css";
 
 * {
     padding: 0;
     margin: 0;
 }
-
-
-
 
 .separationHaut {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);

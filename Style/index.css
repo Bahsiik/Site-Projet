@@ -48,7 +48,7 @@
     margin: auto;
     border: #CD9734 solid 3px;
     border-radius: 1%;
-    transition: transform 0.2s ease-in-out 0.1s, box-shadow 0.2s ease-out;
+    transition: transform 0.2s ease-in-out 0.05s, box-shadow 0.2s ease-out 0.05s;
 }
 
 /* Style the button and place it in the middle of the container/image */
@@ -65,20 +65,23 @@
     cursor: pointer;
     color: white;
     -webkit-text-stroke: 1px black;
-    transition: transform 0.2s ease-in-out 0.1s;
+    transition: transform 0.2s ease-in-out 0.05s;
+    text-decoration: none;
 }
 
 .container .btn:hover + .fond {
     transform: scale(1.1);
     box-shadow: #CD9734 0 0 40px;
+    text-decoration: none;
 }
 
 .container .btn:hover {
-    transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s, text-shadow 0.2s ease-out;
+    transition: color 0.2s ease-out 0.05s, transform 0.2s ease-in-out 0.05s, text-shadow 0.2s ease-out 0.05s;
     transform: translate(-50%, -50%) scale(1.1);
     -ms-transform: translate(-50%, -50%);
     color: #CD9734;
     text-shadow: #CD9734 0 0 15px;
+    text-decoration: none;
 }
 
 
