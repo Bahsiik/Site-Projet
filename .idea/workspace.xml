@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+    <list default="true" id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixedHeaderAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headerAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/headerAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,5 +66,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -7,9 +7,6 @@
     margin: 0;
 }
 
-
-
-
 .separationHaut {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
@@ -91,6 +88,7 @@ body{
     background-color: black;
 }
 .histoire{
+    /*display: none;*/
     margin: -1550px auto 570px auto;
     width: 600px;
     font-size: 2em;
@@ -101,13 +99,91 @@ body{
 }
 #skill{
     display: none;
+    /*display: flex;*/
     margin: -1450px auto 570px auto;
     justify-content: space-evenly;
     align-items: center;
 }
+#passif{
+    display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -550px auto 820px auto;
+    width: 600px;
+    padding: 150px;
+    font-size: 2em;
+}
+#A{
+    display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -550px auto 100px auto;
+    width: 700px;
+    padding: 150px;
+    font-size: 2em;
+}
+#Z{
+    display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -550px auto 625px auto;
+    width: 600px;
+    padding: 150px;
+    font-size: 2em;
+}
+#E{
+    display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -550px auto 860px auto;
+    width: 600px;
+    padding: 150px;
+    font-size: 2em;
+}
+#R{
+    display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -550px auto 550px auto;
+    width: 650px;
+    padding: 150px;
+    font-size: 2em;
+}
 .gameplay{
     display: none;
+    /*display: flex;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+    margin: -600px auto 625px auto;
+    width: 800px;
+    padding: 150px;
+    font-size: 2em;
+}
+#visio{
+    display: none;
+    /*display: flex;*/
+    margin : -675px auto 100px auto;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .graphismes{
     display: none;
+}
+
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 200% 0; }
+    100% { background-position: 400% 0; }
 }
