@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+@import "fixedHeaderAndFooter.css";
+
+* {
+    box-sizing: revert;
+}
+
+.separationHaut {
+    background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
+    height: 10px;
+}
+
+.fond {
+    height: 100vh;
+    background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background-size: 400%;
+    animation: glowing 30s linear infinite;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 200% 0; }
+    100% { background-position: 400% 0; }
+}
+
+.listes {
+    padding-top: 50px;
+    margin: auto;
+    height: 500px;
+    width: 80vw;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+}
+
+.champion img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.champion {
+    border: #CD9734 solid 3px;
+    border-radius: 1%;
+    background-color: #CD9734;
+    text-decoration: none;
+}

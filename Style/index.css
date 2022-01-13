@@ -1,14 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+@import "fixedHeaderAndFooter.css";
 
 * {
     padding: 0;
     margin: 0;
 }
 
-body {
+.fond {
     background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
     animation: glowing 30s linear infinite;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 200% 0; }
+    100% { background-position: 400% 0; }
 }
 
 .separationHaut {
@@ -72,12 +79,6 @@ body {
     -ms-transform: translate(-50%, -50%);
     color: #CD9734;
     text-shadow: #CD9734 0 0 15px;
-}
-
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 200% 0; }
-    100% { background-position: 400% 0; }
 }
 
 

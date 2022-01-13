@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="3a3a9daf-29b7-4b33-8af5-9e264e8096fb" name="Changes" comment="" />
-=======
-<<<<<<< HEAD
-    <list default="true" id="899fd120-8178-4ee0-b4eb-a90b0fbad8c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/WireFrame.bmpr" beforeDir="false" afterPath="$PROJECT_DIR$/WireFrame.bmpr" afterDir="false" />
-=======
-    <list default="true" id="3a3a9daf-29b7-4b33-8af5-9e264e8096fb" name="Changes" comment="">
+    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> b92c7dbb461963827e2cbd1263d38ee93e04e9e6
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixedHeaderAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/headerAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/headerAndFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
->>>>>>> 225e073b918d86e3579de152418b7f3357c6a5ff
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,52 +25,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="21MDfzViK8k70em1h8pZwFGyL5Q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
-  <component name="ProjectId" id="21MD3abbWLVZw3uYsuXm80ZMGmj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
->>>>>>> b92c7dbb461963827e2cbd1263d38ee93e04e9e6
+  <component name="ProjectId" id="23dVEnAFPh35IgwUx1HoCFTV2jm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omist\Documents\CoursHTML\ProjetSite\Style" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="899fd120-8178-4ee0-b4eb-a90b0fbad8c4" name="Changes" comment="" />
-      <created>1637742169923</created>
+      <changelist id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
+      <created>1642063843364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1637742169923</updated>
-      <workItem from="1637742171113" duration="706000" />
-      <workItem from="1637742887728" duration="1388000" />
-      <workItem from="1637767190569" duration="788000" />
-=======
-      <updated>1637741864838</updated>
-      <workItem from="1637741865981" duration="5859000" />
-<<<<<<< HEAD
-      <workItem from="1637828269174" duration="310000" />
-=======
->>>>>>> b92c7dbb461963827e2cbd1263d38ee93e04e9e6
->>>>>>> 225e073b918d86e3579de152418b7f3357c6a5ff
+      <updated>1642063843364</updated>
+      <workItem from="1642063846495" duration="5858000" />
     </task>
     <servers />
   </component>
@@ -86,9 +74,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
