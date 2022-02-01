@@ -7,36 +7,170 @@
     margin: 0;
 }
 
+body{
+    background-color: black;
+}
+
 .separationHaut {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
+}
+
+
+.onglet{
+    background-image: url("../../Champions/Aastrox/RiotX_ChampionList_aatrox.jpg");
+    background-size: cover;
+    z-index: 1;
+    font-size: 2em;
+    /*position: absolute;*/
+    display: flex;
+    margin: 0 auto;
+    padding-top: 10%;
+    padding-bottom: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .separationBas {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
 }
+.histoire{
+    display: flex;
+    margin: 5% auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 1em;
+}
+
+#ModGam{
+    margin-top: 22%;
+}
+#passif{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 1em;
+}
+#opentab1:checked ~ .tab-list .tab1 {
+    margin-top: 40%;
+    width: 700px;
+    text-align: center;
+    transform:translateX(0%);
+    opacity:1;
+}
+
+#A{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 0.55em;
+}
+#opentab2:checked ~ .tab-list .tab2 {
+    margin-top: 32%;
+    width: 700px;
+    text-align: center;
+    transform:translateX(0%);
+    opacity:1;
+}
+
+#Z{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 1em;
+}
+#opentab3:checked ~ .tab-list .tab3 {
+    margin-top: 32%;
+    width: 700px;
+    text-align: center;
+    transform:translateX(0%);
+    opacity:1;
+}
+
+#E{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 1em;
+}
+#opentab4:checked ~ .tab-list .tab4 {
+    margin-top: 40%;
+    width: 700px;
+    text-align: center;
+    transform:translateX(0%);
+    opacity:1;
+}
+
+#R{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 0.7em;
+}
+#opentab5:checked ~ .tab-list .tab5 {
+    margin-top: 35%;
+    width: 700px;
+    text-align: center;
+    transform:translateX(0%);
+    opacity:1;
+}
+
+.gameplay{
+    display: flex;
+    margin: 2% auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 0.6em;
+}
+#visio{
+    display: flex;
+    margin: 0 auto;
+    padding-top: 2%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.graphismes{
+    display: none;
+}
 
 .wrapper {
-    /*height: 100vh;*/
     /* This part is important for centering the content */
-    /*display: none;*/
     display: flex;
     margin: 0 auto;
     justify-content: space-evenly;
     align-items: center;
     /* End center */
-    background: -webkit-linear-gradient(to right, #834d9b, #d04ed6);
-    background: linear-gradient(to right, #834d9b, #d04ed6);
 }
 
 .wrapper a {
-font-size: 1.5em;
+    font-size: 1.5em;
     display: inline-block;
     text-decoration: none;
     padding: 15px;
     background-color: #fff;
-    border-radius: 3px;
+    border-radius: 45%;
     text-transform: uppercase;
     color: #585858;
     font-family: 'Roboto', sans-serif;
@@ -64,29 +198,11 @@ font-size: 1.5em;
     opacity: 1;
 }
 
-.modal__content {
-    margin-top: 50%;
-    text-align: center;
-    border-radius: 4px;
-    position: relative;
-    width: 900px;
-    max-width: 80%;
-    background: #fff;
-    padding: 1em 2em;
-}
-
 a {
     color: #585858;
 }
 i {
     color: #d02d2c;
-}
-.modal__close {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    color: #585858;
-    text-decoration: none;
 }
 #modal-tabbed{
     position: absolute;
@@ -99,6 +215,7 @@ i {
     justify-content: center;
 }
 .modal-content {
+    text-align: center;
     margin-top: 100%;
     position:relative;
     left:0;
@@ -114,6 +231,8 @@ i {
     opacity:0;
     padding: 1em 2em;
 }
+
+
 .modal:target .modal-content {
     transform:translate(0%, -50%);
     transition:all .01s ease-in-out;
@@ -150,11 +269,7 @@ i {
 .modal-area {
     padding:20px;
 }
-.modal-area #titre{
-    font-size: 1.5em;
-    text-align: center;
-    text-shadow: 1px 1px black;
-}
+
 .modal-area input[type="radio"] {
     display:none;
 }
@@ -200,54 +315,7 @@ i {
     height:150px;
     perspective:1000;
 }
-#opentab1:checked ~ .tab-list .tab1 {
-    margin-top: 40%;
-    width: 700px;
-    text-align: center;
-    font-size: 0.5em;
-    transform:translateX(0%);
-    opacity:1;
-}
-#opentab2:checked ~ .tab-list .tab2 {
-    margin-top: 40%;
-    width: 700px;
 
-    text-align: center;
-    font-size: 0.5em;
-
-    transform:translateX(0%);
-    opacity:1;
-}
-#opentab3:checked ~ .tab-list .tab3 {
-    margin-top: 40%;
-    width: 700px;
-
-    text-align: center;
-    font-size: 0.5em;
-
-    transform:translateX(0%);
-    opacity:1;
-}
-#opentab4:checked ~ .tab-list .tab4 {
-    margin-top: 40%;
-    width: 700px;
-
-    text-align: center;
-    font-size: 0.5em;
-
-    transform:translateX(0%);
-    opacity:1;
-}
-#opentab5:checked ~ .tab-list .tab5 {
-    margin-top: 40%;
-    width: 700px;
-
-    text-align: center;
-    font-size: 0.5em;
-
-    transform:translateX(0%);
-    opacity:1;
-}
 /*
 button, button::after {
     font-size: 36px;
@@ -284,115 +352,8 @@ button, button::after {
 }
 
 
-.onglet{
-    background-image: url("../../Champions/Aastrox/RiotX_ChampionList_aatrox.jpg");
-    background-size: cover;
-    z-index: 1;
-    font-size: 2em;
-    /*position: absolute;*/
-    display: flex;
-    margin: 0 auto;
-    padding-top: 10%;
-    padding-bottom: 100%;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Bebas Neue', cursive;
-}
-
-.fond{
-    width: 100%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    opacity: 40%;
-}
-body{
-    background-color: black;
-}
-.histoire{
-    display: flex;
-    margin: 5% auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-#skill{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-}
-#passif{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-#A{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-#Z{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-#E{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-#R{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 1em;
-}
-.gameplay{
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    align-items: center;
-    font-family: 'Merriweather', serif;
-    color: black;
-    font-size: 0.6em;
-}
-#visio{
-    display: flex;
-    margin: 0 auto;
-    padding-top: 2%;
-    justify-content: space-evenly;
-    align-items: center;
-}
-.graphismes{
-    display: none;
-}
-
-
 @keyframes glowing {
     0% { background-position: 0 0; }
     50% { background-position: 200% 0; }
     100% { background-position: 400% 0; }
 }
-
