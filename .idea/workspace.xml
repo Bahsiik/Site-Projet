@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test_modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test_modal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aastrox.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aastrox.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/~$astrox.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,9 +41,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -44,12 +61,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
+      <changelist id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="" />
       <created>1642063843364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642063843364</updated>
       <workItem from="1642063846495" duration="5858000" />
+      <workItem from="1643617077736" duration="2000" />
+      <workItem from="1643617478433" duration="8000" />
+      <workItem from="1643654442080" duration="12410000" />
+      <workItem from="1643675356399" duration="10773000" />
     </task>
     <servers />
   </component>
