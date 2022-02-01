@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test_modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/test_modal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aastrox.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aastrox.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/~$astrox.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/test2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +46,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -70,7 +67,7 @@
       <workItem from="1643617077736" duration="2000" />
       <workItem from="1643617478433" duration="8000" />
       <workItem from="1643654442080" duration="12410000" />
-      <workItem from="1643675356399" duration="10773000" />
+      <workItem from="1643675356399" duration="21327000" />
     </task>
     <servers />
   </component>

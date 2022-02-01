@@ -27,44 +27,43 @@
             <a id="hist" href="#ModHistoire" data-toggle="modal">Histoire</a>
         </div>
         <div id="ModHistoire" class="modal">
-            <div class="modal__content">
-                <h1>Histoire</h1>
+            <div class="modal-content">
+                <a href="#" class="modal-close" title="Close Modal">X</a>
+                <h3>Histoire</h3>
                 <p class="histoire">
                     Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des siècles d'emprisonnement, Aatrox fut le premier à retrouver sa liberté, en corrompant et transformant les mortels assez stupides pour tenter de s'emparer de l'arme magique qui contenait son essence. Désormais en possession d'un corps qu'il a approximativement transformé pour rappeler son ancienne forme, il arpente Runeterra en cherchant à assouvir sa vengeance apocalyptique.
                 </p>
-                <a href="#" class="modal__close">&times;</a>
             </div>
         </div>
 <!--        Skills          -->
         <div class="wrapper">
-            <a id="comp" href="#ModComp" data-toggle="modal">Compétences</a>
+            <a id="comp" href="#modal-tabbed" data-toggle="modal">Compétences</a>
         </div>
-        <div id="ModComp" class="modal">
-            <div class="modal__content">
-                <h1>Compétences</h1>
-                <p class="comp">
-                <div id="skill">
-                    <!--Passif-->
-                    <div class="wrapper">
-                        <a href="#demo-modalP" data-toggle="modal"><img src="../../Champions/Aastrox/Aatrox_Passive.png" alt=""></a>
-                    </div>
-                    <div id="demo-modalP" class="modal">
-                        <div class="modal__content">
+        <div class="modal" id="modal-tabbed">
+            <div class="modal-content">
+                <a href="#" class="modal-close" title="Close Modal">X</a>
+                <h3>Compétences</h3>
+                <div class="modal-area">
+                    <br>
+                    <input id="opentab1" type="radio" name="modaltabs" checked="checked"/>
+                    <label for="opentab1"><img src="../../Champions/Aastrox/Aatrox_Passive.png" alt=""></label>
+                    <input id="opentab2" type="radio" name="modaltabs"/>
+                    <label for="opentab2"><img src="../../Champions/Aastrox/AatroxQ.png" alt=""></label>
+                    <input id="opentab3" type="radio" name="modaltabs"/>
+                    <label for="opentab3"><img src="../../Champions/Aastrox/AatroxW.png" alt=""></label>
+                    <input id="opentab4" type="radio" name="modaltabs"/>
+                    <label for="opentab4"><img src="../../Champions/Aastrox/AatroxE.png" alt=""></label>
+                    <input id="opentab5" type="radio" name="modaltabs"/>
+                    <label for="opentab5"><img src="../../Champions/Aastrox/AatroxR.png" alt=""></label>
+                    <ul class="tab-list">
+                        <li class="modal-tab tab1">
                             <h1>Passif</h1>
                             <p id="passif">
                                 Régulièrement, la prochaine attaque de base d'Aatrox inflige des dégâts physiques supplémentaires et le soigne, selon un pourcentage des PV max de la cible.
                                 <br>CoolDown : 24s-0.7/lvl
-                            </p>
-                            <a href="#" class="modal__close">&times;</a>
-                        </div>
-                    </div>
-                    <!--A-->
-                    <div class="wrapper">
-                        <a href="#demo-modalA" data-toggle="modal"><img src="../../Champions/Aastrox/AatroxQ.png" alt=""></a>
-                    </div>
-                    <div id="demo-modalA" class="modal">
-                        <div class="modal__content">
-                            <h1>Passif</h1>
+                            </p></li>
+                        <li class="modal-tab tab2">
+                            <h1>A</h1>
                             <p id="A">
                                 Aatrox abat son épée devant lui, infligeant des dégâts physiques. Il peut frapper jusqu'à 3 fois et chaque coup a une zone d'effet différente.
                                 <br>
@@ -84,47 +83,26 @@
                                 <br>Dégâts physiques : 56.25-506.25 (+20/amélioration)
                                 <br>Zone de prédilection : +337.5-450%AD (+7.5%/amélioration)
                             </p>
-                            <a href="#" class="modal__close">&times;</a>
-                        </div>
-                    </div>
-                    <!--Z-->
-                    <div class="wrapper">
-                        <a href="#demo-modalZ" data-toggle="modal"><img src="../../Champions/Aastrox/AatroxW.png" alt=""></a>
-                    </div>
-                    <div id="demo-modalZ" class="modal">
-                        <div class="modal__content">
-                            <h1>Passif</h1>
+                        </li>
+                        <li class="modal-tab tab3">
+                            <h1>Z</h1>
                             <p id="Z">
                                 Aatrox frappe le sol, blessant le premier ennemi touché. Les champions et les grands monstres doivent vite quitter la zone d'effet sous peine d'être ramenés de force au point d'impact et de subir à nouveau les dégâts.
                                 <br>
                                 <br>Dommage physique : 30 / 40 / 50 / 60 / 70 (+ 40% AD)
                                 <br>Dommage total : 60 / 80 / 100 / 120 / 140 (+ 80% AD)
                             </p>
-                            <a href="#" class="modal__close">&times;</a>
-                        </div>
-                    </div>
-                    <!--E-->
-                    <div class="wrapper">
-                        <a href="#demo-modalE" data-toggle="modal"><img src="../../Champions/Aastrox/AatroxE.png" alt=""></a>
-                    </div>
-                    <div id="demo-modalE" class="modal">
-                        <div class="modal__content">
-                            <h1>Passif</h1>
+                        </li>
+                        <li class="modal-tab tab4">
+                            <h1>E</h1>
                             <p id="E">
                                 Passivement, Aatrox se soigne quand il blesse des champions ennemis. À l'activation, il se rue dans une direction.
                                 <br>
                                 <br>Soin :20 / 22.5 / 25 / 27.5 / 30%
                             </p>
-                            <a href="#" class="modal__close">&times;</a>
-                        </div>
-                    </div>
-                    <!--R-->
-                    <div class="wrapper">
-                        <a href="#demo-modalR" data-toggle="modal"><img src="../../Champions/Aastrox/AatroxR.png" alt=""></a>
-                    </div>
-                    <div id="demo-modalR" class="modal">
-                        <div class="modal__content">
-                            <h1>Passif</h1>
+                        </li>
+                        <li class="modal-tab tab5">
+                            <h1>R</h1>
                             <p id="R">
                                 Aatrox libère sa forme démoniaque, effrayant les sbires ennemis proches et augmentant ses dégâts d'attaque, ses soins et sa vitesse de déplacement. La durée est prolongée s'il participe à l'élimination d'un champion ennemi.
                                 <br>
@@ -137,12 +115,10 @@
                                 <br>AUGMENTATION SOIN:
                                 30 / 45 / 60%
                             </p>
-                            <a href="#" class="modal__close">&times;</a>
-                        </div>
-                    </div>
+                        </li>
+
+                    </ul>
                 </div>
-                </p>
-                <a href="#" class="modal__close">&times;</a>
             </div>
         </div>
 <!--        Gameplay           -->
@@ -150,8 +126,9 @@
             <a id="game" href="#ModGam" data-toggle="modal">Gameplay</a>
         </div>
         <div id="ModGam" class="modal">
-            <div class="modal__content">
-                <h1>Gameplay</h1>
+            <div class="modal-content">
+                <a href="#" class="modal-close" title="Close Modal">X</a>
+                <h3>Gameplay</h3>
                 <p class="gameplay">
                     Evolutions Stats
                     <br>
@@ -187,7 +164,6 @@
 
                 </div>
                 </p>
-                <a href="#" class="modal__close">&times;</a>
             </div>
         </div>
 <!--        Graphismes          -->
@@ -195,12 +171,12 @@
             <a id="graph" href="">Graphismes</a>
         </div>
         <div id="ModGraph" class="modal">
-            <div class="modal__content">
-                <h1>Skin</h1>
+            <div class="modal-content">
+                <a href="#" class="modal-close" title="Close Modal">X</a>
+                <h3>Skin</h3>
                 <p class="graphismes">
 
                 </p>
-                <a href="#" class="modal__close">&times;</a>
             </div>
         </div>
     </div>

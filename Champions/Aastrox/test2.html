@@ -7,30 +7,86 @@
 </head>
 <body>
 
-<a class="modal-open" href="#modal-tabbed">Click To Open Tabbed Modal</a>
+<a class="modal-open" href="#modal-tabbed">Compétences</a>
 
 <div class="modal" id="modal-tabbed">
   <div class="modal-content">
     <a href="#" class="modal-close" title="Close Modal">X</a>
     <h3>Modal Title</h3>
     <div class="modal-area">
-      <p>Compétences</p>
+      <p id="titre">Compétences</p>
+      <br>
       <input id="opentab1" type="radio" name="modaltabs" checked="checked"/>
-      <label for="opentab1">Tab 1</label>
+      <label for="opentab1"><img src="../../Champions/Aastrox/Aatrox_Passive.png" alt=""></label>
       <input id="opentab2" type="radio" name="modaltabs"/>
-      <label for="opentab2">Tab 2</label>
+      <label for="opentab2"><img src="../../Champions/Aastrox/AatroxQ.png" alt=""></label>
       <input id="opentab3" type="radio" name="modaltabs"/>
-      <label for="opentab3">Tab 3</label>
+      <label for="opentab3"><img src="../../Champions/Aastrox/AatroxW.png" alt=""></label>
       <input id="opentab4" type="radio" name="modaltabs"/>
-      <label for="opentab4">Tab 4</label>
+      <label for="opentab4"><img src="../../Champions/Aastrox/AatroxE.png" alt=""></label>
       <input id="opentab5" type="radio" name="modaltabs"/>
-      <label for="opentab5">Tab 5</label>
+      <label for="opentab5"><img src="../../Champions/Aastrox/AatroxR.png" alt=""></label>
       <ul class="tab-list">
-        <li class="modal-tab tab1"><p>Tab 1 Content</p></li>
-        <li class="modal-tab tab2"><p>Tab 2 Content</p></li>
-        <li class="modal-tab tab3"><p>Tab 3 Content</p></li>
-        <li class="modal-tab tab4"><p>Tab 4 Content</p></li>
-        <li class="modal-tab tab5"><p>Tab 5 Content</p></li>
+        <li class="modal-tab tab1">
+          <h1>Passif</h1>
+          <p id="passif">
+            Régulièrement, la prochaine attaque de base d'Aatrox inflige des dégâts physiques supplémentaires et le soigne, selon un pourcentage des PV max de la cible.
+            <br>CoolDown : 24s-0.7/lvl
+          </p></li>
+        <li class="modal-tab tab2">
+          <h1>A</h1>
+          <p id="A">
+            Aatrox abat son épée devant lui, infligeant des dégâts physiques. Il peut frapper jusqu'à 3 fois et chaque coup a une zone d'effet différente.
+            <br>
+            <br>1er lancement :
+            <br>Dégâts physiques : 10-90 (+20/amélioration)
+            Zone de prédilection : +90-120%AD (+7.5%/amélioration)
+            <br>
+            <br>2e lancement :
+            <br>Dégâts physiques : 18.75-168.75 (+37.5/amélioration)
+            Zone de prédilection : +112.5-150%AD (9.375%/amélioration)
+            <br>
+            <br>3e lancement :
+            <br>Dégâts physiques : 15-135 (+20/amélioration)
+            Zone de prédilection : +90-120%AD (+7.5%/amélioration)
+            <br>
+            <br>Max dégâts hors sbire :
+            <br>Dégâts physiques : 56.25-506.25 (+20/amélioration)
+            <br>Zone de prédilection : +337.5-450%AD (+7.5%/amélioration)
+          </p>
+        </li>
+        <li class="modal-tab tab3">
+          <h1>Z</h1>
+          <p id="Z">
+            Aatrox frappe le sol, blessant le premier ennemi touché. Les champions et les grands monstres doivent vite quitter la zone d'effet sous peine d'être ramenés de force au point d'impact et de subir à nouveau les dégâts.
+            <br>
+            <br>Dommage physique : 30 / 40 / 50 / 60 / 70 (+ 40% AD)
+            <br>Dommage total : 60 / 80 / 100 / 120 / 140 (+ 80% AD)
+          </p>
+        </li>
+        <li class="modal-tab tab4">
+          <h1>E</h1>
+          <p id="E">
+            Passivement, Aatrox se soigne quand il blesse des champions ennemis. À l'activation, il se rue dans une direction.
+            <br>
+            <br>Soin :20 / 22.5 / 25 / 27.5 / 30%
+          </p>
+        </li>
+        <li class="modal-tab tab5">
+          <h1>R</h1>
+          <p id="R">
+            Aatrox libère sa forme démoniaque, effrayant les sbires ennemis proches et augmentant ses dégâts d'attaque, ses soins et sa vitesse de déplacement. La durée est prolongée s'il participe à l'élimination d'un champion ennemi.
+            <br>
+            <br>BONUS VITESSE MOUVEMENT:
+            <BR>60 / 80 / 100%
+            <br>
+            <br>    BONUS AD:
+            20 / 30 / 40% AD
+            <br>
+            <br>AUGMENTATION SOIN:
+            30 / 45 / 60%
+          </p>
+        </li>
 
       </ul>
     </div>
