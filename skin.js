@@ -1,0 +1,34 @@
+document.addEventListener("DOMContentLoaded", () => {
+    fetch("api/liste.json").then((response) =>
+        response.json().then(fetchApiDone)
+    );
+});
+
+const fetchApiDone = (json) => {
+    const divCarrou = document.getElementById("carrou");
+    // console.log("json: ", json)
+    json.forEach((champion) => {
+        console.log("champion: ", champion)
+        console.log("champion.name: ", champion.name)
+        console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
+
+        if(champion.name === "Akali"){
+
+            for(let i=0;i < champion[champion.name].totalSkin; i++){
+                console.log("Test i",i)
+                let divCarrousel = document.createElement("div");
+                if(i == 0)
+                    divCarrousel.className = "carousel-item active";
+                else
+                    divCarrousel.className = "carousel-item";
+                divCarrou.appendChild(divCarrousel);
+
+                let imgCarrousel = document.createElement("img");
+                imgCarrousel.className = "d-block w-100";
+                imgCarrousel.src = "Images/Skin/"+champion.name+"_"+i+"Skin.jpg";
+                divCarrousel.appendChild(imgCarrousel);
+            }
+        }
+    });
+};
+

@@ -1,12 +1,3 @@
-const divChampion = `
-    <div class="champion">
-        <a href="Champions/__name__/Aatrox.html">
-            <img src="Champions/akali/ChampionList_akali.jpg" alt="champion___name__"/>
-            __name__
-        </a>
-    </div>`
-;
-console.log("js")
 document.addEventListener("DOMContentLoaded", () => {
     fetch("api/liste.json").then((response) =>
         response.json().then(fetchApiDone)
@@ -15,13 +6,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const fetchApiDone = (json) => {
     const divList = document.getElementById("list");
-    console.log("json: ", json)
+    // console.log("json: ", json)
     json.forEach((champion) => {
-        console.log("champion: ", champion)
-        console.log("champion.name: ", champion.name)
+        /*console.log("champion: ", champion)
+        console.log("champion.name: ", champion.name)*/
 
         let divChampion = document.createElement("div");
         divChampion.className = "champion";
+        divChampion.id = champion.name;
         divList.appendChild(divChampion);
 
         let aChampion = document.createElement("a");

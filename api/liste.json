@@ -1,9 +1,21 @@
 [
   {
-    "name": "Aatrox"
+    "name": "Aatrox",
+    "Aatrox": {
+      "story": "Story_Aatrox",
+      "skills": ["Comp_Aatrox"],
+      "gameplay": "Gam_Aatrox",
+      "totalSkin": 8
+    }
   },
   {
-    "name": "Akali"
+    "name": "Akali",
+    "Akali": {
+      "story": "Story_Akali",
+      "skills": ["Comp_Akali"],
+      "gameplay": "Gam_Akali",
+      "totalSkin": 15
+    }
   },
   {
     "name": "Ahri"

@@ -5,17 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/ChampionList_aatrox.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Style.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_7Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_0Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_10Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_11Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_12Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_13Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_14Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_1Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_2Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_3Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_4Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_5Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_6Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_7Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_8Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Akali_9Skin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_graph.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_BloodMoonSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_0Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_JusticarSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_1Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_MechaSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_2Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_OdysseySkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_3Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_OriginalSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_4Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_SeaHunterSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_5Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_VictoriousSkin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_6Skin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_All-StarSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_BloodMoonSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_CrimeCityNightmareSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_HeadhunterSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_InfernalSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_KDAALLOUTSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_KDASkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_NurseSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_OriginalSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_PROJECTSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_PrestigeKDASkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_SashimiSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_SilverfangSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_StingerSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_TrueDamageSkin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/vierge_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listeChampion.js" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +66,8 @@
         <option value="Sass File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,7 +105,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Champions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -79,18 +117,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Images" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (42)" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (41)" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (40)" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (39)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Images\Skin" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
       <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\api" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Ahri\Skin" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Gameplay" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Comp" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -108,6 +146,7 @@
       <workItem from="1643675356399" duration="21327000" />
       <workItem from="1643755971750" duration="23103000" />
       <workItem from="1643783371078" duration="7566000" />
+      <workItem from="1643808287471" duration="7840000" />
     </task>
     <servers />
   </component>
@@ -124,6 +163,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
