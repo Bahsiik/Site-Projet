@@ -12,7 +12,7 @@ const fetchApiDone = (json) => {
         console.log("champion.name: ", champion.name)
         console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
 
-        if(champion.name === "Akali"){
+        if(champion.name === "Aatrox"){
 
             for(let i=0;i < champion[champion.name].totalSkin; i++){
                 console.log("Test i",i)

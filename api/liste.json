@@ -3,7 +3,7 @@
     "name": "Aatrox",
     "Aatrox": {
       "story": "Story_Aatrox",
-      "skills": ["Comp_Aatrox"],
+      "skills": ["Comp_Aatrox", "2", "caca", "666", "5"],
       "gameplay": "Gam_Aatrox",
       "totalSkin": 8
     }

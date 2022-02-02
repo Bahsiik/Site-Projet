@@ -14,6 +14,7 @@ const fetchApiDone = (json) => {
         let divChampion = document.createElement("div");
         divChampion.className = "champion";
         divChampion.id = champion.name;
+        divChampion.addEventListener("click", event.target.id)
         divList.appendChild(divChampion);
 
         let aChampion = document.createElement("a");
