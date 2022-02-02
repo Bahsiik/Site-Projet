@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
         response.json().then(fetchApiDone)
     );
 });
-
+    const id_champ =  localStorage.getItem('name_champ');
 const fetchApiDone = (json) => {
     const pStory = document.getElementById("story");
     const imgOpentab1 = document.getElementById("img_opentab1");
@@ -30,7 +30,7 @@ const fetchApiDone = (json) => {
         console.log("champion.name: ", champion.name)
         console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
 console.log("img_objets", img_objets)
-        if(champion.name === "Aatrox"){
+        if(champion.name === id_champ){
             pStory.textContent = champion[champion.name].story;
             imgOpentab1.src="Images/Comp/"+champion.name+"P.png"
             imgOpentab2.src="Images/Comp/"+champion.name+"E.png"

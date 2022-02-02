@@ -13,8 +13,7 @@ const fetchApiDone = (json) => {
 
         let divChampion = document.createElement("div");
         divChampion.className = "champion";
-        divChampion.id = champion.name;
-        divChampion.addEventListener("click", event.target.id)
+        divChampion.addEventListener("click", ajout_storage(champion.name))
         divList.appendChild(divChampion);
 
         let aChampion = document.createElement("a");
@@ -27,7 +26,9 @@ const fetchApiDone = (json) => {
         imgChampion.alt = "champion_"+champion.name;
         aChampion.appendChild(imgChampion);
 
-
     });
 };
 
+function ajout_storage(id){
+    localStorage.setItem('name_champ', id);
+}

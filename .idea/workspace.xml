@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/champ_base.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Comp/AatroxE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Comp/AatroxQ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Comp/AatroxR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxW.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Comp/AatroxW.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Comp/Aatrox_Passive.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Comp/AatroxP.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/Objets.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Gameplay/Aatrox_objets.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/Sorts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Gameplay/Aatrox_sorts.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/runes.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Gameplay/Aatrox_runes.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/skills.png" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Gameplay/Aatrox_skills.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/champ_base.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listeChampion.js" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin.js" beforeDir="false" afterPath="$PROJECT_DIR$/skin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/vierge_graph.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +100,7 @@
       <workItem from="1643675356399" duration="21327000" />
       <workItem from="1643755971750" duration="23103000" />
       <workItem from="1643783371078" duration="7566000" />
-      <workItem from="1643808287471" duration="12710000" />
+      <workItem from="1643808287471" duration="14199000" />
     </task>
     <servers />
   </component>
