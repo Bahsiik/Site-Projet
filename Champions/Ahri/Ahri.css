@@ -18,13 +18,8 @@ body{
 
 
 .onglet{
-    background-image: url("../../Champions/Ahri/Skin/Ahri_OriginalSkin.jpg");
-    background-size: 300vh;
-    background-position: center;
-    background-repeat: no-repeat;
     z-index: 1;
     font-size: 2em;
-    /*position: absolute;*/
     display: flex;
     margin: 0 auto;
     padding-top: 10%;
