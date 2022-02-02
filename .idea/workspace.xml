@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_graph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_BloodMoonSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_JusticarSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_MechaSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_OdysseySkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_OriginalSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_SeaHunterSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_VictoriousSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test_modal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test_modal.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Sass File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
@@ -26,19 +47,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test/test2.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="23dVEnAFPh35IgwUx1HoCFTV2jm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Champions/Aastrox" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,7 +79,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\omist\Documents\CoursHTML\ProjetSite\Style" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\test" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +99,7 @@
       <workItem from="1643617478433" duration="8000" />
       <workItem from="1643654442080" duration="12410000" />
       <workItem from="1643675356399" duration="21327000" />
-      <workItem from="1643755971750" duration="2830000" />
+      <workItem from="1643755971750" duration="16915000" />
     </task>
     <servers />
   </component>
@@ -84,5 +117,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

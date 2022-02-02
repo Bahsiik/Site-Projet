@@ -18,7 +18,7 @@ body{
 
 
 .onglet{
-    background-image: url("../../Champions/Aastrox/Skin/Aatrox_OriginalSkin.jpg");
+    background-image: url("../../Champions//*Img_fond_champ*/");
     background-size: 300vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,6 +38,8 @@ body{
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
 }
+
+/*A modifier pour Modal Histoire*/
 .histoire{
     display: flex;
     margin: 5% auto;
@@ -48,7 +50,7 @@ body{
     font-size: 1em;
 }
 
-
+/*A modifier pour Modal Passif*/
 #passif{
     display: flex;
     margin: 0 auto;
@@ -66,6 +68,7 @@ body{
     opacity:1;
 }
 
+/*A modifier pour Modal A*/
 #A{
     display: flex;
     margin: 0 auto;
@@ -83,6 +86,7 @@ body{
     opacity:1;
 }
 
+/*A modifier pour Modal Z*/
 #Z{
     display: flex;
     margin: 0 auto;
@@ -100,6 +104,7 @@ body{
     opacity:1;
 }
 
+/*A modifier pour Modal E*/
 #E{
     display: flex;
     margin: 0 auto;
@@ -117,6 +122,7 @@ body{
     opacity:1;
 }
 
+/*A modifier pour Modal Ulti*/
 #R{
     display: flex;
     margin: 0 auto;
@@ -133,6 +139,8 @@ body{
     transform:translateX(0%);
     opacity:1;
 }
+
+/*A modifier pour Modal Gameplay*/
 #ModGam{
     margin-top: 22%;
 }
@@ -319,36 +327,6 @@ i {
     height:150px;
     perspective:1000;
 }
-
-
-/*
-button, button::after {
-    font-size: 36px;
-    font-family: 'Bebas Neue', cursive;
-    background: linear-gradient(45deg, transparent 5%, #1DA8B1 5%);
-    border: 0;
-    color: #fff;
-    letter-spacing: 3px;
-    line-height: 60px;
-    box-shadow: 6px 0px 0px #fff;
-    outline: transparent;
-    position: relative;
-}
-
-.bandeau .btn:before {
-    content: '';
-    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
-    position: absolute;
-    top: -2px;
-    left:-2px;
-    background-size: 400%;
-    z-index: -1;
-    filter: blur(5px);
-    width: calc(100% + 4px);
-    height: calc(100% + 4px);
-    animation: glowing 15s linear infinite;
-}
-*/
 
 @keyframes glowing {
     0% { background-position: 0 0; }
