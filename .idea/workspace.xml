@@ -5,29 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_BloodMoonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_JusticarSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_MechaSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_OdysseySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_SeaHunterSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aastrox/Skin/Aatrox_VictoriousSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri_graph.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Charm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Essence_Theft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Fox-Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Orb_of_Deception.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Spirit_Rush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_AcademySkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ArcadeSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ChallengerSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_CovenSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_DynastySkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ElderwoodSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_FoxfireSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDAALLOUTSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDASkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_MidnightSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_OriginalSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PopstarSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PrestigeKDASkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_SpiritBlossomSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_StarGuardianSkin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Ahri/~$ahri.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test_modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/test_modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Comp/AatroxE.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Comp/AatroxQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Comp/AatroxR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxW.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Comp/AatroxW.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_Passive.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Comp/Aatrox_Passive.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Objets.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Gameplay/Objets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/RiotX_ChampionList_aatrox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Sorts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Gameplay/Sorts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/runes.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Gameplay/runes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/skills.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Gameplay/skills.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Ahri.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +54,21 @@
       <list>
         <option value="Sass File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/test/test2.js" root0="FORCE_HIGHLIGHTING" />
@@ -79,11 +102,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Ahri\Skin" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Gameplay" />
+      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Comp" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\test" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +122,7 @@
       <workItem from="1643617478433" duration="8000" />
       <workItem from="1643654442080" duration="12410000" />
       <workItem from="1643675356399" duration="21327000" />
-      <workItem from="1643755971750" duration="16915000" />
+      <workItem from="1643755971750" duration="20103000" />
     </task>
     <servers />
   </component>
