@@ -5,254 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/Objets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/Sorts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/runes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Gameplay/skills.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_BloodMoonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_JusticarSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_MechaSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_OdysseySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_SeaHunterSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/Skin/Aatrox_VictoriousSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Ahri_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Charm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Essence_Theft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Fox-Fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Orb_of_Deception.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Comp/Ahri_Spirit_Rush.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_AcademySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ArcadeSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ChallengerSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_CovenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_DynastySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ElderwoodSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_FoxfireSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDAALLOUTSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDASkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_MidnightSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PopstarSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PrestigeKDASkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_SpiritBlossomSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_StarGuardianSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Akali.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Akali.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Akali_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Comp/Akali_Assassin27s_Mark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Comp/Akali_Five_Point_Strike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Comp/Akali_Perfect_Execution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Comp/Akali_Shuriken_Flip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Comp/Akali_Twilight_Shroud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_All-StarSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_BloodMoonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_CrimeCityNightmareSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_HeadhunterSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_InfernalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_KDAALLOUTSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_KDASkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_NurseSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_PROJECTSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_PrestigeKDASkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_SashimiSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_SilverfangSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_StingerSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akali/Skin/Akali_TrueDamageSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Akshan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Akshan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Akshan_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Avengerang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Comeuppance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Dirty_Fighting.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Going_Rogue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Heroic_Swing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_CrystalRoseSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_CyberPopSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Alistar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Alistar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Alistar_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Headbutt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Pulverize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Trample.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Triumphant_Roar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Unbreakable_Will.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_BlackSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_BlackfrostSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_ConquerorSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_GoldenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_HextechSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_InfernalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_LonghornSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_LunarBeastSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MarauderSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MatadorSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MooCowSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_SKTT1Skin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_SweeperSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_UnchainedSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Amumu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Amumu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Amumu_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Bandage_Toss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Curse_of_the_Sad_Mummy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Cursed_Touch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Despair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Tantrum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_Almost-PromKingSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_EmumuSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_HextechSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_InfernalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_LittleKnightSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PharaohSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PorcelainSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PumpkinPrinceSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_Re-GiftedSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_SadRobotSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_SurprisePartySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_VancouverSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Anivia.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Anivia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Anivia_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Comp/Crystallize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Comp/Flash_Frost.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Comp/Frostbite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Comp/Glacial_Storm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Comp/Rebirth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_BirdofPreySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_BlackfrostSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_CosmicFlightSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_DivinePhoenixSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_FestivalQueenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_HextechSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_NoxusHunterSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_PapercraftSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_PrehistoricSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_TeamSpiritSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Annie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Annie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Annie_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Comp/Disintegrate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Comp/Incinerate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Comp/Molten_Shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Comp/Pyromania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Comp/Summon-_Tibbers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_Annie-VersarySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_AnnieinWonderlandSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_CafeCutiesSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_FrankenTibbersSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_FrostfireSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_GothSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_HextechSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_LunarBeastSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_PandaSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_PromQueenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_RedRidingSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_ReverseSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_SuperGalaxySkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_SweetheartSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Aphelios.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Aphelios.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Aphelios_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Binding_Eclipse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Calibrum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Crescendum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Crescendum_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Duskwave.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Gravitum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Infernum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Moonlight_Vigil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Moonshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Onslaught.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Phase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Sentry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Severum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_The_Hitman_and_the_Seer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Weapons_of_the_Faithful.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_LunarBeastSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_NightbringerSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Ashe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Ashe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Ashe_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Enchanted_Crystal_Arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Frost_Shot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Frost_Shot_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Hawkshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Ranger27s_Focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Ranger27s_Focus_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Comp/Volley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_AmethystSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_ChampionshipSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_CosmicQueenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_CovenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_FaeDragonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_FreljordSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_HeartseekerSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_HighNoonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_MarauderSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_PROJECTSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_QueenSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_SherwoodForestSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_WoadSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Celestial_Expansion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Center_of_the_Universe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Comet_of_Legend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Starsurge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Voice_of_Light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_AshenLordSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_MechaSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_StormDragonSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Comp/Arise%21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Comp/Conquering_Sands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Comp/Emperor%27s_Divide.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Comp/Shifting_Sands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Comp/Shurima%27s_Legacy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_ElderwoodSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_GalacticSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_GravelordSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_OriginalSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_SKTT1Skin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_WarringKingdomsSkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/Vierge_champ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/vierge_graph.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listeChampion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champions/Aatrox/ChampionList_aatrox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Style.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/AatroxE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/AatroxQ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/AatroxR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/AatroxW.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/AatroxW.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_Passive.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aastrox/Aatrox_Passive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aastrox.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aastrox.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/AatroxE.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxE.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/AatroxQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxQ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/AatroxR.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxR.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/AatroxW.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Comp/AatroxW.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_Passive.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Comp/Aatrox_Passive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/ChampionList_aatrox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.js" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,11 +86,11 @@
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (39)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\api" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Ahri\Skin" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Gameplay" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Aastrox\Comp" />
       <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\test" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
