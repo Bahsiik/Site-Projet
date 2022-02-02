@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ahri</title>
+    <link rel="stylesheet" href="Ahri.css">
+    <link rel="stylesheet" href="../../Style/headerAndFooter.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="bandeau">
+    <a href="#debut"><img alt="Logo Info Runeterra" class="logo" src="../../Utilitaire/LogoBanniere.png"></a>
+    <a class="btn" href="#Champions">📒 Champions</a>
+    <a class="btn" href="#Régions">✈ Régions</a>
+    <a class="btn" href="#PatchNotes">📄 PatchNotes</a>
+    <a class="btn" href="#Actualités"># Actualités</a>
+</div>
+<div class="separationHaut"></div>
+<!--    Insertion des modals -->
+<div class="onglet">
+    <!--        Histoire        -->
+    <div class="wrapper">
+        <a id="hist" href="#ModHistoire" data-toggle="modal">Histoire</a>
+    </div>
+    <div id="ModHistoire" class="modal">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Histoire</h3>
+            <p class="histoire">
+                Connectée à la magie du royaume spirituel, Ahri est une mystérieuse Vastaya aux traits de renard qui cherche sa place dans le monde. Devenue malgré elle une prédatrice dotée d'empathie en découvrant les humains, elle préfère manipuler les émotions de sa proie avant de s'emparer de son essence vitale. Elle reçoit ainsi des fragments de souvenirs et un aperçu de chaque âme qu'elle consume.
+            </p>
+        </div>
+    </div>
+    <!--        Skills          -->
+    <div class="wrapper">
+        <a id="comp" href="#modal-tabbed" data-toggle="modal">Compétences</a>
+    </div>
+    <div class="modal" id="modal-tabbed">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Compétences</h3>
+            <div class="modal-area">
+                <br>
+                <input id="opentab1" type="radio" name="modaltabs" checked="checked"/>
+                <label for="opentab1"><img src="../../Champions/Ahri/Comp/Ahri_Essence_Theft.png" alt=""></label>
+                <input id="opentab2" type="radio" name="modaltabs"/>
+                <label for="opentab2"><img src="../../Champions/Ahri/Comp/Ahri_Orb_of_Deception.png" alt=""></label>
+                <input id="opentab3" type="radio" name="modaltabs"/>
+                <label for="opentab3"><img src="../../Champions/Ahri/Comp/Ahri_Fox-Fire.png" alt=""></label>
+                <input id="opentab4" type="radio" name="modaltabs"/>
+                <label for="opentab4"><img src="../../Champions/Ahri/Comp/Ahri_Charm.png" alt=""></label>
+                <input id="opentab5" type="radio" name="modaltabs"/>
+                <label for="opentab5"><img src="../../Champions/Ahri/Comp/Ahri_Spirit_Rush.png" alt=""></label>
+                <ul class="tab-list">
+                    <li class="modal-tab tab1">
+                        <h2>Passif</h2>
+                        <br>
+                        <p id="passif">
+                            Quand Ahri frappe ses ennemis 9 fois avec ses compétences, sa prochaine compétence lui rend aussi des PV pour chaque ennemi touché. Et consomme ls stacks si au moins un ennemi est touché
+                            <br>(Lvl) 1 : 3 / 6 : 5 / 11 : 9 / 16 : 18
+                        </p>
+                    </li>
+                    <li class="modal-tab tab2">
+                        <h2>A</h2>
+                        <br>
+                        <p id="A">
+                            Ahri lance son orbe et le ramène vers elle, infligeant des dégâts magiques à l'aller et des dégâts bruts au retour.
+                            <br>40 / 65 / 90 / 115 / 140 (+ 35% AP)
+                        </p>
+                    </li>
+                    <li class="modal-tab tab3">
+                        <h2>Z</h2>
+                        <br>
+                        <p id="Z">
+                            Ahri gagne un bref bonus en vitesse de déplacement et libère trois lucioles qui verrouillent et attaquent les ennemis proches.
+                            <br>Magic damage : 40 / 65 / 90 / 115 / 140 (+ 30% AP)
+                            <br>Additional ; 12 / 19.5 / 27 / 34.5 / 42 (+ 9% AP)
+                        </p>
+                    </li>
+                    <li class="modal-tab tab4">
+                        <h2>E</h2>
+                        <br>
+                        <p id="E">
+                            Ahri envoie un baiser qui blesse et charme le premier ennemi qu'il touche, interrompant immédiatement ses compétences de déplacement et le faisant marcher docilement vers elle. Ahri inflige temporairement plus de dégâts à cette cible.
+                            <br>Magic damage(self) : 72 / 108 / 144 / 180 / 216 (+ 48% AP)
+                            <br>Disable duration : 1.4 / 1.55 / 1.7 / 1.85 / 2
+                        </p>
+                    </li>
+                    <li class="modal-tab tab5">
+                        <h2>R</h2>
+                        <br>
+                        <p id="R">
+                            Ahri se jette en avant et tire des traits spirituels, infligeant des dégâts aux ennemis proches. Assaut spirituel peut être lancé
+                            <br>Magic damage : 60 / 90 / 120 (+ 35% AP)
+                            <br>Max single target damage : 180 / 270 / 360 (+ 105% AP)
+                        </p>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--        Gameplay           -->
+    <div class="wrapper">
+        <a id="game" href="#ModGam" data-toggle="modal">Gameplay</a>
+    </div>
+    <div id="ModGam" class="modal">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Gameplay</h3>
+            <p class="gameplay">
+                <br>Astuces
+                <br>
+                Ahri n’a pas énormément de dégâts en début de partie. De même, son mana descend très rapidement. Il vous faut donc être prudent dans les premiers niveaux, mais il est également possible de surprendre votre adversaire au passage niveau 3, et l’obtention du E – Charme. Il s’agira du moment où vous devrez prendre l’avantage sur le Mid, avant de devoir attendre le niveau 6.                <br>
+                <br>Excellente pour décaler sur les différentes lanes, Ahri est un atout pour donner l’avantage à votre équipe. La mage n’est pas très efficace dans les combats groupé. Dans cet objectif, il vous faut vous placer à des endroits stratégiques lors des teamfights. Grâce à cela, vous pourrez aller chercher et tuer le carry sans qu’il ne puisse jouer.
+                <br>Plus la partie va avancer, plus Ahri sera à même de one shot les carrys. Il faut toutefois arriver à s’équiper rapidement, pour ne pas être dépassé. Vous devrez donc souvent être en splitpush pour forcer l’équipe adverse à se séparer. Profitez-en alors pour user de votre mobilité pour assassiner une cible.
+                <br>Pas de véritable astuce ici, mais n’hésitez pas à utiliser votre R – Assaut spirituel pour bien vous placer et utiliser le E-Charme.
+            <div id="visio">
+                <p>
+                    <img src="../../Champions/Gameplay/<!--Champ-->/Objets.png" alt="Objets">
+                    <img src="../../Champions/Gameplay/<!--Champ-->/skills.png" alt="skills">
+                </p>
+                <p>
+                    <img src="../../Champions/Gameplay/<!--Champ-->/Sorts.png" alt="sorts">
+                    <img src="../../Champions/Gameplay/<!--Champ-->/runes.png" alt="runes">
+                </p>
+            </div>
+            </p>
+        </div>
+    </div>
+    <!--        Graphismes          -->
+    <div class="wrapper">
+        <a id="skin" href=" Ahri_graph.html " data-toggle="modal">Graphismes</a>
+    </div>
+</div>
+
+<div class="separationBas"></div>
+<div class="footer">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, ad at aut dolore dolorum earum error facere facilis laborum nihil, quisquam sit tempora! Amet corporis fugit minus nostrum nulla quisquam repudiandae sed sit tenetur ullam. Eos expedita facere in magni nihil, quas quasi recusandae reiciendis saepe tempore veniam veritatis voluptates.</p>
+    <div class="sigle">
+        <img src="../../Utilitaire/pegi-eu.png" alt="LogoPEGI12">
+        <img src="../../Utilitaire/usk-12.png" alt="LogoUSK12">
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aphelios</title>
+    <link rel="stylesheet" href="Aphelios.css">
+    <link rel="stylesheet" href="../../Style/headerAndFooter.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="bandeau">
+    <a href="#debut"><img alt="Logo Info Runeterra" class="logo" src="../../Utilitaire/LogoBanniere.png"></a>
+    <a class="btn" href="#Champions">📒 Champions</a>
+    <a class="btn" href="#Régions">✈ Régions</a>
+    <a class="btn" href="#PatchNotes">📄 PatchNotes</a>
+    <a class="btn" href="#Actualités"># Actualités</a>
+</div>
+<div class="separationHaut"></div>
+<!--    Insertion des modals -->
+<div class="onglet">
+    <!--        Histoire        -->
+    <div class="wrapper">
+        <a id="hist" href="#ModHistoire" data-toggle="modal">Histoire</a>
+    </div>
+    <div id="ModHistoire" class="modal">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Histoire</h3>
+            <p class="histoire">
+                <!--                            Text Histoire champ                            -->
+            </p>
+        </div>
+    </div>
+    <!--        Skills          -->
+    <div class="wrapper">
+        <a id="comp" href="#modal-tabbed" data-toggle="modal">Compétences</a>
+    </div>
+    <div class="modal" id="modal-tabbed">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Compétences</h3>
+            <div class="modal-area">
+                <br>
+                <input id="opentab1" type="radio" name="modaltabs" checked="checked"/>
+                <label for="opentab1"><img src="../../Champions/Comp/<!--Img_Passif_Champ-->" alt=""></label>
+                <input id="opentab2" type="radio" name="modaltabs"/>
+                <label for="opentab2"><img src="../../Champions/Comp/<!--Img_A_Champ-->" alt=""></label>
+                <input id="opentab3" type="radio" name="modaltabs"/>
+                <label for="opentab3"><img src="../../Champions/Comp/<!--Img_Z_Champ-->" alt=""></label>
+                <input id="opentab4" type="radio" name="modaltabs"/>
+                <label for="opentab4"><img src="../../Champions/Comp/<!--Img_E_Champ-->" alt=""></label>
+                <input id="opentab5" type="radio" name="modaltabs"/>
+                <label for="opentab5"><img src="../../Champions/Comp/<!--Img_R_Champ-->" alt=""></label>
+                <ul class="tab-list">
+                    <li class="modal-tab tab1">
+                        <h2>Passif</h2>
+                        <p id="passif">
+                            <!--                            Text Passif champ                            -->
+                        </p>
+                    </li>
+                    <li class="modal-tab tab2">
+                        <h2>A</h2>
+                        <br>
+                        <p id="A">
+                            <!--                            Text A champ                            -->
+                        </p>
+                    </li>
+                    <li class="modal-tab tab3">
+                        <h2>Z</h2>
+                        <br>
+                        <p id="Z">
+                            <!--                            Text Z champ                            -->
+
+                        </p>
+                    </li>
+                    <li class="modal-tab tab4">
+                        <h2>E</h2>
+                        <br>
+                        <p id="E">
+                            <!--                            Text E champ                            -->
+                        </p>
+                    </li>
+                    <li class="modal-tab tab5">
+                        <h2>R</h2>
+                        <br>
+                        <p id="R">
+                            <!--                            Text Ulti Champ                         -->
+                        </p>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!--        Gameplay           -->
+    <div class="wrapper">
+        <a id="game" href="#ModGam" data-toggle="modal">Gameplay</a>
+    </div>
+    <div id="ModGam" class="modal">
+        <div class="modal-content">
+            <a href="#" class="modal-close" title="Close Modal">X</a>
+            <h3>Gameplay</h3>
+            <p class="gameplay">
+                <!--            Texte gameplay Champions            -->
+            <div id="visio">
+                <p>
+                    <img src="../../Champions/Gameplay/<!--Champ-->/Objets.png" alt="Objets">
+                    <img src="../../Champions/Gameplay/<!--Champ-->/skills.png" alt="skills">
+                </p>
+                <p>
+                    <img src="../../Champions/Gameplay/<!--Champ-->/Sorts.png" alt="sorts">
+                    <img src="../../Champions/Gameplay/<!--Champ-->/runes.png" alt="runes">
+                </p>
+            </div>
+            </p>
+        </div>
+    </div>
+    <!--        Graphismes          -->
+    <div class="wrapper">
+        <a id="skin" href="Aphelios_graph.html" data-toggle="modal">Graphismes</a>
+    </div>
+</div>
+
+<div class="separationBas"></div>
+<div class="footer">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, ad at aut dolore dolorum earum error facere facilis laborum nihil, quisquam sit tempora! Amet corporis fugit minus nostrum nulla quisquam repudiandae sed sit tenetur ullam. Eos expedita facere in magni nihil, quas quasi recusandae reiciendis saepe tempore veniam veritatis voluptates.</p>
+    <div class="sigle">
+        <img src="../../Utilitaire/pegi-eu.png" alt="LogoPEGI12">
+        <img src="../../Utilitaire/usk-12.png" alt="LogoUSK12">
+    </div>
+</div>
+</body>
+</html>

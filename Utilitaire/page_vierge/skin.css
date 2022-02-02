@@ -1,0 +1,46 @@
+.noselect {
+    display: flex;
+    margin: -1% auto 2% auto;
+    justify-content: space-evenly;
+    align-items: center;
+    text-transform: uppercase;
+    color: #585858;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background: white;
+    border: 2px solid black;
+    box-shadow: 5px 5px 0 black,
+    -5px -5px 0 black,
+    -5px 5px 0 black,
+    5px -5px 0 black;
+    transition: 500ms ease-in-out;
+}
+
+button:hover {
+    box-shadow: 20px 5px 0 black, -20px -5px 0 black;
+}
+
+button:focus {
+    outline: none;
+}
+
+#myCarousel{
+    width: 70%;
+    height: 20%;
+    position: relative;
+    margin: 3% auto 3% auto;
+}
+
+body{
+    background: linear-gradient(black, #7a5b1b, black);
+
+}
+
