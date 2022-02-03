@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
         response.json().then(fetchApiDone)
     );
 });
+const id_champ =  localStorage.getItem('name_champ');
+
 
 const fetchApiDone = (json) => {
     const divCarrou = document.getElementById("carrou");
@@ -12,7 +14,7 @@ const fetchApiDone = (json) => {
         console.log("champion.name: ", champion.name)
         console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
 
-        if(champion.name === "Aatrox"){
+        if(champion.name === id_champ){
 
             for(let i=0;i < champion[champion.name].totalSkin; i++){
                 console.log("Test i",i)
