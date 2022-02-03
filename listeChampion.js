@@ -13,12 +13,15 @@ const fetchApiDone = (json) => {
 
         let divChampion = document.createElement("div");
         divChampion.className = "champion";
-        divChampion.addEventListener("click", ajout_storage(champion.name))
+        divChampion.id = champion.name;
+        onclick="topList(this.id);"
+        divChampion.addEventListener("click", ajout_storage(this))
+        // divChampion.onclick=ajout_storage(this);
         divList.appendChild(divChampion);
 
         let aChampion = document.createElement("a");
         aChampion.textContent = champion.name;
-        aChampion.href = "Champions/"+champion.name+"/"+champion.name+".html"
+        aChampion.href = "Vierge_champ.html"
         divChampion.appendChild(aChampion);
 
         let imgChampion = document.createElement("img");
@@ -29,6 +32,25 @@ const fetchApiDone = (json) => {
     });
 };
 
-function ajout_storage(id){
+function ajout_storage(element){
+    console.log("id: ", element.id);
     localStorage.setItem('name_champ', id);
 }
+
+
+//Javascript
+// $(document).ready(function()
+// {
+//     $(#divChampion).click(function(event)
+//     {
+//         console.log(event.target.id); //Affiche enfantDeMaDiv
+//         console.log(this.id); //Affiche divChampion
+//     });
+// });
+// $(#divChampion).click(function(event)
+// {
+//     //Modifie l'identifiant de l'élément sur lequel l'internaute a cliqué
+//     $(event.target).attr(id, toto);
+//     //Modifie l'identifiant de l'élément auquel la fonction est liée
+//     $(this).attr(id, toto);
+// });

@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 });
     const id_champ =  localStorage.getItem('name_champ');
+    console.log("id_champ ",id_champ);
+
 const fetchApiDone = (json) => {
     const pStory = document.getElementById("story");
     const imgOpentab1 = document.getElementById("img_opentab1");

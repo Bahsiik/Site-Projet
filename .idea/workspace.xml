@@ -7,6 +7,7 @@
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/champ_base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listeChampion.js" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e25a7cef-de62-4f9d-b440-6a1ce6c500f9" name="Changes" comment="" />
+      <changelist id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
       <created>1642063843364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -100,7 +101,11 @@
       <workItem from="1643675356399" duration="21327000" />
       <workItem from="1643755971750" duration="23103000" />
       <workItem from="1643783371078" duration="7566000" />
-      <workItem from="1643808287471" duration="14199000" />
+      <workItem from="1643808287471" duration="17303000" />
+      <workItem from="1643841355063" duration="1378000" />
+      <workItem from="1643870449356" duration="1671000" />
+      <workItem from="1643875201060" duration="318000" />
+      <workItem from="1643875591760" duration="194000" />
     </task>
     <servers />
   </component>
