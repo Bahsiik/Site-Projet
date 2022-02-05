@@ -4,132 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Ahri_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Ahri_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Ahri_13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_AcademySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ArcadeSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ChallengerSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_CovenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_DynastySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_ElderwoodSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_FoxfireSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDAALLOUTSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_KDASkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_MidnightSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PopstarSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_PrestigeKDASkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_SpiritBlossomSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ahri/Skin/Ahri_StarGuardianSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_CrystalRoseSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_CyberPopSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Skin/Akshan_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_BlackSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_BlackfrostSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_ConquerorSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_GoldenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_HextechSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_InfernalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_LonghornSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_LunarBeastSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MarauderSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MatadorSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_MooCowSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_SKTT1Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_SweeperSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Skin/Alistar_UnchainedSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_Almost-PromKingSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_EmumuSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_HextechSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_InfernalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_LittleKnightSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PharaohSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PorcelainSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_PumpkinPrinceSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_Re-GiftedSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_SadRobotSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_SurprisePartySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Skin/Amumu_VancouverSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_BirdofPreySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_BlackfrostSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_CosmicFlightSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_DivinePhoenixSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_FestivalQueenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_HextechSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_NoxusHunterSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_PapercraftSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_PrehistoricSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Skin/Anivia_TeamSpiritSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_Annie-VersarySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_AnnieinWonderlandSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_CafeCutiesSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_FrankenTibbersSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_FrostfireSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_GothSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_HextechSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_LunarBeastSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_PandaSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_PromQueenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_RedRidingSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_ReverseSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_SuperGalaxySkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Annie/Skin/Annie_SweetheartSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_LunarBeastSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_NightbringerSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Skin/Aphelios_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_AmethystSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_ChampionshipSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_CosmicQueenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_CovenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_FaeDragonSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_FreljordSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_HeartseekerSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_HighNoonSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_MarauderSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_PROJECTSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_QueenSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_SherwoodForestSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Skin/Ashe_WoadSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_AshenLordSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_MechaSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Skin/Aurelion_Sol_StormDragonSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_ElderwoodSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_GalacticSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_GravelordSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_SKTT1Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champions/Azir/Skin/Azir_WarringKingdomsSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_0Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_0Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_2Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_2Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_4Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_4Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_5Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_5Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_6Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_6Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_7Skin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_7Skin.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_0Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_10Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_11Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_12Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_13Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_14Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_1Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_2Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_3Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_4Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_5Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_6Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_7Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_8Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Akali_9Skin.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,6 +103,7 @@
       <workItem from="1643875591760" duration="4322000" />
       <workItem from="1644031369164" duration="634000" />
       <workItem from="1644033405375" duration="727000" />
+      <workItem from="1644075961308" duration="765000" />
     </task>
     <servers />
   </component>
