@@ -27,7 +27,7 @@ const fetchApiDone = (json) => {
 
                 let imgCarrousel = document.createElement("img");
                 imgCarrousel.className = "d-block w-100";
-                imgCarrousel.src = "Images/Skin/"+champion.name+"_"+i+"Skin.jpg";
+                imgCarrousel.src = "Images/Skin/"+champion.name+"_"+i+".jpg";
                 divCarrousel.appendChild(imgCarrousel);
             }
         }
