@@ -1,176 +1,205 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Aatrox</title>
-    <link rel="stylesheet" href="Aatrox.css">
-	<link rel="stylesheet" href="../../Style/headerAndFooter.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-</head>
-<body>
-	<div class="bandeau">
-		<a href="#debut"><img alt="Logo Info Runeterra" class="logo" src="../../Utilitaire/LogoBanniere.png"></a>
-		<a class="btn" href="#Champions">📒 Champions</a>
-		<a class="btn" href="#Régions">✈ Régions</a>
-		<a class="btn" href="#PatchNotes">📄 PatchNotes</a>
-		<a class="btn" href="#Actualités"># Actualités</a>
-	</div>
-<div class="separationHaut"></div>
-<!--    <div>-->
-<!--        <img class="fond" src="../../Champions/Aastrox/RiotX_ChampionList_aatrox.jpg" alt="Aatrox">-->
-<!--    </div>-->
-    <!--    Insertion des modals -->
-    <div class="onglet">
-<!--        Histoire        -->
-        <div class="wrapper">
-            <a id="hist" href="#ModHistoire" data-toggle="modal">Histoire</a>
-        </div>
-        <div id="ModHistoire" class="modal">
-            <div class="modal-content">
-                <a href="#" class="modal-close" title="Close Modal">X</a>
-                <h3>Histoire</h3>
-                <p class="histoire">
-                    Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des siècles d'emprisonnement, Aatrox fut le premier à retrouver sa liberté, en corrompant et transformant les mortels assez stupides pour tenter de s'emparer de l'arme magique qui contenait son essence. Désormais en possession d'un corps qu'il a approximativement transformé pour rappeler son ancienne forme, il arpente Runeterra en cherchant à assouvir sa vengeance apocalyptique.
-                </p>
-            </div>
-        </div>
-<!--        Skills          -->
-        <div class="wrapper">
-            <a id="comp" href="#modal-tabbed" data-toggle="modal">Compétences</a>
-        </div>
-        <div class="modal" id="modal-tabbed">
-            <div class="modal-content">
-                <a href="#" class="modal-close" title="Close Modal">X</a>
-                <h3>Compétences</h3>
-                <div class="modal-area">
-                    <br>
-                    <input id="opentab1" type="radio" name="modaltabs" checked="checked"/>
-                    <label for="opentab1"><img src="../../Images/Comp/AatroxP.png" alt=""></label>
-                    <input id="opentab2" type="radio" name="modaltabs"/>
-                    <label for="opentab2"><img src="../../Images/Comp/AatroxQ.png" alt=""></label>
-                    <input id="opentab3" type="radio" name="modaltabs"/>
-                    <label for="opentab3"><img src="../../Images/Comp/AatroxW.png" alt=""></label>
-                    <input id="opentab4" type="radio" name="modaltabs"/>
-                    <label for="opentab4"><img src="../../Images/Comp/AatroxE.png" alt=""></label>
-                    <input id="opentab5" type="radio" name="modaltabs"/>
-                    <label for="opentab5"><img src="../../Images/Comp/AatroxR.png" alt=""></label>
-                    <ul class="tab-list">
-                        <li class="modal-tab tab1">
-                            <h2>Passif</h2>
-                            <p id="passif">
-                                <br>
-                                Régulièrement, la prochaine attaque de base d'Aatrox inflige des dégâts physiques supplémentaires et le soigne, selon un pourcentage des PV max de la cible.
-                                <br>
-                                <br>CoolDown : 24s-0.7/lvl
-                            </p></li>
-                        <li class="modal-tab tab2">
-                            <h2>A</h2>
-                            <br>
-                            <p id="A">
-                                Aatrox abat son épée devant lui, infligeant des dégâts physiques. Il peut frapper jusqu'à 3 fois et chaque coup a une zone d'effet différente.
-                                <br>
-                                <br>1er lancement :
-                                <br>Dégâts physiques : 10-90 (+20/amélioration)
-                                Zone de prédilection : +90-120%AD (+7.5%/amélioration)
-                                <br>
-                                <br>2e lancement :
-                                <br>Dégâts physiques : 18.75-168.75 (+37.5/amélioration)
-                                Zone de prédilection : +112.5-150%AD (9.375%/amélioration)
-                                <br>
-                                <br>3e lancement :
-                                <br>Dégâts physiques : 15-135 (+20/amélioration)
-                                Zone de prédilection : +90-120%AD (+7.5%/amélioration)
-                                <br>
-                                <br>Max dégâts hors sbire :
-                                <br>Dégâts physiques : 56.25-506.25 (+20/amélioration)
-                                <br>Zone de prédilection : +337.5-450%AD (+7.5%/amélioration)
-                            </p>
-                        </li>
-                        <li class="modal-tab tab3">
-                            <h2>Z</h2>
-                            <br>
-                            <p id="Z">
-                                Aatrox frappe le sol, blessant le premier ennemi touché. Les champions et les grands monstres doivent vite quitter la zone d'effet sous peine d'être ramenés de force au point d'impact et de subir à nouveau les dégâts.
-                                <br>
-                                <br>Dommage physique : 30 / 40 / 50 / 60 / 70 (+ 40% AD)
-                                <br>Dommage total : 60 / 80 / 100 / 120 / 140 (+ 80% AD)
-                            </p>
-                        </li>
-                        <li class="modal-tab tab4">
-                            <h2>E</h2>
-                            <br>
-                            <p id="E">
-                                Passivement, Aatrox se soigne quand il blesse des champions ennemis. À l'activation, il se rue dans une direction.
-                                <br>
-                                <br>Soin :20 / 22.5 / 25 / 27.5 / 30%
-                            </p>
-                        </li>
-                        <li class="modal-tab tab5">
-                            <h2>R</h2>
-                            <br>
-                            <p id="R">
-                                Aatrox libère sa forme démoniaque, effrayant les sbires ennemis proches et augmentant ses dégâts d'attaque, ses soins et sa vitesse de déplacement. La durée est prolongée s'il participe à l'élimination d'un champion ennemi.
-                                <br>
-                                <br>BONUS VITESSE MOUVEMENT:
-                                <BR>60 / 80 / 100%
-                                <br>
-                                <br>    BONUS AD:
-                                20 / 30 / 40% AD
-                                <br>
-                                <br>AUGMENTATION SOIN:
-                                30 / 45 / 60%
-                            </p>
-                        </li>
+	<head>
+		<meta charset="UTF-8">
+		<title>Aatrox</title>
+		<link href="Aatrox.css" rel="stylesheet">
+		<link href="../../Style/headerAndFooter.css" rel="stylesheet">
+		<link href="https://fonts.gstatic.com" rel="preconnect">
+		<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div class="bandeau">
+			<a href="#debut"><img alt="Logo Info Runeterra" class="logo" src="../../Utilitaire/LogoBanniere.png"></a>
+			<a class="btn" href="#Champions">📒 Champions</a>
+			<a class="btn" href="#Régions">✈ Régions</a>
+			<a class="btn" href="#PatchNotes">📄 PatchNotes</a>
+			<a class="btn" href="#Actualités"># Actualités</a>
+		</div>
+		<div class="separationHaut"></div>
+		<!--    <div>-->
+		<!--        <img class="fond" src="../../Champions/Aastrox/RiotX_ChampionList_aatrox.jpg" alt="Aatrox">-->
+		<!--    </div>-->
+		<!--    Insertion des modals -->
+		<div class="onglet">
+			<!--        Histoire        -->
+			<div class="wrapper">
+				<a data-toggle="modal" href="#ModHistoire" id="hist">Histoire</a>
+			</div>
+			<div class="modal" id="ModHistoire">
+				<div class="modal-content">
+					<a class="modal-close" href="#" title="Close Modal">X</a>
+					<h3>Histoire</h3>
+					<p class="histoire">
+						Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais
+						ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la
+						sorcellerie furent employées pour les battre. Cependant, après des siècles d'emprisonnement,
+						Aatrox fut le premier à retrouver sa liberté, en corrompant et transformant les mortels assez
+						stupides pour tenter de s'emparer de l'arme magique qui contenait son essence. Désormais en
+						possession d'un corps qu'il a approximativement transformé pour rappeler son ancienne forme, il
+						arpente Runeterra en cherchant à assouvir sa vengeance apocalyptique.
+					</p>
+				</div>
+			</div>
+			<!--        Skills          -->
+			<div class="wrapper">
+				<a data-toggle="modal" href="#modal-tabbed" id="comp">Compétences</a>
+			</div>
+			<div class="modal" id="modal-tabbed">
+				<div class="modal-content">
+					<a class="modal-close" href="#" title="Close Modal">X</a>
+					<h3>Compétences</h3>
+					<div class="modal-area">
+						<br>
+						<input checked="checked" id="opentab1" name="modaltabs" type="radio"/>
+						<label for="opentab1"><img alt="" src="../../Images/Comp/AatroxP.png"></label>
+						<input id="opentab2" name="modaltabs" type="radio"/>
+						<label for="opentab2"><img alt="" src="../../Images/Comp/AatroxQ.png"></label>
+						<input id="opentab3" name="modaltabs" type="radio"/>
+						<label for="opentab3"><img alt="" src="../../Images/Comp/AatroxW.png"></label>
+						<input id="opentab4" name="modaltabs" type="radio"/>
+						<label for="opentab4"><img alt="" src="../../Images/Comp/AatroxE.png"></label>
+						<input id="opentab5" name="modaltabs" type="radio"/>
+						<label for="opentab5"><img alt="" src="../../Images/Comp/AatroxR.png"></label>
+						<ul class="tab-list">
+							<li class="modal-tab tab1">
+								<h2>Passif</h2>
+								<p id="passif">
+									<br>
+									Régulièrement, la prochaine attaque de base d'Aatrox inflige des dégâts physiques
+									supplémentaires et le soigne, selon un pourcentage des PV max de la cible.
+									<br>
+									<br>CoolDown : 24s-0.7/lvl
+								</p></li>
+							<li class="modal-tab tab2">
+								<h2>A</h2>
+								<br>
+								<p id="A">
+									Aatrox abat son épée devant lui, infligeant des dégâts physiques. Il peut frapper
+									jusqu'à 3 fois et chaque coup a une zone d'effet différente.
+									<br>
+									<br>1er lancement :
+									<br>Dégâts physiques : 10-90 (+20/amélioration)
+									Zone de prédilection : +90-120%AD (+7.5%/amélioration)
+									<br>
+									<br>2e lancement :
+									<br>Dégâts physiques : 18.75-168.75 (+37.5/amélioration)
+									Zone de prédilection : +112.5-150%AD (9.375%/amélioration)
+									<br>
+									<br>3e lancement :
+									<br>Dégâts physiques : 15-135 (+20/amélioration)
+									Zone de prédilection : +90-120%AD (+7.5%/amélioration)
+									<br>
+									<br>Max dégâts hors sbire :
+									<br>Dégâts physiques : 56.25-506.25 (+20/amélioration)
+									<br>Zone de prédilection : +337.5-450%AD (+7.5%/amélioration)
+								</p>
+							</li>
+							<li class="modal-tab tab3">
+								<h2>Z</h2>
+								<br>
+								<p id="Z">
+									Aatrox frappe le sol, blessant le premier ennemi touché. Les champions et les grands
+									monstres doivent vite quitter la zone d'effet sous peine d'être ramenés de force au
+									point d'impact et de subir à nouveau les dégâts.
+									<br>
+									<br>Dommage physique : 30 / 40 / 50 / 60 / 70 (+ 40% AD)
+									<br>Dommage total : 60 / 80 / 100 / 120 / 140 (+ 80% AD)
+								</p>
+							</li>
+							<li class="modal-tab tab4">
+								<h2>E</h2>
+								<br>
+								<p id="E">
+									Passivement, Aatrox se soigne quand il blesse des champions ennemis. À l'activation,
+									il se rue dans une direction.
+									<br>
+									<br>Soin :20 / 22.5 / 25 / 27.5 / 30%
+								</p>
+							</li>
+							<li class="modal-tab tab5">
+								<h2>R</h2>
+								<br>
+								<p id="R">
+									Aatrox libère sa forme démoniaque, effrayant les sbires ennemis proches et
+									augmentant ses dégâts d'attaque, ses soins et sa vitesse de déplacement. La durée
+									est prolongée s'il participe à l'élimination d'un champion ennemi.
+									<br>
+									<br>BONUS VITESSE MOUVEMENT:
+									<BR>60 / 80 / 100%
+									<br>
+									<br> BONUS AD:
+									20 / 30 / 40% AD
+									<br>
+									<br>AUGMENTATION SOIN:
+									30 / 45 / 60%
+								</p>
+							</li>
 
-                    </ul>
-                </div>
-            </div>
-        </div>
-<!--        Gameplay           -->
-        <div class="wrapper">
-            <a id="game" href="#ModGam" data-toggle="modal">Gameplay</a>
-        </div>
-        <div id="ModGam" class="modal">
-            <div class="modal-content">
-                <a href="#" class="modal-close" title="Close Modal">X</a>
-                <h3>Gameplay</h3>
-                <p class="gameplay">
-                    Astuces
-                    <br>
-                    <br> En début de partie, Aatrox est un très bon duelliste. Vous pouvez aisément prendre des trades, tout en assurant vos arrières avec la régénération de la Passif – Posture du massacreur. Le passage au niveau 6 peut vous permettre de prendre l’ascendant très rapidement grâce à la puissance que vous offre le R – Fossoyeur des mondes.
-                    <br>
-                    <br> Quand il est joué au Top, Aatrox est très fort pour tenir tête à son adversaire, tout en continuant de push. Il faut donc privilégier le splitpush, sans pour autant délaisser son équipe lors de la prise d’objectifs neutres. Vous devrez ainsi utiliser vos ressources pour monopoliser le plus d’attention possible et libérer la pression sur vos alliés.
-                    <br>
-                    <br>Au fil de la partie, Aatrox va gagner en puissance dans son duel, tout en assurant sa régénération de points de vie. Il est donc difficile de le battre seul. Il faut tout de même faire attention aux champions excellant avec les dégâts bruts, comme Fiora, ou les champions capables de la kite, comme Heimerdinger.
-                    <br>
-                    <br>Les petites astuces sur Aatrox ne sont pas nombreuses. On note cependant sa capacité à traverser les murs très fins avec son E – Ruée obscure. Cette technique est très utile pour échapper à ses adversaires. De même, son R – Fossoyeur des mondes peut surprendre en empêchant les sbires de l’attaquer pendant quelques secondes, et lui économisant des points de vie par la même occasion.
-                <div id="visio">
-                <p>
-                    <img src="../../Images/Gameplay/Aatrox_objets.png" alt="Objets">
-                    <img src="../../Images/Gameplay/skills.png" alt="skills">
-                </p>
-                <p>
-                    <img src="../../Images/Gameplay/Sorts.png" alt="sorts">
-                    <img src="../../Images/Gameplay/runes.png" alt="runes">
-                </p>
-                </div>
-                </p>
-            </div>
-        </div>
-<!--        Graphismes          -->
-        <div class="wrapper">
-            <a id="skin" href="Aatrox_graph.html" data-toggle="modal">Graphismes</a>
-        </div>
-    </div>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!--        Gameplay           -->
+			<div class="wrapper">
+				<a data-toggle="modal" href="#ModGam" id="game">Gameplay</a>
+			</div>
+			<div class="modal" id="ModGam">
+				<div class="modal-content">
+					<a class="modal-close" href="#" title="Close Modal">X</a>
+					<h3>Gameplay</h3>
+					<p class="gameplay">
+						Astuces
+						<br>
+						<br> En début de partie, Aatrox est un très bon duelliste. Vous pouvez aisément prendre des
+						trades, tout en assurant vos arrières avec la régénération de la Passif – Posture du massacreur.
+						Le passage au niveau 6 peut vous permettre de prendre l’ascendant très rapidement grâce à la
+						puissance que vous offre le R – Fossoyeur des mondes.
+						<br>
+						<br> Quand il est joué au Top, Aatrox est très fort pour tenir tête à son adversaire, tout en
+						continuant de push. Il faut donc privilégier le splitpush, sans pour autant délaisser son équipe
+						lors de la prise d’objectifs neutres. Vous devrez ainsi utiliser vos ressources pour monopoliser
+						le plus d’attention possible et libérer la pression sur vos alliés.
+						<br>
+						<br>Au fil de la partie, Aatrox va gagner en puissance dans son duel, tout en assurant sa
+						régénération de points de vie. Il est donc difficile de le battre seul. Il faut tout de même
+						faire attention aux champions excellant avec les dégâts bruts, comme Fiora, ou les champions
+						capables de la kite, comme Heimerdinger.
+						<br>
+						<br>Les petites astuces sur Aatrox ne sont pas nombreuses. On note cependant sa capacité à
+						traverser les murs très fins avec son E – Ruée obscure. Cette technique est très utile pour
+						échapper à ses adversaires. De même, son R – Fossoyeur des mondes peut surprendre en empêchant
+						les sbires de l’attaquer pendant quelques secondes, et lui économisant des points de vie par la
+						même occasion.
+					<div id="visio">
+						<p>
+							<img alt="Objets" src="../../Images/Gameplay/Aatrox_objets.png">
+							<img alt="skills" src="../../Images/Gameplay/skills.png">
+						</p>
+						<p>
+							<img alt="sorts" src="../../Images/Gameplay/Sorts.png">
+							<img alt="runes" src="../../Images/Gameplay/runes.png">
+						</p>
+					</div>
+					</p>
+				</div>
+			</div>
+			<!--        Graphismes          -->
+			<div class="wrapper">
+				<a data-toggle="modal" href="Aatrox_graph.html" id="skin">Graphismes</a>
+			</div>
+		</div>
 
-<div class="separationBas"></div>
-<div class="footer">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, ad at aut dolore dolorum earum error facere facilis laborum nihil, quisquam sit tempora! Amet corporis fugit minus nostrum nulla quisquam repudiandae sed sit tenetur ullam. Eos expedita facere in magni nihil, quas quasi recusandae reiciendis saepe tempore veniam veritatis voluptates.</p>
-    <div class="sigle">
-        <img src="../../Utilitaire/pegi-eu.png" alt="LogoPEGI12">
-        <img src="../../Utilitaire/usk-12.png" alt="LogoUSK12">
-    </div>
-</div>
-</body>
+		<div class="separationBas"></div>
+		<div class="footer">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, ad at aut dolore dolorum earum error facere
+				facilis laborum nihil, quisquam sit tempora! Amet corporis fugit minus nostrum nulla quisquam
+				repudiandae sed sit tenetur ullam. Eos expedita facere in magni nihil, quas quasi recusandae reiciendis
+				saepe tempore veniam veritatis voluptates.</p>
+			<div class="sigle">
+				<img alt="LogoPEGI12" src="../../Utilitaire/pegi-eu.png">
+				<img alt="LogoUSK12" src="../../Utilitaire/usk-12.png">
+			</div>
+		</div>
+	</body>
 </html>

@@ -8,7 +8,15 @@
 }
 
 body{
-    background: linear-gradient(black, #7a5b1b, black);
+    background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background-size: 400%;
+    animation: glowing 30s linear infinite;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 200% 0; }
+    100% { background-position: 400% 0; }
 }
 
 .separationHaut {
@@ -321,17 +329,4 @@ i {
     position:absolute;
     height:150px;
     perspective:1000;
-}
-
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 200% 0; }
-    100% { background-position: 400% 0; }
-}
-
-
-@keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 200% 0; }
-    100% { background-position: 400% 0; }
 }

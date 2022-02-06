@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
+    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Champions/Aatrox/Aatrox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/listeChampions.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Utilitaire/page_vierge/skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vierge_champ.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/champ_base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +132,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

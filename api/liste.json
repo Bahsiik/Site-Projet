@@ -2,9 +2,15 @@
   {
     "name": "Aatrox",
     "Aatrox": {
-      "story": "Story_Aatrox",
-      "skills": ["Comp_Aatrox", "2", "caca", "666", "5"],
-      "gameplay": "Gam_Aatrox",
+      "story": "Autrefois, Aatrox et ses frères étaient honorés pour avoir défendu Shurima contre le Néant. Mais ils finirent par devenir une menace plus grande encore pour Runeterra : la ruse et la sorcellerie furent employées pour les battre. Cependant, après des siècles d'emprisonnement, Aatrox fut le premier à retrouver sa liberté, en corrompant et transformant les mortels assez stupides pour tenter de s'emparer de l'arme magique qui contenait son essence. Désormais en possession d'un corps qu'il a approximativement transformé pour rappeler son ancienne forme, il arpente Runeterra en cherchant à assouvir sa vengeance apocalyptique.",
+      "skills": [
+        "Régulièrement, la prochaine attaque de base d'Aatrox\n inflige des dégâts physiques supplémentaires et le soigne,\n selon un pourcentage des PV max de la cible.\n\n CoolDown : 24s(-0.7/amélioration)",
+        "Aatrox abat son épée devant lui, infligeant des dégâts physiques.\n Il peut frapper jusqu'à 3 fois et chaque coup a une zone d'effet différente.\n\n1er lancement :\nDégâts physiques : 10-90 (+20/amélioration)\nZone de prédilection : +90-120%AD (+7.5%/amélioration)\n2e lancement :\nDégâts physiques : 18.75-168.75 (+37.5/amélioration)\nZone de prédilection : +112.5-150%AD (9.375%/amélioration)\n3e lancement :\nDégâts physiques : 15-135 (+20/amélioration)\nZone de prédilection : +90-120%AD (+7.5%/amélioration)\nMax dégâts hors sbire :\nDégâts physiques : 56.25-506.25 (+20/amélioration)\nZone de prédilection : +337.5-450%AD (+7.5%/amélioration)",
+        "Aatrox frappe le sol, blessant le premier ennemi touché.\n Les champions et les grands monstres doivent vite\n quitter la zone d'effet sous peine d'être ramenés\n de force au point d'impact et de subir à nouveau les dégâts.\n\nDommage physique : 30 / 40 / 50 / 60 / 70 (+ 40% AD)\nDommage total : 60 / 80 / 100 / 120 / 140 (+ 80% AD)",
+        "Passivement, Aatrox se soigne quand il blesse\n des champions ennemis. À l'activation,\n il se rue dans une direction.\n\nSoin :20 / 22.5 / 25 / 27.5 / 30%",
+        "Aatrox libère sa forme démoniaque, effrayant les sbires ennemis proches\n et augmentant ses dégâts d'attaque, ses soins et sa vitesse de déplacement.\n La durée est prolongée s'il participe à l'élimination d'un champion ennemi.\n\nBonus Vitesse de mouvement: 60 / 80 / 100%\nBonus AD: 20 / 30 / 40% AD\nAugmentation soin : 30 / 45 / 60%"
+      ],
+      "gameplay": "En début de partie, Aatrox est un très bon duelliste. Vous pouvez aisément prendre des\ntrades, tout en assurant vos arrières avec la régénération de la Passif – Posture du massacreur.\nLe passage au niveau 6 peut vous permettre de prendre l’ascendant très rapidement grâce à la\n\t\t\t\t\t\tpuissance que vous offre le R – Fossoyeur des mondes.\n\nQuand il est joué au Top, Aatrox est très fort pour tenir tête à son adversaire, tout en\ncontinuant de push. Il faut donc privilégier le splitpush, sans pour autant délaisser son équipe\nlors de la prise d’objectifs neutres. Vous devrez ainsi utiliser vos ressources pour monopoliser\nle plus d’attention possible et libérer la pression sur vos alliés.\n\nAu fil de la partie, Aatrox va gagner en puissance dans son duel, tout en assurant sa\nrégénération de points de vie. Il est donc difficile de le battre seul. Il faut tout de même\nfaire attention aux champions excellant avec les dégâts bruts, comme Fiora, ou les champions\ncapables de la kite, comme Heimerdinger.\n\nLes petites astuces sur Aatrox ne sont pas nombreuses. On note cependant sa capacité à\ntraverser les murs très fins avec son E – Ruée obscure. Cette technique est très utile pour\néchapper à ses adversaires. De même, son R – Fossoyeur des mondes peut surprendre en empêchant\nles sbires de l’attaquer pendant quelques secondes, et lui économisant des points de vie par la\nmême occasion.",
       "totalSkin": 8
     }
   },
@@ -12,7 +18,9 @@
     "name": "Akali",
     "Akali": {
       "story": "Story_Akali",
-      "skills": ["Comp_Akali"],
+      "skills": [
+        "Comp_Akali"
+      ],
       "gameplay": "Gam_Akali",
       "totalSkin": 15
     }

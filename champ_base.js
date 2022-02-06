@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", () => {
     );
 });
     const id_champ =  localStorage.getItem('name_champ');
-    console.log("id_champ ",id_champ);
 
 const fetchApiDone = (json) => {
     const pStory = document.getElementById("story");
@@ -28,10 +27,6 @@ const fetchApiDone = (json) => {
 
     // console.log("json: ", json)
     json.forEach((champion) => {
-        console.log("champion: ", champion)
-        console.log("champion.name: ", champion.name)
-        console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
-console.log("img_objets", img_objets)
         if(champion.name === id_champ){
             pStory.textContent = champion[champion.name].story;
             imgOpentab1.src="Images/Comp/"+champion.name+"P.png"
