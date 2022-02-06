@@ -15,17 +15,6 @@
     }
   },
   {
-    "name": "Akali",
-    "Akali": {
-      "story": "Story_Akali",
-      "skills": [
-        "Comp_Akali"
-      ],
-      "gameplay": "Gam_Akali",
-      "totalSkin": 15
-    }
-  },
-  {
     "name": "Ahri",
     "Ahri": {
       "story": "Story_Ahri",
@@ -33,6 +22,17 @@
         "Comp_Ahri"
       ],
       "gameplay": "Gam_Ahri",
+      "totalSkin": 15
+    }
+  },
+  {
+    "name": "Akali",
+    "Akali": {
+      "story": "Story_Akali",
+      "skills": [
+        "Comp_Akali"
+      ],
+      "gameplay": "Gam_Akali",
       "totalSkin": 15
     }
   },
