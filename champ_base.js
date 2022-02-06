@@ -30,10 +30,10 @@ const fetchApiDone = (json) => {
         if(champion.name === id_champ){
             pStory.textContent = champion[champion.name].story;
             imgOpentab1.src="Images/Comp/"+champion.name+"P.png"
-            imgOpentab2.src="Images/Comp/"+champion.name+"E.png"
-            imgOpentab3.src="Images/Comp/"+champion.name+"Q.png"
-            imgOpentab4.src="Images/Comp/"+champion.name+"R.png"
-            imgOpentab5.src="Images/Comp/"+champion.name+"W.png"
+            imgOpentab2.src="Images/Comp/"+champion.name+"Q.png"
+            imgOpentab3.src="Images/Comp/"+champion.name+"W.png"
+            imgOpentab4.src="Images/Comp/"+champion.name+"E.png"
+            imgOpentab5.src="Images/Comp/"+champion.name+"R.png"
             pPassif.textContent = champion[champion.name].skills[0];
             pA.textContent = champion[champion.name].skills[1];
             pZ.textContent = champion[champion.name].skills[2];

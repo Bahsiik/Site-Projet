@@ -37,10 +37,26 @@
     }
   },
   {
-    "name": "Akshan"
+    "name": "Akshan",
+    "Akshan": {
+      "story": "Story_Akshan",
+      "skills": [
+        "Comp_Akshan"
+      ],
+      "gameplay": "Gam_Akshan",
+      "totalSkin": 15
+    }
   },
   {
-    "name": "Alistar"
+    "name": "Alistar",
+    "Alistar": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 15
+    }
   },
   {
     "name": "Amumu"
