@@ -26,7 +26,15 @@
     }
   },
   {
-    "name": "Ahri"
+    "name": "Ahri",
+    "Ahri": {
+      "story": "Story_Ahri",
+      "skills": [
+        "Comp_Ahri"
+      ],
+      "gameplay": "Gam_Ahri",
+      "totalSkin": 15
+    }
   },
   {
     "name": "Akshan"

@@ -22,6 +22,11 @@ body{
     height: 10px;
 }
 
+.separationBas {
+    background: linear-gradient(#7a5b1b, #CD9734, black);
+    height: 10px;
+}
+
 
 .listes {
     padding-top: 50px;
