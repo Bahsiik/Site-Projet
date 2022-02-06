@@ -44,7 +44,7 @@
         "Comp_Akshan"
       ],
       "gameplay": "Gam_Akshan",
-      "totalSkin": 15
+      "totalSkin": 3
     }
   },
   {
@@ -59,6 +59,619 @@
     }
   },
   {
-    "name": "Amumu"
+    "name": "Amumu",
+    "Amumu": {
+      "story": "Story_Amumu",
+      "skills": [
+        "Comp_Amumu"
+      ],
+      "gameplay": "Gam_Amumu",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Anivia",
+    "Anivia": {
+      "story": "Story_Anivia",
+      "skills": [
+        "Comp_Anivia"
+      ],
+      "gameplay": "Gam_Anivia",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Annie",
+    "Annie": {
+      "story": "Story_Annie",
+      "skills": [
+        "Comp_Annie"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 15
+    }
+  },
+  {
+    "name": "Aphelios",
+    "Aphelios": {
+      "story": "Story_Aphelios",
+      "skills": [
+        "Comp_Aphelios"
+      ],
+      "gameplay": "Gam_Aphelios",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Ashe",
+    "Ashe": {
+      "story": "Story_Ashe",
+      "skills": [
+        "Comp_Ashe"
+      ],
+      "gameplay": "Gam_Ashe",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Aurelion Sol",
+    "Aurelion Sol": {
+      "story": "Story_Aurelion Sol",
+      "skills": [
+        "Comp_Aurelion Sol"
+      ],
+      "gameplay": "Gam_Aurelion Sol",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Azir",
+    "Azir": {
+      "story": "Story_Azir",
+      "skills": [
+        "Comp_Azir"
+      ],
+      "gameplay": "Gam_Azir",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Bard",
+    "Bard": {
+      "story": "Story_Bard",
+      "skills": [
+        "Comp_Bard"
+      ],
+      "gameplay": "Gam_Bard",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Blitzcrank",
+    "Blitzcrank": {
+      "story": "Story_Blitzcrank",
+      "skills": [
+        "Comp_Blitzcrank"
+      ],
+      "gameplay": "Gam_Blitzcrank",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Brand",
+    "Brand": {
+      "story": "Story_Brand",
+      "skills": [
+        "Comp_Brand"
+      ],
+      "gameplay": "Gam_Brand",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Braum",
+    "Braum": {
+      "story": "Story_Braum",
+      "skills": [
+        "Comp_Braum"
+      ],
+      "gameplay": "Gam_Braum",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Caitlyn",
+    "Caitlyn": {
+      "story": "Story_Caitlyn",
+      "skills": [
+        "Comp_Caitlyn"
+      ],
+      "gameplay": "Gam_Caitlyn",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Camille",
+    "Camille": {
+      "story": "Story_Camille",
+      "skills": [
+        "Comp_Camille"
+      ],
+      "gameplay": "Gam_Camille",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Cassiopeia",
+    "Cassiopeia": {
+      "story": "Story_Cassiopeia",
+      "skills": [
+        "Comp_Cassiopeia"
+      ],
+      "gameplay": "Gam_Cassiopeia",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Cho'Gath",
+    "Cho'Gath": {
+      "story": "Story_Cho'Gath",
+      "skills": [
+        "Comp_Cho'Gath"
+      ],
+      "gameplay": "Gam_Cho'Gath",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Corki",
+    "Corki": {
+      "story": "Story_Corki",
+      "skills": [
+        "Comp_Corki"
+      ],
+      "gameplay": "Gam_Corki",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Darius",
+    "Darius": {
+      "story": "Story_Darius",
+      "skills": [
+        "Comp_Darius"
+      ],
+      "gameplay": "Gam_Darius",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Diana",
+    "Diana": {
+      "story": "Story_Diana",
+      "skills": [
+        "Comp_Diana"
+      ],
+      "gameplay": "Gam_Diana",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Dr.Mundo",
+    "Dr.Mundo": {
+      "story": "Story_Dr.Mundo",
+      "skills": [
+        "Comp_Dr.Mundo"
+      ],
+      "gameplay": "Gam_Dr.Mundo",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Draven",
+    "Draven": {
+      "story": "Story_Draven",
+      "skills": [
+        "Comp_Draven"
+      ],
+      "gameplay": "Gam_Draven",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Ekko",
+    "Ekko": {
+      "story": "Story_Ekko",
+      "skills": [
+        "Comp_Ekko"
+      ],
+      "gameplay": "Gam_Ekko",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Elise",
+    "Elise": {
+      "story": "Story_Elise",
+      "skills": [
+        "Comp_Elise"
+      ],
+      "gameplay": "Gam_Elise",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Evelynn",
+    "Evelynn": {
+      "story": "Story_Evelynn",
+      "skills": [
+        "Comp_Evelynn"
+      ],
+      "gameplay": "Gam_Evelynn",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Ezreal",
+    "Ezreal": {
+      "story": "Story_Ezreal",
+      "skills": [
+        "Comp_Ezreal"
+      ],
+      "gameplay": "Gam_Ezreal",
+      "totalSkin": 17
+    }
+  },
+  {
+    "name": "Fiddlestick",
+    "Fiddlestick": {
+      "story": "Story_Fiddlestick",
+      "skills": [
+        "Comp_Fiddlestick"
+      ],
+      "gameplay": "Gam_Fiddlestick",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Fiora",
+    "Fiora": {
+      "story": "Story_Fiora",
+      "skills": [
+        "Comp_Fiora"
+      ],
+      "gameplay": "Gam_Fiora",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Fizz",
+    "Fizz": {
+      "story": "Story_Fizz",
+      "skills": [
+        "Comp_Fizz"
+      ],
+      "gameplay": "Gam_Fizz",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Galio",
+    "Galio": {
+      "story": "Story_Galio",
+      "skills": [
+        "Comp_Galio"
+      ],
+      "gameplay": "Gam_Galio",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Gangplank",
+    "Gangplank": {
+      "story": "Story_Gangplank",
+      "skills": [
+        "Comp_Gangplank"
+      ],
+      "gameplay": "Gam_Gangplank",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Garen",
+    "Garen": {
+      "story": "Story_Garen",
+      "skills": [
+        "Comp_Garen"
+      ],
+      "gameplay": "Gam_Garen",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Gnar",
+    "Gnar": {
+      "story": "Story_Gnar",
+      "skills": [
+        "Comp_Gnar"
+      ],
+      "gameplay": "Gam_Gnar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Gragas",
+    "Gragas": {
+      "story": "Story_Gragas",
+      "skills": [
+        "Comp_Gragas"
+      ],
+      "gameplay": "Gam_Gragas",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Graves",
+    "Graves": {
+      "story": "Story_Graves",
+      "skills": [
+        "Comp_Graves"
+      ],
+      "gameplay": "Gam_Graves",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Gwen",
+    "Gwen": {
+      "story": "Story_Gwen",
+      "skills": [
+        "Comp_Gwen"
+      ],
+      "gameplay": "Gam_Gwen",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Hecarim",
+    "Hecarim": {
+      "story": "Story_Hecarim",
+      "skills": [
+        "Comp_Hecarim"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Illaoi",
+    "Illaoi": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Irelia",
+    "Irelia": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Ivern",
+    "Ivern": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Janna",
+    "Janna": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Jarvan IV",
+    "Jarvan IV": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Jax",
+    "Jax": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Jayce",
+    "Jayce": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Jhin",
+    "Jhin": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Jinx",
+    "Jinx": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Kai'Sa",
+    "Kai'Sa": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Kalista",
+    "Kalista": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Karthus",
+    "Karthus": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Kassadin",
+    "Kassadin": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Katarina",
+    "Katarina": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Kayle",
+    "Kayle": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Kayn",
+    "Kayn": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Kennen",
+    "Kennen": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Kha'Zix",
+    "Kha'Zix": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Kindred",
+    "Kindred": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Kled",
+    "Kled": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Kog'Maw",
+    "Kog'Maw": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
   }
 ]

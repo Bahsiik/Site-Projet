@@ -5,23 +5,100 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Skin/Aatrox_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_0Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_1Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_2Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_3Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_4Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_5Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_6Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Skin/Aatrox_7Skin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin.js" beforeDir="false" afterPath="$PROJECT_DIR$/skin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Aurelion Sol_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Aurelion Sol_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Aurelion Sol_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Aurelion Sol_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Jarvan IV_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kai'Sa_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kha'Zix_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_10jpg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Kog'Maw_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Aurelion_Sol_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Aurelion_Sol_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Aurelion_Sol_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Aurelion_Sol_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Jarvan_IV_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kai_Sa_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kha_Zix_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_10jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Skin/Kog_Maw_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
