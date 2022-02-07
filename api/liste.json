@@ -1547,7 +1547,7 @@
   {
     "name": "Vladimir",
     "Vladimir": {
-      "story": "Story_Alistar",
+      "story": "Héraut d'un nouvel âge de technologie, Viktor a consacré sa vie aux progrès de l'humanité. Idéaliste cherchant à hisser le peuple de Zaun à de nouveaux sommets de compréhension, il pense que le potentiel de l'humanité ne pourra être réalisé que par le grand pas en avant d'une glorieuse évolution technologique. Doté d'un corps optimisé par l'acier et la science, Viktor poursuit fanatiquement son idéal d'un meilleur avenir.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1558,7 +1558,7 @@
   {
     "name": "Volibear",
     "Volibear": {
-      "story": "Story_Alistar",
+      "story": "Pour ceux qui le vénèrent encore, Volibear est l'incarnation de la tempête. Destructeur, sauvage et déterminé, il existait bien avant que les mortels n'arpentent la toundra de Freljord ; désormais, il défend férocement les terres qu'il a créées avec sa famille de demi-dieux. Habité d'une haine profonde envers la civilisation et la faiblesse qu'elle a engendrée, il se bat à coups de crocs et de griffes pour restaurer les traditions d'autrefois, celles du temps où la terre était sauvage et où le sang coulait librement.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1569,7 +1569,7 @@
   {
     "name": "Warwick",
     "Warwick": {
-      "story": "Story_Alistar",
+      "story": "Warwick est un monstre qui chasse dans les rues grisâtres de Zaun. Transformé par des expériences horribles, son corps est désormais muni d'un système intriqué de chambres et de pompes qui injecte une rage alchimique dans ses veines. Surgissant des ombres, il traque les criminels qui terrorisent les profondeurs de la ville. Warwick est attiré par le sang, dont l'odeur le rend fou. Si sa proie saigne, elle n'a aucune chance de lui échapper.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1580,7 +1580,7 @@
   {
     "name": "Wukong",
     "Wukong": {
-      "story": "Story_Alistar",
+      "story": "Wukong est un Vastaya qui utilise sa force, son agilité et son intelligence pour semer la confusion parmi ses adversaires et prendre sur eux l'avantage. Après s'être fait un ami en la personne d'un guerrier nommé Maître Yi, Wukong est devenu le dernier tenant d'un art martial antique connu sous le nom de Wuju. Armé de son bâton enchanté, Wukong veut empêcher Ionia de devenir ruines et décombres.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1591,7 +1591,7 @@
   {
     "name": "Xayah",
     "Xayah": {
-      "story": "Story_Alistar",
+      "story": "Précise et meurtrière, Xayah est une révolutionnaire vastaya menant une guerre personnelle dans le but de sauver son peuple. Elle se sert de sa célérité, de sa ruse et de ses plumes tranchantes comme des rasoirs pour terrasser tous ceux qui se dressent sur sa route. Xayah se bat aux côtés de son partenaire et amant, Rakan, pour défendre leur tribu dépérissante et rendre à leur race ce qu'elle considère être sa gloire d'antan.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1602,7 +1602,7 @@
   {
     "name": "Xerath",
     "Xerath": {
-      "story": "Story_Alistar",
+      "story": "Xerath est un mage transfiguré de la Shurima antique, un être d'énergie arcanique habitant les fragments détruits d'un sarcophage magique. Pendant des millénaires, il est resté prisonnier des sables du désert, mais le retour de Shurima l'a libéré de sa prison ancestrale. Devenu ivre de pouvoir, il cherche désormais à reprendre ce qu'il croit lui être dû et à remplacer les civilisations arrivistes qui ont pris possession du monde par une nouvelle, façonnée à son image.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1613,7 +1613,7 @@
   {
     "name": "Xin Zhao",
     "Xin Zhao": {
-      "story": "Story_Alistar",
+      "story": "Xin Zhao est un guerrier résolu qui sert fidèlement la dynastie régnante des Lightshield. Naguère condamné à se battre dans les arènes de combat de Noxus, il survécut à d'innombrables rencontres de gladiateurs. Mais après avoir été libéré par les forces de Demacia, il jura allégeance à ses braves libérateurs. Armé de sa lance à trois pointes, Xin Zhao combat désormais pour son royaume, défiant ses ennemis avec audace, quelles que soient ses chances de succès.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1624,7 +1624,7 @@
   {
     "name": "Yasuo",
     "Yasuo": {
-      "story": "Story_Alistar",
+      "story": "L'Ionien Yasuo est un épéiste agile et résolu, capable de déchaîner contre ses ennemis la puissance de l'air. Alors qu'il était encore un jeune homme fier, il fut accusé à tort d'avoir assassiné son maître. Incapable de prouver son innocence, il dut fuir et fut finalement contraint de tuer son frère pour se défendre. Même après la découverte du véritable meurtrier de son maître, Yasuo ne parvint pas à faire la paix avec sa conscience. Il erre désormais dans son pays natal, et seul le vent guide sa lame.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1635,7 +1635,7 @@
   {
     "name": "Yone",
     "Yone": {
-      "story": "Story_Alistar",
+      "story": "Au cours de sa vie, Yone fut le demi-frère de Yasuo et un disciple renommé de l'école d'armes de son village. Mais après avoir été tué par son propre frère, il se retrouva hanté par une entité malveillante dans le royaume spirituel. Il dut la tuer avec sa propre épée. Désormais maudit et forcé de porter le masque de l'azakana, Yone chasse inlassablement ces créatures démoniaques afin de comprendre ce qu'il est devenu.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1646,7 +1646,7 @@
   {
     "name": "Yorick",
     "Yorick": {
-      "story": "Story_Alistar",
+      "story": "Yorick est le dernier survivant d'un ordre religieux disparu depuis longtemps et son pouvoir sur les morts est à la fois une bénédiction et une malédiction. Prisonnier des Îles obscures, il n'a pour compagnons que les cadavres pourrissants et les esprits hurlants qu'il rassemble. Les actes monstrueux de Yorick trahissent son noble objectif : libérer sa terre natale de la malédiction de la Ruine.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
