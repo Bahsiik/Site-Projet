@@ -226,7 +226,7 @@
   {
     "name": "Corki",
     "Corki": {
-      "story": "Story_Corki",
+      "story": "Il y a deux choses que Corki, le pilote yordle, aime plus que tout au monde : les sensations de vol et sa fantastique moustache... mais pas nécessairement dans cet ordre. Après avoir quitté Bandle, il s'installa à Piltover, où il tomba amoureux des merveilleuses machines qu'il y trouva. Il consacra tout son temps au développement d'engins volants, tout en menant une unité de défense aérienne composée de pilotes aguerris : les Serpents volants. Serein même sous le feu ennemi, Corki patrouille dans l'espace aérien de sa patrie d'adoption, et il ne rencontre jamais le moindre problème qu'un bon gros missile ne puisse résoudre.\n\n",
       "skills": [
         "Comp_Corki"
       ],
@@ -237,7 +237,7 @@
   {
     "name": "Darius",
     "Darius": {
-      "story": "Story_Darius",
+      "story": "Il n'est pas de plus grand symbole de la puissance de Noxus que Darius, le commandant le plus craint et le plus endurci de la nation. D'origine modeste, celui qui s'est élevé jusqu'à devenir la Main de Noxus pourfend aujourd'hui les ennemis de l'empire, dont certains sont eux-mêmes des Noxiens. Il ne doute jamais de la justesse de sa cause et ne montre pas la moindre hésitation lorsque sa hache est levée. Ceux qui s'opposent au chef de la Légion Trifarian ne doivent s'attendre à aucune pitié.\n\n",
       "skills": [
         "Comp_Darius"
       ],
@@ -248,7 +248,7 @@
   {
     "name": "Diana",
     "Diana": {
-      "story": "Story_Diana",
+      "story": "Armée de son croissant de lune, Diana combat dans les rangs des Lunaris, une foi qui a presque disparu des terres qui entourent le Mont Targon. Portant une armure étincelante évoquant les reflets de la nuit sur un paysage de neige, elle incarne la puissance de la lune. L'essence d'une Manifestation venue d'au-delà des plus hauts sommets de Targon imprègne Diana : plus tout à fait humaine, elle lutte pour comprendre sa puissance et son rôle en ce monde.\n\n",
       "skills": [
         "Comp_Diana"
       ],
@@ -259,7 +259,7 @@
   {
     "name": "Dr.Mundo",
     "Dr.Mundo": {
-      "story": "Story_Dr.Mundo",
+      "story": "Totalement fou, complètement porté sur l'homicide, horriblement violet, Dr. Mundo est la principale raison pour laquelle les citoyens de Zaun restent calfeutrés chez eux les nuits les plus sombres. Désormais médecin autoproclamé, il fut autrefois un patient de l'asile tristement célèbre de Zaun. Après avoir « soigné » tout le personnel, Dr. Mundo a commencé à exercer dans les mêmes salles où il fut traité et à reproduire les méthodes immorales dont il fut lui-même si souvent victime. Profitant d'une armoire remplie de médicaments et d'aucune connaissance en médecine, il se rend un peu plus monstrueux à chaque injection et terrorise les malheureux « patients » qui passent près de son cabinet.\n\n",
       "skills": [
         "Comp_Dr.Mundo"
       ],
@@ -270,7 +270,7 @@
   {
     "name": "Draven",
     "Draven": {
-      "story": "Story_Draven",
+      "story": "À Noxus, de puissants guerriers, les « arénaires », s'affrontent dans des jeux mortels pour divertir le public. Le sang y coule à foison et leurs forces y sont éprouvées, mais aucun d'entre eux n'a jamais été aussi célèbre que Draven. Cet ancien soldat découvrit que le public appréciait particulièrement son sens du spectacle, sans parler de son habileté avec des haches tournoyantes. Épris de sa propre perfection, Draven terrasse tous ses adversaires pour s'assurer que son nom continue de résonner dans les arènes de l'empire.\n\n",
       "skills": [
         "Comp_Draven"
       ],
@@ -281,7 +281,7 @@
   {
     "name": "Ekko",
     "Ekko": {
-      "story": "Story_Ekko",
+      "story": "Jeune prodige des rues mal famées de Zaun, Ekko manipule le temps pour renverser toute situation dangereuse à son avantage. En utilisant sa propre invention, la clepsydre-zéro, il explore les différents possibles de la réalité pour surmonter les difficultés. Bien qu'il aime sa liberté, lorsque ses amis sont menacés, il est prêt à tout pour les défendre. Pour quiconque ne le connaît pas, Ekko semble toujours accomplir l'impossible, et du premier coup.\n\n",
       "skills": [
         "Comp_Ekko"
       ],
@@ -292,7 +292,7 @@
   {
     "name": "Elise",
     "Elise": {
-      "story": "Story_Elise",
+      "story": "Elise est un prédateur mortel qui vit dans un palais reclus et obscur, au plus profond de la plus vieille ville de Noxus. C'était autrefois une simple femme, maîtresse d'une Maison toute-puissante, mais la morsure d'un maléfique demi-dieu la transforma en un être aussi magnifique qu'inhumain : une créature arachnéenne qui tisse sa toile pour piéger ses proies. Pour maintenir sa jeunesse éternelle, Elise se repaît des innocents et peu sont ceux qui peuvent résister à sa séduction.\n\n",
       "skills": [
         "Comp_Elise"
       ],
@@ -303,7 +303,7 @@
   {
     "name": "Evelynn",
     "Evelynn": {
-      "story": "Story_Evelynn",
+      "story": "Dans les sombres failles de Runeterra, le démon nommé Evelynn cherche sa prochaine victime. Elle attire sa proie en se faisant passer pour une femme voluptueuse, et dès que sa cible succombe à ses charmes, Evelynn révèle sa véritable nature. Elle inflige alors à sa victime des tourments indicibles et se repaît de sa douleur. Pour un démon, ce ne sont que des plaisirs innocents. Aux yeux du reste de Runeterra, ce sont des contes terrifiants, qui rappellent les dangers du désir et de la luxure.\n\n",
       "skills": [
         "Comp_Evelynn"
       ],
@@ -314,7 +314,7 @@
   {
     "name": "Ezreal",
     "Ezreal": {
-      "story": "Story_Ezreal",
+      "story": "Aventurier audacieux, doué sans le savoir pour les arts magiques, Ezreal poursuit ses expéditions dans les catacombes oubliées, se bat avec d'antiques malédictions et contourne avec aisance les obstacles les plus impossibles. Son courage et son panache sont sans borne, et il préfère improviser son salut dans les situations critiques, avec pour armes principales sa vivacité d'esprit et son gantelet mystique shurimien, qu'il utilise pour déchaîner de puissants projectiles arcaniques. Une chose est sûre : quand Ezreal est dans les parages, les problèmes ne sont pas loin. Et ils sont partout. Absolument partout.\n\n",
       "skills": [
         "Comp_Ezreal"
       ],
@@ -325,7 +325,7 @@
   {
     "name": "Fiddlesticks",
     "Fiddlesticks": {
-      "story": "Story_Fiddlestick",
+      "story": "Quelque chose s'est éveillé à Runeterra. Quelque chose d'ancien. Quelque chose de terrible. L'horreur intemporelle connue sous le nom de Fiddlesticks arpente les frontières des civilisations mortelles, attirée dans les régions en proie à la paranoïa, où elle se repaît de ses victimes terrorisées. Armée d'une faux ébréchée, la créature décharnée moissonne la peur elle-même et fait voler en éclats l'esprit de ceux qui ont eu la malchance de lui survivre. Prenez garde aux cris des corbeaux et aux chuchotements de la silhouette qui vous <i>paraît</i> humaine... car Fiddlesticks est de retour.\n\n ",
       "skills": [
         "Comp_Fiddlestick"
       ],
