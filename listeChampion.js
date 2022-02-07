@@ -26,7 +26,7 @@ const fetchApiDone = (json) => {
         divChampion.appendChild(aChampion);
 
         let imgChampion = document.createElement("img");
-        imgChampion.src = "Champions/"+champion.name+"/ChampionList_"+champion.name.toLowerCase()+".jpg";
+        imgChampion.src = "Images/Skin/"+champion.name+"_0.jpg";
         imgChampion.alt = "champion_"+champion.name;
         aChampion.appendChild(imgChampion);
 

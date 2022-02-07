@@ -323,8 +323,8 @@
     }
   },
   {
-    "name": "Fiddlestick",
-    "Fiddlestick": {
+    "name": "Fiddlesticks",
+    "Fiddlesticks": {
       "story": "Story_Fiddlestick",
       "skills": [
         "Comp_Fiddlestick"
@@ -444,6 +444,17 @@
     }
   },
   {
+    "name": "Heimerdinger",
+    "Hecarim": {
+      "story": "Story_Hecarim",
+      "skills": [
+        "Comp_Hecarim"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
     "name": "Illaoi",
     "Illaoi": {
       "story": "Story_Alistar",
@@ -551,6 +562,17 @@
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
+    }
+  },
+  {
+    "name": "Karma",
+    "Kalista": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
     }
   },
   {
@@ -676,7 +698,7 @@
   },
   {
     "name": "LeBlanc",
-    "Kog'Maw": {
+    "LeBlanc": {
       "story": "Story_Alistar",
       "skills": [
         "Comp_Alistar"
@@ -686,7 +708,7 @@
     }
   },{
   "name": "Lee Sin",
-  "Kog'Maw": {
+  "Lee Sin": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -696,7 +718,7 @@
   }
 },{
   "name": "Leona",
-  "Kog'Maw": {
+  "Leona": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -705,8 +727,8 @@
     "totalSkin": 14
   }
 },{
-  "name": "Lilia",
-  "Kog'Maw": {
+  "name": "Lillia",
+  "Lillia": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -716,7 +738,7 @@
   }
 },{
   "name": "Lissandra",
-  "Kog'Maw": {
+  "Lissandra": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -726,7 +748,7 @@
   }
 },{
   "name": "Lucian",
-  "Kog'Maw": {
+  "Lucian": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -736,7 +758,7 @@
   }
 },{
   "name": "Lulu",
-  "Kog'Maw": {
+  "Lulu": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -746,7 +768,7 @@
   }
 },{
   "name": "Lux",
-  "Kog'Maw": {
+  "Lux": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -756,7 +778,7 @@
   }
 },{
   "name": "Malphite",
-  "Kog'Maw": {
+  "Malphite": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -765,8 +787,8 @@
     "totalSkin": 13
   }
 },{
-  "name": "Malhazar",
-  "Kog'Maw": {
+  "name": "Malzahar",
+  "Malzahar": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -776,7 +798,7 @@
   }
 },{
   "name": "Maokai",
-  "Kog'Maw": {
+  "Maokai": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -786,7 +808,7 @@
   }
 },{
   "name": "Master Yi",
-  "Kog'Maw": {
+  "Master Yi": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -796,7 +818,7 @@
   }
 },{
   "name": "Miss Fortune",
-  "Kog'Maw": {
+  "Miss Fortune": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -806,7 +828,7 @@
   }
 },{
   "name": "Mordekaiser",
-  "Kog'Maw": {
+  "Mordekaiser": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -815,8 +837,8 @@
     "totalSkin": 9
   }
 },{
-  "name": "Moragana",
-  "Kog'Maw": {
+  "name": "Morgana",
+  "Morgana": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -826,7 +848,7 @@
   }
 },{
   "name": "Nami",
-  "Kog'Maw": {
+  "Nami": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -836,7 +858,7 @@
   }
 },{
   "name": "Nasus",
-  "Kog'Maw": {
+  "Nasus": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -846,7 +868,7 @@
   }
 },{
   "name": "Nautilus",
-  "Kog'Maw": {
+  "Nautilus": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -856,7 +878,7 @@
   }
 },{
   "name": "Neeko",
-  "Kog'Maw": {
+  "Neeko": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -866,7 +888,7 @@
   }
 },{
   "name": "Nidalee",
-  "Kog'Maw": {
+  "Nidalee": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -876,7 +898,7 @@
   }
 },{
   "name": "Nocturne",
-  "Kog'Maw": {
+  "Nocturne": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -886,7 +908,7 @@
   }
 },{
   "name": "Nunu",
-  "Kog'Maw": {
+  "Nunu": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -896,7 +918,7 @@
   }
 },{
   "name": "Olaf",
-  "Kog'Maw": {
+  "Olaf": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -906,7 +928,7 @@
   }
 },{
   "name": "Orianna",
-  "Kog'Maw": {
+  "Orianna": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -916,7 +938,7 @@
   }
 },{
   "name": "Ornn",
-  "Kog'Maw": {
+  "Ornn": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -926,7 +948,7 @@
   }
 },{
   "name": "Pantheon",
-  "Kog'Maw": {
+  "Pantheon": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -936,7 +958,7 @@
   }
 },{
   "name": "Poppy",
-  "Kog'Maw": {
+  "Poppy": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -946,7 +968,7 @@
   }
 },{
   "name": "Pyke",
-  "Kog'Maw": {
+  "Pyke": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -956,7 +978,7 @@
   }
 },{
   "name": "Qiyana",
-  "Kog'Maw": {
+  "Qiyana": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -966,7 +988,7 @@
   }
 },{
   "name": "Quinn",
-  "Kog'Maw": {
+  "Quinn": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -976,7 +998,7 @@
   }
 },{
   "name": "Rakan",
-  "Kog'Maw": {
+  "Rakan": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -986,7 +1008,7 @@
   }
 },{
   "name": "Rammus",
-  "Kog'Maw": {
+  "Rammus": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -996,7 +1018,7 @@
   }
 },{
   "name": "Rek'Sai",
-  "Kog'Maw": {
+  "Rek'Sai": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1006,7 +1028,7 @@
   }
 },{
   "name": "Rell",
-  "Kog'Maw": {
+  "Rell": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1016,7 +1038,7 @@
   }
 },{
   "name": "Renekton",
-  "Kog'Maw": {
+  "Renekton": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1026,7 +1048,7 @@
   }
 },{
   "name": "Rengar",
-  "Kog'Maw": {
+  "Rengar": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1036,7 +1058,7 @@
   }
 },{
   "name": "Riven",
-  "Kog'Maw": {
+  "Riven": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1046,7 +1068,7 @@
   }
 },{
   "name": "Rumble",
-  "Kog'Maw": {
+  "Rumble": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1056,7 +1078,7 @@
   }
 },{
   "name": "Ryze",
-  "Kog'Maw": {
+  "Ryze": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1064,9 +1086,20 @@
     "gameplay": "Gam_Alistar",
     "totalSkin": 13
   }
-},{
+}, {
+  "name": "Samira",
+  "Samira": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 3
+  }
+},
+  {
   "name": "Sejuani",
-  "Kog'Maw": {
+  "Sejuani": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1076,7 +1109,7 @@
   }
 },{
   "name": "Senna",
-  "Kog'Maw": {
+  "Senna": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1086,7 +1119,7 @@
   }
 },{
   "name": "Seraphine",
-  "Kog'Maw": {
+  "Seraphine": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1096,7 +1129,7 @@
   }
 },{
   "name": "Sett",
-  "Kog'Maw": {
+  "Sett": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1106,7 +1139,7 @@
   }
 },{
   "name": "Shaco",
-  "Kog'Maw": {
+  "Shaco": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1116,7 +1149,7 @@
   }
 },{
   "name": "Shen",
-  "Kog'Maw": {
+  "Shen": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1126,7 +1159,7 @@
   }
 },{
   "name": "Shyvana",
-  "Kog'Maw": {
+  "Shyvana": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1136,7 +1169,7 @@
   }
 },{
   "name": "Singed",
-  "Kog'Maw": {
+  "Singed": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1146,7 +1179,7 @@
   }
 },{
   "name": "Sion",
-  "Kog'Maw": {
+  "Sion": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1156,7 +1189,7 @@
   }
 },{
   "name": "Sivir",
-  "Kog'Maw": {
+  "Sivir": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1166,7 +1199,7 @@
   }
 },{
   "name": "Skarner",
-  "Kog'Maw": {
+  "Skarner": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1176,7 +1209,7 @@
   }
 },{
   "name": "Sona",
-  "Kog'Maw": {
+  "Sona": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1186,7 +1219,7 @@
   }
 },{
   "name": "Soraka",
-  "Kog'Maw": {
+  "Soraka": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1196,7 +1229,7 @@
   }
 },{
   "name": "Swain",
-  "Kog'Maw": {
+  "Swain": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1206,7 +1239,7 @@
   }
 },{
   "name": "Sylas",
-  "Kog'Maw": {
+  "Sylas": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1216,7 +1249,7 @@
   }
 },{
   "name": "Syndra",
-  "Kog'Maw": {
+  "Syndra": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1225,8 +1258,8 @@
     "totalSkin": 10
   }
 },{
-  "name": "Tahm",
-  "Kog'Maw": {
+  "name": "Tahm Kench",
+  "Tahm Kench": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1236,7 +1269,7 @@
   }
 },{
   "name": "Taliyah",
-  "Kog'Maw": {
+  "Taliyah": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1246,7 +1279,7 @@
   }
 },{
   "name": "Talon",
-  "Kog'Maw": {
+  "Talon": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1256,7 +1289,7 @@
   }
 },{
   "name": "Taric",
-  "Kog'Maw": {
+  "Taric": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1266,7 +1299,7 @@
   }
 },{
   "name": "Teemo",
-  "Kog'Maw": {
+  "Teemo": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1275,8 +1308,8 @@
     "totalSkin": 14
   }
 },{
-  "name": "Tresh",
-  "Kog'Maw": {
+  "name": "Thresh",
+  "Thresh": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1286,7 +1319,7 @@
   }
 },{
   "name": "Tristana",
-  "Kog'Maw": {
+  "Tristana": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1296,7 +1329,7 @@
   }
 },{
   "name": "Trundle",
-  "Kog'Maw": {
+  "Trundle": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1306,7 +1339,7 @@
   }
 },{
   "name": "Tryndamere",
-  "Kog'Maw": {
+  "Tryndamere": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1316,7 +1349,7 @@
   }
 },{
   "name": "Twisted Fate",
-  "Kog'Maw": {
+  "Twisted Fate": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1326,7 +1359,7 @@
   }
 },{
   "name": "Twitch",
-  "Kog'Maw": {
+  "Twitch": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1336,7 +1369,7 @@
   }
 },{
   "name": "Udyr",
-  "Kog'Maw": {
+  "Udyr": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1346,7 +1379,7 @@
   }
 },{
   "name": "Urgot",
-  "Kog'Maw": {
+  "Urgot": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1356,7 +1389,7 @@
   }
 },{
   "name": "Varus",
-  "Kog'Maw": {
+  "Varus": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1366,7 +1399,7 @@
   }
 },{
   "name": "Vayne",
-  "Kog'Maw": {
+  "Vayne": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1376,7 +1409,7 @@
   }
 },{
   "name": "Veigar",
-  "Kog'Maw": {
+  "Veigar": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1386,7 +1419,7 @@
   }
 },{
   "name": "Vel'Koz",
-  "Kog'Maw": {
+  "Vel'Koz": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1396,7 +1429,7 @@
   }
 },{
   "name": "Vex",
-  "Kog'Maw": {
+  "Vex": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1406,7 +1439,7 @@
   }
 },{
   "name": "Vi",
-  "Kog'Maw": {
+  "Vi": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1416,7 +1449,7 @@
   }
 },{
   "name": "Viego",
-  "Kog'Maw": {
+  "Viego": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1425,8 +1458,8 @@
     "totalSkin": 3
   }
 },{
-  "name": "Victor",
-  "Kog'Maw": {
+  "name": "Viktor",
+  "Viktor": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1436,7 +1469,7 @@
   }
 },{
   "name": "Vladimir",
-  "Kog'Maw": {
+  "Vladimir": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1446,7 +1479,7 @@
   }
 },{
   "name": "Volibear",
-  "Kog'Maw": {
+  "Volibear": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1456,7 +1489,7 @@
   }
 },{
   "name": "Warwick",
-  "Kog'Maw": {
+  "Warwick": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1466,7 +1499,7 @@
   }
 },{
   "name": "Wukong",
-  "Kog'Maw": {
+  "Wukong": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1476,7 +1509,7 @@
   }
 },{
   "name": "Xayah",
-  "Kog'Maw": {
+  "Xayah": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1486,7 +1519,7 @@
   }
 },{
   "name": "Xerath",
-  "Kog'Maw": {
+  "Xerath": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1496,7 +1529,7 @@
   }
 },{
   "name": "Xin Zhao",
-  "Kog'Maw": {
+  "Xin Zhao": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1506,7 +1539,7 @@
   }
 },{
   "name": "Yasuo",
-  "Kog'Maw": {
+  "Yasuo": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1516,7 +1549,7 @@
   }
 },{
   "name": "Yone",
-  "Kog'Maw": {
+  "Yone": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1526,7 +1559,7 @@
   }
 },{
   "name": "Yorick",
-  "Kog'Maw": {
+  "Yorick": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1536,7 +1569,7 @@
   }
 },{
   "name": "Yuumi",
-  "Kog'Maw": {
+  "Yuumi": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1546,7 +1579,7 @@
   }
 },{
   "name": "Zac",
-  "Kog'Maw": {
+  "Zac": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1556,7 +1589,7 @@
   }
 },{
   "name": "Zed",
-  "Kog'Maw": {
+  "Zed": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1566,7 +1599,7 @@
   }
 },{
   "name": "Zeri",
-  "Kog'Maw": {
+  "Zeri": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1576,7 +1609,7 @@
   }
 },{
   "name": "Ziggs",
-  "Kog'Maw": {
+  "Ziggs": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1586,7 +1619,7 @@
   }
 },{
   "name": "Zilean",
-  "Kog'Maw": {
+  "Zilean": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1596,7 +1629,7 @@
   }
 },{
   "name": "Zoe",
-  "Kog'Maw": {
+  "Zoe": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
@@ -1606,7 +1639,7 @@
   }
 },{
   "name": "Zyra",
-  "Kog'Maw": {
+  "Zyra": {
     "story": "Story_Alistar",
     "skills": [
       "Comp_Alistar"
