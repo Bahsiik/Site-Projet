@@ -446,7 +446,7 @@
   {
     "name": "Heimerdinger",
     "Heimerdinger": {
-      "story": "Story_Hecarim",
+      "story": "Scientifique yordle aussi brillant qu'excentrique, le professeur Cecil B. Heimerdinger est considéré comme l'un des inventeurs les plus innovants qu'ait connu Piltover. Travailleur si acharné que cela confine à l'obsession, il cherche les réponses aux questions les plus obscures de l'univers. Bien que ses théories paraissent souvent opaques et ésotériques, Heimerdinger a fabriqué certaines des machineries les plus étonnantes (et les plus mortelles) de Piltover. Il ne cesse jamais de bidouiller ses inventions pour les améliorer encore.\n\n",
       "skills": [
         "Comp_Hecarim"
       ],
@@ -457,7 +457,7 @@
   {
     "name": "Illaoi",
     "Illaoi": {
-      "story": "Story_Alistar",
+      "story": "La stature colossale d'Illaoi n'a d'égale que sa foi implacable. Prophétesse du Grand Kraken, elle se sert d'une énorme idole dorée pour arracher les esprits de ses ennemis et faire voler en éclats leur perception de la réalité. Ceux qui défient « l'Apôtre de la vérité de Nagakabouros » découvrent bien vite qu'Illaoi ne combat jamais seule, car le dieu des Îles aux serpents lui prête main-forte.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -468,7 +468,7 @@
   {
     "name": "Irelia",
     "Irelia": {
-      "story": "Story_Alistar",
+      "story": "Des nombreux héros qui naquirent de l'occupation noxienne, aucun n'est plus étonnant que la jeune Irelia de Navori. Formée aux danses ancestrales de sa province, elle adapta son art pour la guerre, se servant de ses mouvements gracieux et précis pour faire léviter une multitude de lames acérées. Après avoir prouvé ses talents de guerrière, elle devint le chef et le symbole de la Résistance ; à ce jour, sa tâche est toujours de défendre son pays.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -479,7 +479,7 @@
   {
     "name": "Ivern",
     "Ivern": {
-      "story": "Story_Alistar",
+      "story": "Ivern Roncepied, que beaucoup connaissent sous le nom d'Aîné de la forêt, est un être étrange mi-homme mi-arbre, qui arpente les forêts de Runeterra en cultivant la vie partout où il va. Il connaît les secrets du monde naturel et entretient une profonde amitié avec tout ce qui rampe, vole et pousse. Ivern erre dans la nature sauvage, partageant sa sagesse avec tous ceux qu'il rencontre, enrichissant les forêts et confiant parfois (à tort !) certains de ses secrets aux papillons.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -490,7 +490,7 @@
   {
     "name": "Janna",
     "Janna": {
-      "story": "Story_Alistar",
+      "story": "Armée de la puissance des grands vents de Runeterra, Janna est un mystérieux esprit élémentaire qui protège les parias de Zaun. Certains croient que la vie lui a été donnée par les suppliques des marins de Runeterra cherchant les bons vents des mers calmes, affrontant les courants traîtres ou bravant les typhons. Depuis, on implore sa protection jusque dans les profondeurs de Zaun, où Janna est devenue un fanal d'espoir pour ceux qui sont dans le besoin. Nul ne sait quand et où elle apparaîtra, mais ceux qui espèrent son aide sont rarement déçus.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -501,7 +501,7 @@
   {
     "name": "Jarvan IV",
     "Jarvan IV": {
-      "story": "Story_Alistar",
+      "story": "Le prince Jarvan, héritier de la dynastie des Lightshield, doit un jour monter sur le trône de Demacia. Élevé de manière à incarner les plus hautes vertus de sa nation, il est contraint de trouver un équilibre entre les attentes placées en lui et son désir de combattre sur la ligne de front. Jarvan inspire ses troupes avec son courage, sa détermination et son dévouement. Il porte haut les couleurs de sa famille et révèle chaque jour davantage sa véritable force de prochain souverain.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -512,7 +512,7 @@
   {
     "name": "Jax",
     "Jax": {
-      "story": "Story_Alistar",
+      "story": "Jax, dont nul ne peut égaler l'art du sarcasme et des armements inhabituels, est connu comme le dernier maître d'armes d'Icathia. Après la chute de sa terre natale, ravagée par le Néant qu'elle avait eu l'orgueil de déchaîner, Jax et ses compagnons jurèrent de protéger le peu qu'il en restait. La magie montant de nouveau dans le monde, la menace se fait plus pressante et Jax parcourt Valoran, porteur des dernières lumières d'Icathia. Il éprouve les qualités de tous les guerriers qu'il rencontre pour voir s'ils sont assez puissants pour combattre à ses côtés...\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -523,7 +523,7 @@
   {
     "name": "Jayce",
     "Jayce": {
-      "story": "Story_Alistar",
+      "story": "Jayce est un brillant inventeur qui a voué sa vie à la défense de Piltover et de sa poursuite inlassable du progrès. Armé de son marteau Hextech polymorphe, Jayce utilise aussi bien sa force que son courage et son intelligence pour protéger sa ville. Bien que considéré comme un héros par ses compatriotes, il n'apprécie pas vraiment l'attention que cela lui vaut. Jayce a néanmoins un cœur d'or, et même ceux qui sont jaloux de ses talents naturels lui sont reconnaissants de protéger la Cité du progrès.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -534,7 +534,7 @@
   {
     "name": "Jhin",
     "Jhin": {
-      "story": "Story_Alistar",
+      "story": "Jhin est un psychopathe méticuleux pour qui le meurtre est une forme d'art. Autrefois prisonnier de Ionia, mais libéré par des conspirateurs opérant au sein du conseil dirigeant du pays, ce tueur en série a désormais mis ses talents d'assassin au service de leur complot. Utilisant son pistolet comme un pinceau, Jhin crée des œuvres d'art empreintes de brutalité, aussi terrifiantes pour ses victimes que pour les témoins de ses crimes. Il tire un plaisir sadique de ses performances théâtrales, ce qui en fait un atout de poids quand il s'agit d'envoyer le plus puissant des messages : celui de la terreur.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -545,7 +545,7 @@
   {
     "name": "Jinx",
     "Jinx": {
-      "story": "Story_Alistar",
+      "story": "Criminelle hystérique et impulsive de Zaun, Jinx ne vit que pour semer le chaos sans se préoccuper des conséquences. Équipée d'un arsenal d'armes mortelles, elle déchaîne les explosions les plus spectaculaires en ne laissant dans son sillage que destruction et panique. Jinx déteste s'ennuyer et c'est dans la bonne humeur qu'elle sème le chaos dans tous les endroits qu'elle traverse.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
