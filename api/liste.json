@@ -347,7 +347,7 @@
   {
     "name": "Fizz",
     "Fizz": {
-      "story": "Story_Fizz",
+      "story": "Fizz est un yordle amphibie qui vit dans les récifs qui entourent Bilgewater. Il essaie souvent de récupérer et de rendre les tributs que lancent dans l'océan les capitaines superstitieux, mais même le plus dessalé des marins n'est pas assez arrogant pour essayer de le tromper. On raconte bien des histoires sur ceux qui ont sous-estimé son humeur changeante... Souvent confondu avec un esprit océanique capricieux, il semble capable de commander aux créatures des profondeurs et n'aime rien tant que confondre alliés comme ennemis.\n\n",
       "skills": [
         "Comp_Fizz"
       ],
@@ -358,7 +358,7 @@
   {
     "name": "Galio",
     "Galio": {
-      "story": "Story_Galio",
+      "story": "Près de la cité étincelante de Demacia, le colosse de pierre Galio monte une garde attentive. Érigé comme un rempart contre les mages ennemis, il reste souvent immobile pendant des décennies, jusqu'à ce que l'apparition de puissants flux magiques le ramène à la vie. Une fois éveillé, Galio profite de chaque seconde d'existence ; il s'enivre des frissons du combat et de l'honneur trop rare de défendre ses compatriotes. Mais ses triomphes ont toujours un arrière-goût amer, car la magie qu'il éradique est également la sève qui le fait vivre, et chaque victoire le renvoie au sommeil.\n\n",
       "skills": [
         "Comp_Galio"
       ],
@@ -369,7 +369,7 @@
   {
     "name": "Gangplank",
     "Gangplank": {
-      "story": "Story_Gangplank",
+      "story": "Aussi imprévisible que brutal, le roi des pillards déchu connu sous le nom de Gangplank est partout redouté. Il régnait autrefois sur la ville portuaire de Bilgewater et, bien que ce temps soit révolu, certains pensent que cela l'a rendu plus dangereux encore. Gangplank préférerait engloutir une fois de plus Bilgewater dans le sang plutôt que de laisser quelqu'un d'autre s'en emparer. Il possède aujourd'hui assez de pistolets, de sabres et de barils de poudre pour prétendre récupérer ce qu'il a perdu.\n\n",
       "skills": [
         "Comp_Gangplank"
       ],
@@ -380,7 +380,7 @@
   {
     "name": "Garen",
     "Garen": {
-      "story": "Story_Garen",
+      "story": "Garen est un guerrier fier et noble qui fait partie du Détachement hardi. Héritier des Crownguard, la famille chargée de défendre Demacia et ses idéaux, il est apprécié par ses compatriotes et respecté par ses ennemis. Équipé d'une armure résistante à la magie et d'une épée large, Garen affronte sans faillir les mages et les sorciers dans un véritable tourbillon d'acier.\n\n",
       "skills": [
         "Comp_Garen"
       ],
@@ -391,7 +391,7 @@
   {
     "name": "Gnar",
     "Gnar": {
-      "story": "Story_Gnar",
+      "story": "Gnar est un yordle primitif dont les manières joyeuses peuvent soudain faire place à une colère irrationnelle. Il se transforme alors en une bête colossale portée à la destruction. Gelé dans de la glace pure pendant des millénaires, la curieuse créature s'est libérée de sa prison. Aujourd'hui, il parcourt avec enthousiasme un monde qu'il trouve exotique et merveilleux. Enchanté par le danger, Gnar lance à ses ennemis tout ce qu'il trouve, qu'il s'agisse de son boomerang en croc ou d'un bâtiment proche.\n\n",
       "skills": [
         "Comp_Gnar"
       ],
@@ -402,7 +402,7 @@
   {
     "name": "Gragas",
     "Gragas": {
-      "story": "Story_Gragas",
+      "story": "Aussi imposant que jovial, Gragas est un brasseur à l'impressionnante carrure qui cherche la recette de la bière parfaite. Venu d'on ne sait où, il continue de chercher les ingrédients les plus rares dans les terres vierges de Freljord, essayant toutes les variations de bière au cours de son périple. Souvent ivre et toujours impulsif, il est légendaire pour ses rixes, qui finissent souvent en fêtes nocturnes préjudiciables au mobilier urbain. Toute apparition de Gragas annonce beuverie et destruction. Dans cet ordre.\n\n",
       "skills": [
         "Comp_Gragas"
       ],
@@ -413,7 +413,7 @@
   {
     "name": "Graves",
     "Graves": {
-      "story": "Story_Graves",
+      "story": "Malcolm Graves est un mercenaire, un parieur et un voleur recherché dans toutes les cités et tous les empires par lesquels il est passé. Malgré son tempérament explosif, il a un sens de l'honneur indéniable qu'il applique souvent avec son fusil à double canon, Destinée. Ces dernières années, il s'est réconcilié avec Twisted Fate. Leur partenariat rétabli, ils prospèrent à nouveau dans les allées sombres de Bilgewater.\n\n",
       "skills": [
         "Comp_Graves"
       ],
@@ -424,7 +424,7 @@
   {
     "name": "Gwen",
     "Gwen": {
-      "story": "Story_Gwen",
+      "story": "Ancienne poupée à qui la magie a conféré la vie, Gwen est armée des outils qui l'ont créée. Elle emporte à chaque pas l'amour de sa créatrice et ne tient jamais rien pour acquis. Elle commande à la Brume sacrée, une ancienne magie de protection qui a béni ses ciseaux, ses aiguilles et son fil à coudre. Tout est nouveau pour Gwen, mais elle reste déterminée à combattre dans la joie pour préserver le bien qui survit dans un monde en déréliction.\n\n",
       "skills": [
         "Comp_Gwen"
       ],
@@ -435,7 +435,7 @@
   {
     "name": "Hecarim",
     "Hecarim": {
-      "story": "Story_Hecarim",
+      "story": "Fusion spectrale de l'homme et de la bête, Hecarim est condamné à pourchasser les âmes des vivants pour l'éternité. Lorsque les ombres ont envahi les Îles bénies, ce fier chevalier et sa horde de cavaliers ont été anéantis par les énergies destructrices de la Ruine. À présent, quand la Brume noire s'étend sur Runeterra, il mène la charge et se plaît à massacrer et écraser ses ennemis sous ses lourds sabots.\n\n",
       "skills": [
         "Comp_Hecarim"
       ],
