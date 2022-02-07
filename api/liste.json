@@ -1327,7 +1327,7 @@
   {
     "name": "Taliyah",
     "Taliyah": {
-      "story": "Story_Alistar",
+      "story": "Taliyah est une mage issue des tribus nomades de Shurima, déchirée entre l'émerveillement de la jeunesse et les responsabilités des adultes. Elle a déjà traversé pratiquement tout Valoran pour découvrir la véritable nature de ses pouvoirs toujours plus puissants, avant d'être récemment retournée dans sa tribu pour la protéger. Certains se méprennent sur sa compassion et paient leur erreur au prix fort : sous son attitude joviale, Taliyah dissimule une volonté de fer capable de déplacer les montagnes et un esprit assez féroce pour faire trembler la terre.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1338,7 +1338,7 @@
   {
     "name": "Talon",
     "Talon": {
-      "story": "Story_Alistar",
+      "story": "Talon est la dague cachée dans l'ombre, un assassin impitoyable, capable de frapper sans prévenir et de fuir avant que l'alerte ne soit donnée. Il a acquis une dangereuse réputation dans les brutales rues de Noxus, où il a été contraint de se battre, de tuer et de voler pour survivre. Adopté par la tristement célèbre famille Du Couteau, il use maintenant de ses talents au service de l'empire, assassinant les chefs, capitaines et héros ennemis... mais aussi tout Noxien qui aurait attiré l'ire de ses maîtres.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1349,7 +1349,7 @@
   {
     "name": "Taric",
     "Taric": {
-      "story": "Story_Alistar",
+      "story": "Taric est la Manifestation du Protecteur, doté d'un incroyable pouvoir en tant que gardien de la vie, de l'amour et de la beauté sur Runeterra. Couvert d'opprobre pour avoir abandonné son devoir et exilé de sa terre natale de Demacia, Taric a entrepris l'ascension du Mont Targon en quête de rédemption et s'est découvert une mission supérieure au sein des étoiles. Imprégné de la force antique de Targon, le Bouclier de Valoran monte désormais constamment la garde contre la corruption insidieuse du Néant.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1360,7 +1360,7 @@
   {
     "name": "Teemo",
     "Teemo": {
-      "story": "Story_Alistar",
+      "story": "N'ayant pas peur de braver les obstacles les plus dangereux, Teemo explore le monde avec un enthousiasme débordant et une bonne humeur contagieuse. Yordle au sens moral inflexible, il suit fièrement les préceptes du Code des éclaireurs de Bandle, parfois avec tant d'empressement qu'il en oublie les conséquences néfastes de ses actions. Pour certains, l'existence même des éclaireurs est à remettre en cause. Mais ce qu'il ne faut surtout pas remettre en cause, ce sont les convictions de Teemo !\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1371,7 +1371,7 @@
   {
     "name": "Thresh",
     "Thresh": {
-      "story": "Story_Alistar",
+      "story": "Sadique mais rusé, Thresh est un ambitieux esprit des Îles obscures. Autrefois le gardien d'innombrables secrets des arcanes, il fut terrassé par un pouvoir plus grand que la vie ou la mort, et il s'alimente maintenant des souffrances et des tourments qu'il inflige à d'autres avec une inventivité cruelle. Les souffrances de ses victimes ne se limitent pas à leur enveloppe mortelle, car Thresh fait agoniser leurs âmes, les emprisonnant pour l'éternité dans sa lanterne impie.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1382,7 +1382,7 @@
   {
     "name": "Tristana",
     "Tristana": {
-      "story": "Story_Alistar",
+      "story": "Si bon nombre d'autres yordles utilisent leur énergie débordante pour explorer, découvrir, inventer ou plus simplement jouer de mauvais tours, Tristana a toujours puisé son inspiration dans les récits des grands guerriers. Elle avait beaucoup entendu parler de Runeterra, de ses factions et de ses guerres, et elle pensait que les yordles aussi avaient l'étoffe des légendes. Dès son arrivée dans ce monde, elle s'équipa de son fidèle canon Boomer pour se jeter au combat avec un courage et un optimisme sans bornes.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1393,7 +1393,7 @@
   {
     "name": "Trundle",
     "Trundle": {
-      "story": "Story_Alistar",
+      "story": "Trundle est un troll massif, sournois et malicieux. Il n'y a rien qu'il ne puisse soumettre à sa volonté avec son gourdin, pas même Freljord. Extrêmement territorial, Trundle traque tous ceux qui sont assez fous pour pénétrer sur ses terres. Ensuite, armé de son imposante massue en glace pure, il fait trembler ses ennemis avant de leur planter des éclats de glace dans le corps et de se moquer d'eux tandis que la toundra absorbe leur sang.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1404,7 +1404,7 @@
   {
     "name": "Tryndamere",
     "Tryndamere": {
-      "story": "Story_Alistar",
+      "story": "Poussé par une rage infinie, Tryndamere traverse Freljord et parfait sa maîtrise du combat en défiant les plus grands guerriers du nord, pour se préparer aux jours sombres qui s'annoncent. Longtemps dominé par sa haine, il cherchait à se venger de l'annihilation de son clan, mais il a depuis rencontré Ashe et trouvé un nouveau foyer auprès des Avarosans. Sa force est pratiquement surhumaine et son courage légendaire, et cela lui a permis de remporter avec ses nouveaux alliés d'innombrables victoires plus qu'improbables.\n\n ",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1415,7 +1415,7 @@
   {
     "name": "Twisted Fate",
     "Twisted Fate": {
-      "story": "Story_Alistar",
+      "story": "Twisted Fate est un virtuose des cartes à la réputation ambiguë qui a parcouru le monde entier pour l'éblouir de son charme et de ses talents, s'attirant l'admiration et la haine des riches comme des pigeons. Il prend rarement les choses au sérieux, salue chaque nouveau jour avec un sourire moqueur et insouciant. Twisted a toujours un atout dans sa manche, au propre comme au figuré.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1426,7 +1426,7 @@
   {
     "name": "Twitch",
     "Twitch": {
-      "story": "Story_Alistar",
+      "story": "Rat de Zaun, pesteux de naissance, connaisseur en saleté par passion, Twitch n'a pas peur de se salir les pattes. Armé d'une arbalète chimique qu'il pointe droit sur le cœur de Piltover, Twitch s'est juré de montrer aux gens de la surface à quel point ils sont vraiment sales. Toujours furtif et insaisissable, quand il ne traîne pas dans le Puisard, il fouille dans les déchets à la recherche de trésors qu'il est le seul à apprécier... ou d'un morceau de sandwich.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
