@@ -454,11 +454,11 @@
     "Fiora": {
       "story": "Fiora est la duelliste la plus redoutée de Valoran : elle est connue pour ses manières brusques et sa vivacité d'esprit autant que pour la rapidité de sa rapière d'acier bleu. Née au sein de la Maison Laurent du royaume de Demacia, Fiora a pris le contrôle de la famille à son père dans les remous d'un scandale qui faillit la détruire. La réputation de la Maison Laurent a été ternie, mais Fiora investit toute son énergie à restaurer l'honneur de sa famille pour qu'elle reprenne sa place légitime parmi les grands de Demacia.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Fiora défie les champions ennemis proches de l'esquiver. Elle annonce la direction dans laquelle elle va essayer d'attaquer. Si elle remporte son propre défi, elle reçoit un petit bonus et annonce une nouvelle direction.\n\n",
+        "Fiora se fend dans une direction et frappe un ennemi proche, infligeant des dégâts physiques et appliquant ses effets à l'impact.\n\n",
+        "Fiora pare tous les dégâts et toutes les entraves qui la ciblent pendant un court instant, après quoi elle donne un coup d'estoc dans une direction. Ce coup d'estoc ralentit le premier champion ennemi touché. Si Fiora a paré un effet immobilisant, elle étourdit le premier champion ennemi touché.\n\n",
+        "Fiora augmente sa vitesse d'attaque pour ses deux prochaines attaques. La première attaque ralentit la cible et la seconde inflige un coup critique.\n\n",
+        "Fiora révèle les quatre points faibles d'un champion ennemi et augmente sa vitesse de déplacement à proximité de ce champion. Si Fiora frappe les 4 points faibles ou si l'adversaire meurt après qu'elle en a frappé au moins un, Fiora et ses alliés dans la zone sont soignés pendant quelques secondes.\n\n"
       ],
       "gameplay": "Gam_Fiora",
       "totalSkin": 13
@@ -469,11 +469,11 @@
     "Fizz": {
       "story": "Fizz est un yordle amphibie qui vit dans les récifs qui entourent Bilgewater. Il essaie souvent de récupérer et de rendre les tributs que lancent dans l'océan les capitaines superstitieux, mais même le plus dessalé des marins n'est pas assez arrogant pour essayer de le tromper. On raconte bien des histoires sur ceux qui ont sous-estimé son humeur changeante... Souvent confondu avec un esprit océanique capricieux, il semble capable de commander aux créatures des profondeurs et n'aime rien tant que confondre alliés comme ennemis.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Fizz peut traverser les unités et profite d'un montant fixe de réduction des dégâts contre toutes les sources de dégâts.\n\n",
+        "Fizz traverse sa cible, infligeant des dégâts magiques et des effets à l'impact.\n\n ",
+        "Les attaques de Fizz font saigner ses ennemis, infligeant des dégâts magiques en plusieurs secondes. Fizz peut renforcer sa prochaine attaque pour infliger des dégâts supplémentaires, et renforcer ses attaques suivantes pour une courte durée.\n\n",
+        "Fizz saute et retombe avec grâce sur sa lance, devenant impossible à cibler. Depuis cette position, Fizz peut soit frapper le sol, soit sauter à nouveau avant de retomber.\n\n",
+        "Fizz lance un poisson qui s'accroche à tout champion qui le touche, ralentissant la cible. Après un court instant, un requin surgit du sol, projetant la cible dans les airs et repoussant les ennemis proches. Tous les ennemis touchés subissent des dégâts magiques et sont ralentis.\n\n"
       ],
       "gameplay": "Gam_Fizz",
       "totalSkin": 11
@@ -484,11 +484,11 @@
     "Galio": {
       "story": "Près de la cité étincelante de Demacia, le colosse de pierre Galio monte une garde attentive. Érigé comme un rempart contre les mages ennemis, il reste souvent immobile pendant des décennies, jusqu'à ce que l'apparition de puissants flux magiques le ramène à la vie. Une fois éveillé, Galio profite de chaque seconde d'existence ; il s'enivre des frissons du combat et de l'honneur trop rare de défendre ses compatriotes. Mais ses triomphes ont toujours un arrière-goût amer, car la magie qu'il éradique est également la sève qui le fait vivre, et chaque victoire le renvoie au sommeil.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les quelques secondes, la prochaine attaque de base de Galio inflige des dégâts magiques supplémentaires dans une zone.\n\n",
+        "Galio tire deux rafales de vent qui convergent pour créer une grande tornade infligeant des dégâts sur la durée.\n\n",
+        "Galio canalise une posture défensive, ce qui ralentit ses déplacements. Au relâchement de la canalisation, Galio provoque et blesse les ennemis proches.\n\n",
+        "Galio fait un pas en arrière et charge, projetant en l'air le premier champion ennemi qu'il touche.\n\n",
+        "Galio désigne la position d'un allié comme zone d'atterrissage, octroyant un bouclier anti-dégâts magiques à tous les alliés dans la zone. Après un délai, Galio s'abat sur cet emplacement, projetant en l'air les ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Galio",
       "totalSkin": 9
@@ -499,11 +499,11 @@
     "Gangplank": {
       "story": "Aussi imprévisible que brutal, le roi des pillards déchu connu sous le nom de Gangplank est partout redouté. Il régnait autrefois sur la ville portuaire de Bilgewater et, bien que ce temps soit révolu, certains pensent que cela l'a rendu plus dangereux encore. Gangplank préférerait engloutir une fois de plus Bilgewater dans le sang plutôt que de laisser quelqu'un d'autre s'en emparer. Il possède aujourd'hui assez de pistolets, de sabres et de barils de poudre pour prétendre récupérer ce qu'il a perdu.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les quelques secondes, les attaques de base de Gangplank mettent le feu à sa cible.\n\n",
+        "Gangplank tire sur une cible. Il gagne des PO supplémentaires si le tir tue la cible.\n\n",
+        "Gangplank mange des agrumes pour dissiper les effets de contrôle de foule qui l'affectent et récupérer des PV.\n\n",
+        "Gangplank place un baril de poudre à l'endroit ciblé. S'il l'attaque, le baril explose, étendant les dégâts de l'attaque dans la zone et ralentissant les ennemis.\n\n",
+        "Gangplank demande à son navire de bombarder une zone, ralentissant et blessant les ennemis.\n\n"
       ],
       "gameplay": "Gam_Gangplank",
       "totalSkin": 11
@@ -514,11 +514,11 @@
     "Garen": {
       "story": "Garen est un guerrier fier et noble qui fait partie du Détachement hardi. Héritier des Crownguard, la famille chargée de défendre Demacia et ses idéaux, il est apprécié par ses compatriotes et respecté par ses ennemis. Équipé d'une armure résistante à la magie et d'une épée large, Garen affronte sans faillir les mages et les sorciers dans un véritable tourbillon d'acier.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Si Garen n'a pas subi de dégâts ou de compétences ennemies récemment, il régénère un pourcentage de ses PV totaux chaque seconde.\n\n",
+        "Garen reçoit un bonus en vitesse de déplacement et purge tous les ralentissements qui l'affectent. Sa prochaine attaque frappe un point vital de son adversaire, infligeant des dégâts supplémentaires et le réduisant au silence.\n\n",
+        "Garen augmente passivement son armure et sa résistance magique quand il tue des ennemis. Il peut également activer cette compétence pour recevoir un bouclier et augmenter grandement sa Ténacité pendant un bref instant, avant de profiter d'un montant moindre de réduction des dégâts pendant une durée plus longue.\n\n",
+        "Garen donne des coups d'épée tourbillonnants, infligeant des dégâts physiques aux ennemis proches.\n\n",
+        "Garen en appelle à la puissance de Demacia pour tenter d'exécuter un champion ennemi.\n\n"
       ],
       "gameplay": "Gam_Garen",
       "totalSkin": 14
@@ -529,11 +529,11 @@
     "Gnar": {
       "story": "Gnar est un yordle primitif dont les manières joyeuses peuvent soudain faire place à une colère irrationnelle. Il se transforme alors en une bête colossale portée à la destruction. Gelé dans de la glace pure pendant des millénaires, la curieuse créature s'est libérée de sa prison. Aujourd'hui, il parcourt avec enthousiasme un monde qu'il trouve exotique et merveilleux. Enchanté par le danger, Gnar lance à ses ennemis tout ce qu'il trouve, qu'il s'agisse de son boomerang en croc ou d'un bâtiment proche.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Gnar génère de la Rage quand il combat. Une fois sa jauge de Rage remplie, sa prochaine compétence le transforme en Méga Gnar, ce qui améliore ses défenses et lui octroie de nouvelles compétences.\n\n",
+        "Gnar lance un boomerang qui blesse et ralentit les cibles touchées avant de retourner vers lui. S'il rattrape le boomerang, le délai de récupération est réduit. Méga Gnar lance un rocher qui s'arrête à la première unité touchée, blessant et ralentissant tous les ennemis proches. Gnar peut ensuite ramasser le rocher pour réduire le délai de récupération.\n\n",
+        "Gnar est agité à force d'attaquer et d'utiliser des compétences, ce qui lui permet d'infliger des dégâts supplémentaires et d'augmenter sa vitesse de déplacement. Méga Gnar est enragé : il se dresse sur ses pattes arrière et frappe devant lui, étourdissant les ennemis dans la zone.\n\n",
+        "Gnar bondit dans la direction ciblée et rebondit sur la tête de toute unité sur laquelle il atterrit, ce qui lui permet d'aller plus loin. Méga Gnar est trop gros pour rebondir : il atterrit de façon fracassante et inflige des dégâts de zone.\n\n",
+        "Méga Gnar projette tous les ennemis proches dans la direction ciblée, leur infligeant des dégâts et les ralentissant. Si un ennemi percute un mur, il est étourdi et il subit des dégâts supplémentaires.\n\n"
       ],
       "gameplay": "Gam_Gnar",
       "totalSkin": 9
@@ -544,11 +544,11 @@
     "Gragas": {
       "story": "Aussi imposant que jovial, Gragas est un brasseur à l'impressionnante carrure qui cherche la recette de la bière parfaite. Venu d'on ne sait où, il continue de chercher les ingrédients les plus rares dans les terres vierges de Freljord, essayant toutes les variations de bière au cours de son périple. Souvent ivre et toujours impulsif, il est légendaire pour ses rixes, qui finissent souvent en fêtes nocturnes préjudiciables au mobilier urbain. Toute apparition de Gragas annonce beuverie et destruction. Dans cet ordre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Gragas récupère des PV quand il utilise une compétence.\n\n",
+        "Gragas fait rouler son fût vers une zone ciblée ; le fût explose automatiquement au bout de 4 sec (vous pouvez activer l'explosion manuellement). La puissance de l'explosion augmente sur la durée. La vitesse de déplacement des ennemis touchés est réduite.\n\n",
+        "Gragas boit pendant 1 sec. L'ivresse qui suit le rend plus fort, ce qui lui permet d'infliger des dégâts magiques à tous les ennemis proches avec sa prochaine attaque de base et de subir moins de dégâts.\n\n",
+        "Gragas charge vers une zone ciblée et percute le premier ennemi rencontré, infligeant des dégâts à tous les ennemis proches et les étourdissant.\n\n",
+        "Gragas lance son fût, infligeant des dégâts et repoussant les ennemis touchés par l'explosion.\n\n"
       ],
       "gameplay": "Gam_Gragas",
       "totalSkin": 12
@@ -559,11 +559,11 @@
     "Graves": {
       "story": "Malcolm Graves est un mercenaire, un parieur et un voleur recherché dans toutes les cités et tous les empires par lesquels il est passé. Malgré son tempérament explosif, il a un sens de l'honneur indéniable qu'il applique souvent avec son fusil à double canon, Destinée. Ces dernières années, il s'est réconcilié avec Twisted Fate. Leur partenariat rétabli, ils prospèrent à nouveau dans les allées sombres de Bilgewater.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Le fusil de Graves dispose de propriétés uniques. Graves doit recharger quand il n'a plus de munitions. Chaque attaque tire 4 balles qui ne traversent pas les unités. Les unités touchées par plusieurs balles sont repoussées (sauf les champions).\n\n",
+        "Graves tire un projectile qui explose au bout de 2 sec, ou au bout de 0,2 sec s'il touche un élément du décor.\n\n",
+        "Graves tire une grenade fumigène qui produit un nuage de fumée réduisant le champ de vision. Les ennemis touchés par l'impact initial subissent des dégâts magiques et sont brièvement ralentis.\n\n",
+        "Graves charge devant lui et profite d'un bonus en armure pendant quelques secondes. Si Graves fonce vers un champion ennemi, il gagne deux effets Nerfs d'acier au lieu d'un. Lorsqu'il touche des ennemis avec ses attaques de base, le délai de récupération de cette compétence est réduit et le bonus est actualisé.\n\n ",
+        "Graves tire un obus explosif qui inflige de lourds dégâts au premier champion touché. Lorsque l'obus touche un champion ou arrive au bout de sa course, il explose et inflige des dégâts dans une zone en forme de cône.\n\n"
       ],
       "gameplay": "Gam_Graves",
       "totalSkin": 12
@@ -574,11 +574,11 @@
     "Gwen": {
       "story": "Ancienne poupée à qui la magie a conféré la vie, Gwen est armée des outils qui l'ont créée. Elle emporte à chaque pas l'amour de sa créatrice et ne tient jamais rien pour acquis. Elle commande à la Brume sacrée, une ancienne magie de protection qui a béni ses ciseaux, ses aiguilles et son fil à coudre. Tout est nouveau pour Gwen, mais elle reste déterminée à combattre dans la joie pour préserver le bien qui survit dans un monde en déréliction.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de Gwen infligent des dégâts magiques supplémentaires selon les PV de la cible. Gwen récupère des PV équivalents à une partie des dégâts que cet effet inflige aux champions.\n\n",
+        "Gwen coupe jusqu'à 6 fois avec ses ciseaux, infligeant des dégâts magiques dans une zone conique. Gwen inflige des dégâts bruts aux unités au centre de la zone et applique sa compétence passive sur eux à chaque coup de ciseaux.\n\n",
+        "Gwen invoque une brume qui la protège des ennemis hors de la zone. Elle ne peut être ciblée que par les ennemis qui entrent dans la brume.\n\n",
+        "Gwen effectue une courte ruée, puis gagne de la vitesse d'attaque, de la portée d'attaque et des dégâts magiques à l'impact pendant quelques secondes. Si elle frappe un ennemi pendant cette durée, le délai de récupération de cette compétence est réduit.\n\n",
+        "Gwen lance une aiguille qui ralentit les ennemis touchés, inflige des dégâts magiques et applique Mille coupures sur les champions touchés. Cette compétence peut être activée jusqu'à deux fois de plus. Chaque activation lance des aiguilles supplémentaires et inflige plus de dégâts. Gwen doit frapper un ennemi entre chaque activation pour pouvoir déverrouiller la suivante.\n\n"
       ],
       "gameplay": "Gam_Gwen",
       "totalSkin": 3
@@ -589,11 +589,11 @@
     "Hecarim": {
       "story": "Fusion spectrale de l'homme et de la bête, Hecarim est condamné à pourchasser les âmes des vivants pour l'éternité. Lorsque les ombres ont envahi les Îles bénies, ce fier chevalier et sa horde de cavaliers ont été anéantis par les énergies destructrices de la Ruine. À présent, quand la Brume noire s'étend sur Runeterra, il mène la charge et se plaît à massacrer et écraser ses ennemis sous ses lourds sabots.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les dégâts d'attaque d'Hecarim augmentent d'un montant égal à un pourcentage de sa vitesse de déplacement bonus.\n\n",
+        "Hecarim tranche les ennemis proches et leur inflige des dégâts physiques. Si Hecarim blesse au moins un ennemi, il augmente les dégâts et réduit le délai de récupération des Carnages suivants.\n\n",
+        "Hecarim inflige des dégâts magiques aux ennemis proches pendant un court instant. Il regagne un nombre de PV équivalent à un pourcentage de tous les dégâts subis par ces ennemis.\n\n",
+        "La vitesse de déplacement d'Hecarim augmente et il peut traverser les unités pendant un court instant. Sa prochaine attaque repousse la cible et inflige des dégâts physiques supplémentaires en fonction de la distance parcourue depuis l'activation de la compétence.\n\n",
+        "Hecarim invoque des cavaliers fantomatiques et charge devant lui, infligeant des dégâts magiques sur une ligne. À la fin de sa charge, Hecarim crée une onde de choc qui effraie les ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
