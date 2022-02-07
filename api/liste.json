@@ -556,7 +556,7 @@
   {
     "name": "Kai'Sa",
     "Kai'Sa": {
-      "story": "Story_Alistar",
+      "story": "Capturée par le Néant alors qu'elle n'était qu'une enfant, Kai'Sa parvint à survivre par la simple force de sa détermination et de sa ténacité. Si ses expériences ont fait d'elle une chasseuse meurtrière, certains voient en elle l'avant-goût d'un avenir qu'ils préféreraient ne pas connaître. Étant entrée en fragile symbiose avec une carapace vivante du Néant, il lui faudra bientôt décider si elle doit pardonner aux mortels qui la considèrent comme un monstre et vaincre la vague grandissante des ténèbres… ou si elle doit fermer les yeux et laisser le Néant consumer le monde qui l'a abandonnée.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -564,21 +564,11 @@
       "totalSkin": 9
     }
   },
-  {
-    "name": "Karma",
-    "Karma": {
-      "story": "Story_Alistar",
-      "skills": [
-        "Comp_Alistar"
-      ],
-      "gameplay": "Gam_Alistar",
-      "totalSkin": 13
-    }
-  },
+
   {
     "name": "Kalista",
     "Kalista": {
-      "story": "Story_Alistar",
+      "story": "Spectre courroucé des Îles obscures, Kalista est l'esprit immortel de la vengeance, un cauchemar en armure que l'on invoque pour pourchasser les traîtres et les menteurs. Les victimes trahies peuvent réclamer vengeance, mais Kalista ne répond qu'à ceux dont elle estime la cause digne de ses talents. Malheur à ceux qui suscitent l'ire de Kalista, car tout pacte qu'elle scelle ne se finit que d'une seule façon : dans les flammes glacées de ses lances spirituelles.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -587,9 +577,20 @@
     }
   },
   {
+    "name": "Karma",
+    "Karma": {
+      "story": "Aucun mortel n'incarne mieux que Karma les traditions spirituelles d'Ionia. Elle est l'hôte vivant d'une âme ancienne réincarnée à de multiples reprises. Elle contient tous les souvenirs accumulés au fil de ces vies et elle possède une puissance que peu peuvent comprendre. Elle a fait de son mieux pour guider son peuple lors de la crise récente, même si elle sait que la paix et l'harmonie ne sont possibles qu'à un prix élevé, pour elle et pour la terre qu'elle aime tant.\n\n",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
     "name": "Karthus",
     "Karthus": {
-      "story": "Story_Alistar",
+      "story": "Héraut de l'oubli, Karthus est un esprit immortel dont les chants ensorcelants préludent à l'horreur de son apparition. Les vivants craignent l'existence éternelle des morts-vivants, mais Karthus n'y voit que beauté et pureté, une union parfaite de la vie et de la mort. Lorsque Karthus émerge des Îles obscures, c'est pour apporter aux mortels la joie de la mort dont il est le vibrant apôtre.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -600,7 +601,7 @@
   {
     "name": "Kassadin",
     "Kassadin": {
-      "story": "Story_Alistar",
+      "story": "Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son village fut ravagé par le Néant. Il jura de se venger et s'arma de reliques arcaniques qu'il combina à l'aide de technologies interdites. Enfin, Kassadin se dirigea vers les ruines d'Icathia à la recherche du prophète autoproclamé, Malzahar, prêt à affronter les monstres du Néant.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -611,7 +612,7 @@
   {
     "name": "Katarina",
     "Katarina": {
-      "story": "Story_Alistar",
+      "story": "Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son village fut ravagé par le Néant. Il jura de se venger et s'arma de reliques arcaniques qu'il combina à l'aide de technologies interdites. Enfin, Kassadin se dirigea vers les ruines d'Icathia à la recherche du prophète autoproclamé, Malzahar, prêt à affronter les monstres du Néant.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -622,7 +623,7 @@
   {
     "name": "Kayle",
     "Kayle": {
-      "story": "Story_Alistar",
+      "story": "Née d'une Manifestation targonienne au plus fort des Guerres runiques, Kayle honore l'héritage de sa mère en combattant pour la justice, portée par des ailes de feu divin. Elle et sa sœur jumelle Morgana ont longtemps été les protectrices de Demacia. Mais Kayle fut déçue par les trop nombreuses faiblesses des mortels et elle abandonna le royaume. Pourtant, d'après les légendes, elle punit toujours l'iniquité avec ses lames de feu, et beaucoup attendent avec espoir son retour…\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -633,7 +634,7 @@
   {
     "name": "Kayn",
     "Kayn": {
-      "story": "Story_Alistar",
+      "story": "Expert inégalé dans la pratique de la magie des ombres, Shieda Kayn combat pour accomplir sa véritable destinée : mener un jour l'Ordre de l'ombre vers une ère nouvelle où Ionia régnera en maître. Il manie Rhaast, une arme darkin douée de raison, sans jamais craindre la corruption de son corps et de son esprit. Il ne peut y avoir pour lui que deux fins possibles : soit Kayn pliera l'arme à sa volonté, soit la faux maléfique le consumera complètement, ouvrant la voie à la destruction de tout Runeterra.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -644,7 +645,7 @@
   {
     "name": "Kennen",
     "Kennen": {
-      "story": "Story_Alistar",
+      "story": "Vif comme l'éclair, Kennen est plus que le simple protecteur de l'équilibre ionien, c'est aussi le seul yordle membre du Kinkou. En dépit de son allure de boule de poils, il est prêt à affronter n'importe quelle menace dans un tourbillon de shurikens et d'enthousiasme. Aux côtés de son maître, Shen, Kennen patrouille dans le domaine des esprits, utilisant sa dévastatrice énergie électrique pour abattre ses ennemis.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -655,7 +656,7 @@
   {
     "name": "Kha'Zix",
     "Kha'Zix": {
-      "story": "Story_Alistar",
+      "story": "Le Néant grandit et le Néant s'adapte : parmi ses nombreuses engeances, nul n'incarne mieux cette vérité que Kha'Zix. Ce monstre est né pour survivre et pour tuer les plus forts. Quand il ne parvient pas à ses fins, il évolue et se crée de nouveaux moyens plus efficaces d'abattre sa proie. Alors que Kha'Zix n'était à l'origine qu'une créature sans cervelle, son intelligence s'est développée autant que sa forme physique. Aujourd'hui, chacune de ses traques est planifiée et profite même de la peur viscérale qu'il instille dans le cœur de ses victimes.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
