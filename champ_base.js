@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const fetchApiDone = (json) => {
     const pStory = document.getElementById("story");
+    const pTitle = document.getElementById("titre");
     const imgOpentab1 = document.getElementById("img_opentab1");
     const imgOpentab2 = document.getElementById("img_opentab2");
     const imgOpentab3 = document.getElementById("img_opentab3");
@@ -28,6 +29,7 @@ const fetchApiDone = (json) => {
     // console.log("json: ", json)
     json.forEach((champion) => {
         if(champion.name === id_champ){
+            pTitle.textContent = champion.name;
             pStory.textContent = champion[champion.name].story;
             imgOpentab1.src="Images/Comp/"+champion.name+"P.png"
             imgOpentab2.src="Images/Comp/"+champion.name+"Q.png"
