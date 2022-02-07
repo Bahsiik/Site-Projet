@@ -88,7 +88,7 @@ body {
     align-items: center;
     font-family: "Teko";
     color: #ffffff;
-    font-size: 0.55em;
+    font-size: 1em;
 }
 
 #opentab2:checked ~ .tab-list .tab2 {
@@ -145,7 +145,7 @@ body {
     align-items: center;
     font-family: "Teko";
     color: #ffffff;
-    font-size: 0.7em;
+    font-size: 1em;
 }
 
 #opentab5:checked ~ .tab-list .tab5 {
@@ -168,7 +168,7 @@ body {
     align-items: center;
     font-family: "Teko";
     color: #ffffff;
-    font-size: 0.7em;
+    font-size: 1em;
 }
 
 #visio {
