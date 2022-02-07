@@ -5,7 +5,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/LeBlanc_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lee Sin_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Leona_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lillia_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lillia_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lillia_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lissandra_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lucian_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lulu_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Lux_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malphite_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Malzahar_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Maokai_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Master Yi_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Miss Fortune_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Mordekaiser_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Skin/Morgana_9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
