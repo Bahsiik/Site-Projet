@@ -754,11 +754,11 @@
     "Kai'Sa": {
       "story": "Capturée par le Néant alors qu'elle n'était qu'une enfant, Kai'Sa parvint à survivre par la simple force de sa détermination et de sa ténacité. Si ses expériences ont fait d'elle une chasseuse meurtrière, certains voient en elle l'avant-goût d'un avenir qu'ils préféreraient ne pas connaître. Étant entrée en fragile symbiose avec une carapace vivante du Néant, il lui faudra bientôt décider si elle doit pardonner aux mortels qui la considèrent comme un monstre et vaincre la vague grandissante des ténèbres… ou si elle doit fermer les yeux et laisser le Néant consumer le monde qui l'a abandonnée.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Kai'Sa appliquent des effets Plasma, infligeant de plus en plus de dégâts magiques supplémentaires. Les effets immobilisants des alliés appliquent aussi des effets Plasma. De plus, les objets achetés par Kai'Sa améliorent ses sorts de base en leur offrant des propriétés plus puissantes.\n\n",
+        "Kai'Sa tire une volée de projectiles qui traquent les cibles proches. Arme vivante : Pluie d'Icathia est améliorée pour tirer davantage de projectiles.\n\n",
+        "Kai'Sa tire un projectile à longue portée, marquant les ennemis avec sa compétence passive. Arme vivante : Rayon du Néant est amélioré pour appliquer davantage de marques passives et pour réduire son délai de récupération contre les champions.\n\n",
+        "Kai'Sa augmente brièvement sa vitesse de déplacement, puis augmente sa vitesse d'attaque. Arme vivante : Surpresseur est amélioré pour octroyer une brève invisibilité.\n\n",
+        "Kai'Sa effectue une ruée jusqu'à un champion ennemi.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -770,11 +770,11 @@
     "Kalista": {
       "story": "Spectre courroucé des Îles obscures, Kalista est l'esprit immortel de la vengeance, un cauchemar en armure que l'on invoque pour pourchasser les traîtres et les menteurs. Les victimes trahies peuvent réclamer vengeance, mais Kalista ne répond qu'à ceux dont elle estime la cause digne de ses talents. Malheur à ceux qui suscitent l'ire de Kalista, car tout pacte qu'elle scelle ne se finit que d'une seule façon : dans les flammes glacées de ses lances spirituelles.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Donnez un ordre de déplacement pendant l'animation de l'attaque de base ou de la Perforation de Kalista pour bondir sur une petite distance dans cette direction après avoir lancé l'attaque.\n\n",
+        "Kalista projette une lance rapide qui traverse les ennemis ainsi tués.\n\n",
+        "Inflige des dégâts supplémentaires quand Kalista et son pactisant frappent la même cible. Activez pour envoyer une âme patrouiller le long d'une route, révélant la zone devant elle.\n\n",
+        "Les attaques plantent des lances dans leurs cibles. Activez pour extirper les lances, ralentissant les ennemis et leur infligeant des dégâts augmentés.\n\n",
+        "Kalista téléporte le pactisant allié auprès d'elle. Le pactisant peut ensuite charger vers une position pour repousser tous les champions ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -785,11 +785,11 @@
     "Karma": {
       "story": "Aucun mortel n'incarne mieux que Karma les traditions spirituelles d'Ionia. Elle est l'hôte vivant d'une âme ancienne réincarnée à de multiples reprises. Elle contient tous les souvenirs accumulés au fil de ces vies et elle possède une puissance que peu peuvent comprendre. Elle a fait de son mieux pour guider son peuple lors de la crise récente, même si elle sait que la paix et l'harmonie ne sont possibles qu'à un prix élevé, pour elle et pour la terre qu'elle aime tant.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après que Karma a lancé 5 compétences ou attaques, sa prochaine compétence est renforcée.\n\n",
+        "Karma envoie une boule d'énergie spirituelle qui explose et inflige des dégâts au contact d'une unité ennemie. Bonus Mantra : en plus de l'explosion, Mantra augmente la puissance destructrice de Flamme intérieure, créant un cataclysme qui inflige des dégâts après un court délai.\n\n  ",
+        "Karma se lie à un ennemi, lui infligeant des dégâts et le révélant. Si le lien n'est pas brisé, l'ennemi sera immobilisé et subira de nouveau des dégâts. Bonus Mantra : Karma renforce le lien, ce qui la soigne et prolonge la durée de l'immobilisation.\n\n",
+        "Karma invoque un bouclier qui absorbe les dégâts et qui augmente la vitesse de déplacement de l'allié protégé. Bonus Mantra : de l'énergie se diffuse depuis la cible, renforçant le bouclier initial et octroyant Exaltation aux champions alliés proches.\n\n",
+        "Karma renforce sa prochaine compétence pour qu'elle ait un effet supplémentaire. Mantra est disponible au niveau 1 sans nécessiter de point de compétence.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -800,11 +800,11 @@
     "Karthus": {
       "story": "Héraut de l'oubli, Karthus est un esprit immortel dont les chants ensorcelants préludent à l'horreur de son apparition. Les vivants craignent l'existence éternelle des morts-vivants, mais Karthus n'y voit que beauté et pureté, une union parfaite de la vie et de la mort. Lorsque Karthus émerge des Îles obscures, c'est pour apporter aux mortels la joie de la mort dont il est le vibrant apôtre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lorsqu'il meurt, Karthus prend une forme spirituelle qui lui permet de continuer à lancer des sorts.\n\n",
+        "Karthus crée une explosion à retardement, infligeant des dégâts aux ennemis proches. Les ennemis isolés subissent plus de dégâts.\n\n",
+        "Karthus crée un mur d'énergie. Les ennemis franchissant le mur voient leur vitesse de déplacement et leur résistance magique temporairement réduites.\n\n",
+        "Karthus vole passivement l'énergie de ses victimes, gagnant du mana à chaque élimination. Karthus peut aussi s'immerger dans les âmes de ses proies, infligeant des dégâts aux ennemis proches mais au prix d'une grande perte de mana.\n\n",
+        "Après une canalisation de 3 secondes, Karthus inflige des dégâts à tous les champions ennemis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -815,11 +815,11 @@
     "Kassadin": {
       "story": "Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son village fut ravagé par le Néant. Il jura de se venger et s'arma de reliques arcaniques qu'il combina à l'aide de technologies interdites. Enfin, Kassadin se dirigea vers les ruines d'Icathia à la recherche du prophète autoproclamé, Malzahar, prêt à affronter les monstres du Néant.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Kassadin subit moins de dégâts magiques et peut traverser les unités.\n\n",
+        "Kassadin tire un orbe d'énergie du Néant sur sa cible, infligeant des dégâts et interrompant les canalisations. Le surplus d'énergie lui confère un bouclier temporaire qui absorbe les dégâts magiques.\n\n",
+        "Passive : les attaques de base de Kassadin infligent des dégâts magiques supplémentaires. Active : la prochaine attaque de base de Kassadin inflige d'importants dégâts magiques supplémentaires et lui rend du mana.\n\n",
+        "Kassadin tire de l'énergie des sorts lancés près de lui. Après avoir tiré assez d'énergie, Kassadin peut utiliser Pulsation pour blesser et ralentir les ennemis dans une zone en forme de cône devant lui.\n\n",
+        "Kassadin se téléporte vers une destination proche, blessant les ennemis se trouvant à proximité. Chaque utilisation de Fissure dans une courte période augmente le coût en mana et les dégâts de la Fissure suivante.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -830,11 +830,11 @@
     "Katarina": {
       "story": "Kassadin se fraye un chemin brûlant dans les lieux les plus sombres du monde ; il sait que ses jours sont comptés. Guide et aventurier shurimien accompli, il avait choisi de fonder une famille parmi les tribus pacifiques du sud, jusqu'au jour où son village fut ravagé par le Néant. Il jura de se venger et s'arma de reliques arcaniques qu'il combina à l'aide de technologies interdites. Enfin, Kassadin se dirigea vers les ruines d'Icathia à la recherche du prophète autoproclamé, Malzahar, prêt à affronter les monstres du Néant.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les délais de récupération des compétences de Katarina sont grandement réduits quand un champion qu'elle a blessé récemment meurt. Si Katarina ramasse une dague, elle s'en sert pour frapper tous les ennemis proches, infligeant des dégâts magiques.\n\n",
+        "Katarina lance une dague sur une cible. La dague rebondit ensuite sur les ennemis proches avant de tomber au sol.\n\n",
+        "Katarina augmente sa vitesse de déplacement et lance une dague dans les airs.\n\n",
+        "Katarina se téléporte près de sa cible. S'il s'agit d'un ennemi, elle le frappe. Sinon, elle frappe l'ennemi le plus proche.\n\n",
+        "Katarina tournoie et projette rapidement des couteaux sur les trois champions ennemis les plus proches, infligeant d'énormes dégâts sur la durée de la canalisation.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -845,11 +845,11 @@
     "Kayle": {
       "story": "Née d'une Manifestation targonienne au plus fort des Guerres runiques, Kayle honore l'héritage de sa mère en combattant pour la justice, portée par des ailes de feu divin. Elle et sa sœur jumelle Morgana ont longtemps été les protectrices de Demacia. Mais Kayle fut déçue par les trop nombreuses faiblesses des mortels et elle abandonna le royaume. Pourtant, d'après les légendes, elle punit toujours l'iniquité avec ses lames de feu, et beaucoup attendent avec espoir son retour…\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de Kayle sont renforcées par les cieux au fur et à mesure qu'elle gagne des niveaux et dépense des points de compétence. Ses ailes s'enflamment tandis qu'elle gagne progressivement de la vitesse d'attaque, de la vitesse de déplacement, de la portée d'attaque et des vagues de feu sur ses attaques.\n\n",
+        "Kayle fait apparaître un portail pour tirer une épée céleste qui traverse les ennemis touchés, les ralentissant, les blessant et réduisant leurs résistances.\n\n",
+        "Kayle se soigne et soigne l'allié le plus proche, et tous les deux reçoivent un bonus en vitesse de déplacement.\n\n",
+        "Passive : l'épée céleste de Kayle, Vertu, inflige des dégâts magiques supplémentaires aux ennemis qu'elle attaque. Active : la prochaine attaque de Kayle déchaîne le feu céleste sur sa cible, infligeant des dégâts supplémentaires en fonction des PV manquants de la cible.\n\n",
+        "Kayle rend un allié invulnérable et fait appel aux anciennes Manifestations de la Justice pour faire tomber une pluie d'épées purificatrices autour de sa cible.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -860,11 +860,11 @@
     "Kayn": {
       "story": "Expert inégalé dans la pratique de la magie des ombres, Shieda Kayn combat pour accomplir sa véritable destinée : mener un jour l'Ordre de l'ombre vers une ère nouvelle où Ionia régnera en maître. Il manie Rhaast, une arme darkin douée de raison, sans jamais craindre la corruption de son corps et de son esprit. Il ne peut y avoir pour lui que deux fins possibles : soit Kayn pliera l'arme à sa volonté, soit la faux maléfique le consumera complètement, ouvrant la voie à la destruction de tout Runeterra.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Kayn manie une arme antique et combat Rhaast, le Darkin qu'elle renferme, pour en prendre le contrôle. Soit le Darkin triomphera, soit Kayn maîtrisera Rhaast et deviendra l'Assassin de l'ombre. Darkin : soin équivalent à un pourcentage des dégâts de compétence infligés aux champions. Assassin de l'ombre : inflige des dégâts supplémentaires pendant les premières secondes d'un combat contre des champions ennemis.\n\n",
+        "Kayn se rue vers l'avant puis frappe. La ruée et l'attaque infligent toutes deux des dégâts.\n\n",
+        "Kayn blesse et ralentit les cibles sur une ligne.\n\n",
+        "Kayn peut traverser le terrain.\n\n",
+        "Kayn se cache dans le corps d'un ennemi, infligeant d'énormes dégâts quand il ressort.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -875,11 +875,11 @@
     "Kennen": {
       "story": "Vif comme l'éclair, Kennen est plus que le simple protecteur de l'équilibre ionien, c'est aussi le seul yordle membre du Kinkou. En dépit de son allure de boule de poils, il est prêt à affronter n'importe quelle menace dans un tourbillon de shurikens et d'enthousiasme. Aux côtés de son maître, Shen, Kennen patrouille dans le domaine des esprits, utilisant sa dévastatrice énergie électrique pour abattre ses ennemis.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Kennen étourdit les ennemis qu'il touche 3 fois avec ses compétences.\n\n",
+        "Kennen lance un shuriken rapide dans une direction, infligeant des dégâts et ajoutant une Marque de tempête à tout adversaire touché.\n\n",
+        "Kennen inflige, de façon passive, des dégâts supplémentaires et ajoute une Marque de tempête à sa cible toutes les quelques attaques. Il peut activer cette compétence pour infliger des dégâts et ajouter une autre Marque de tempête aux cibles déjà marquées.\n\n",
+        "Kennen se transforme en boule d'électricité et peut traverser les unités et leur appliquer une Marque de tempête. En prenant cette forme, Kennen augmente sa vitesse de déplacement. En quittant cette forme, il augmente sa vitesse d'attaque.\n\n",
+        "Kennen invoque une tempête qui frappe les champions ennemis proches et leur inflige des dégâts magiques.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -890,11 +890,11 @@
     "Kha'Zix": {
       "story": "Le Néant grandit et le Néant s'adapte : parmi ses nombreuses engeances, nul n'incarne mieux cette vérité que Kha'Zix. Ce monstre est né pour survivre et pour tuer les plus forts. Quand il ne parvient pas à ses fins, il évolue et se crée de nouveaux moyens plus efficaces d'abattre sa proie. Alors que Kha'Zix n'était à l'origine qu'une créature sans cervelle, son intelligence s'est développée autant que sa forme physique. Aujourd'hui, chacune de ses traques est planifiée et profite même de la peur viscérale qu'il instille dans le cœur de ses victimes.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les ennemis proches qui sont isolés sont marqués. Les compétences de Kha'Zix profitent d'interactions avec les cibles isolées. Lorsque Kha'Zix n'est pas visible par l'équipe ennemie, il gagne Menace invisible, qui permet à sa prochaine attaque de base contre un champion ennemi d'infliger des dégâts magiques supplémentaires et de le ralentir pendant quelques secondes.\n\n",
+        "Kha'Zix inflige des dégâts physiques à sa cible. Les dégâts sont augmentés contre les cibles isolées. S'il choisit l'évolution Griffes de faucheur, Goût de la peur a un délai de récupération réduit s'il est utilisé contre une cible isolée. Kha'Zix augmente aussi la portée de ses attaques de base et de Goût de la peur.\n\n",
+        "Kha'Zix projette des piques qui infligent des dégâts physiques aux ennemis touchés. Kha'Zix est soigné s'il se trouve dans le rayon de l'explosion. S'il choisit l'évolution Batterie de piques, 3 piques sont projetées dans une zone conique, les ennemis touchés sont ralentis et les champions ennemis touchés sont révélés pendant 2 sec. Les cibles isolées sont ralenties davantage.\n\n",
+        "Kha'Zix bondit sur une zone, infligeant des dégâts physiques aux ennemis autour de son point de chute. S'il choisit l'évolution Ailes, la portée de Bond augmente de 200 et le délai de récupération est annulé quand il tue un champion ou réussit une assistance.\n\n",
+        "Chaque rang permet à Kha'Zix de faire évoluer l'une de ses compétences, ce qui lui confère un effet supplémentaire unique. Quand Assaut du Néant est activé, Kha'Zix devient invisible, ce qui déclenche Menace invisible et augmente sa vitesse de déplacement. S'il choisit l'évolution Occultation adaptative, Assaut du Néant augmente la durée de son invisibilité et peut être utilisé une fois de plus.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -905,11 +905,11 @@
     "Kindred": {
       "story": "Kindred représente les essences jumelles de la mort, distinctes mais indissociables. La flèche d'Agneau offre une fin rapide à ceux qui acceptent leur destin. Loup pourchasse ceux qui fuient leur dernier soupir et leur arrache brutalement la vie à coups de crocs. Bien que les interprétations de la nature de Kindred varient à travers tout Runeterra, chaque mortel doit choisir le vrai visage de sa mort.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Kindred peut marquer des cibles à chasser. Chaque chasse fructueuse renforce définitivement les compétences de base de Kindred. Toutes les 4 chasses menées à bien, la portée des attaques de base de Kindred augmente également.\n\n",
+        "Kindred fait une cabriole et tire sur un maximum de trois cibles proches.\n\n",
+        "Loup enrage et attaque les ennemis proches de lui. Agneau cumule passivement des effets en se déplaçant et en attaquant. Au maximum d'effets cumulés, la prochaine attaque d'Agneau lui rend des PV.\n\n",
+        "Agneau effectue un tir précis, ralentissant la cible. Si Agneau attaque la cible deux fois de plus, sa troisième attaque envoie Loup sur la cible pour lui infliger d'énormes dégâts.\n\n",
+        "Agneau offre à toutes les créatures vivantes dans une zone un refuge contre la mort. Jusqu'à la fin de l'effet, personne ne peut y mourir. Les unités sont ensuite soignées.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -920,11 +920,11 @@
     "Kled": {
       "story": "Guerrier aussi intrépide que grincheux, Kled est la plus pure incarnation de la fureur de Noxus. C'est un symbole que les soldats de l'empire adorent, dont les officiers se méfient et que la noblesse déteste. Beaucoup affirment que Kled a participé à toutes les campagnes des légions, qu'il a obtenu toutes les distinctions militaires et qu'il n'a jamais reculé devant un combat. Si la véracité des détails est souvent douteuse, une partie de sa légende reste indéniable : quand il charge sur le dos de Skaarl, sa monture un peu froussarde, Kled se bat pour protéger ce qui lui appartient... et s'emparer de tout le reste !\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Kled chevauche sa fidèle monture, Skaarl, qui subit les dégâts à sa place. Quand les PV de Skaarl tombent à zéro, Kled est désarçonné. Sans monture, les compétences de Kled changent et il inflige moins de dégâts aux champions. Kled peut restaurer le courage de Skaarl en combattant des ennemis. Quand le courage atteint son maximum, Kled se remet en selle avec une partie des PV de Skaarl.\n\n",
+        "Kled lance un piège à ours qui inflige des dégâts et s'accroche à un champion ennemi. Si la cible reste accrochée pendant un court instant, elle subit des dégâts physiques supplémentaires et est tirée vers Kled. Si Kled est désarçonné, la compétence devient Pistolet de poche, un tir à distance qui projette Kled en arrière et restaure du courage.\n\n",
+        "Kled augmente grandement sa vitesse d'attaque le temps de quatre attaques. La quatrième attaque inflige plus de dégâts.\n\n",
+        "Kled fonce dans une direction, infligeant des dégâts physiques et bénéficiant d'un bref bonus en vitesse de déplacement. Kled peut réactiver cette compétence pour foncer en sens inverse à travers sa cible initiale, infligeant les mêmes dégâts.\n\n",
+        "Kled et Skaarl chargent vers la zone ciblée en s'entourant d'un bouclier et en laissant derrière eux une traînée qui augmente la vitesse des alliés. Skaarl fonce sur le premier champion ennemi qu'il rencontre.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -935,11 +935,11 @@
     "Kog'Maw": {
       "story": "Émanant d'une brèche ouverte vers le Néant, c'est dans les ruines hantées d'Icathia que Kog'Maw, la putride créature à la gueule béante, et son insatiable curiosité firent leur apparition. Cette étrange bête du Néant doit mâchouiller tout ce qui se trouve à portée pour en comprendre la nature. Bien qu'il ne soit pas fondamentalement mauvais, Kog'Maw est dangereux par sa candeur, d'autant qu'elle précède généralement une frénésie insatiable, mue par sa curiosité sans fond.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "4 sec après sa mort, Kog'Maw explose, infligeant des dégâts bruts aux ennemis proches.\n\n",
+        "Kog'Maw lance un projectile corrosif qui inflige des dégâts magiques et ronge l'armure et la résistance magique de la cible pendant un court instant. Kog'Maw gagne aussi de la vitesse d'attaque.\n\n",
+        "Kog'Maw dispose d'une portée d'attaque augmentée et ses attaques infligent des dégâts magiques équivalents à un pourcentage des PV max de la cible.\n\n",
+        "Kog'Maw projette un limon particulier qui blesse tous les ennemis touchés. Le limon laisse derrière lui une traînée qui ralentit les ennemis le traversant.\n\n",
+        "Kog'Maw tire un projectile d'artillerie à longue portée, infligeant des dégâts magiques (grandement augmentés contre les ennemis à qui il reste peu de PV) et révélant les cibles non-camouflées. Utiliser plusieurs fois Artillerie vivante en peu de temps augmente progressivement le coût en mana des tirs supplémentaires.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -950,11 +950,11 @@
     "LeBlanc": {
       "story": "Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout le monde, et même à plusieurs endroits en même temps. Les objectifs que poursuit LeBlanc, de même que sa véritable identité, sont à l'image de ses complots : totalement insaisissables.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand LeBlanc tombe à moins de 40% de ses PV max, elle devient invisible pendant 1 sec et crée une Image miroir qui n'inflige aucun dégât et dure jusqu'à 8 sec.\n\n",
+        "LeBlanc lance un sceau qui inflige des dégâts et qui marque la cible pendant 3,5 sec. Blesser la cible marquée avec une compétence fait exploser le sceau, infligeant des dégâts supplémentaires.\n\n",
+        "LeBlanc fonce jusqu'à l'endroit visé, infligeant des dégâts aux ennemis proches de son point d'arrivée. Dans les 4 sec qui suivent, LeBlanc peut réactiver Distorsion pour retourner à son point de départ.\n\n",
+        "LeBlanc lance une chaîne qui s'attache au premier ennemi touché. Si la cible reste enchaînée pendant 1,5 sec, LeBlanc l'immobilise et lui inflige des dégâts supplémentaires.\n\n",
+        "LeBlanc imite l'un de ses sorts de base.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -965,11 +965,11 @@
     "Lee Sin": {
       "story": "Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout le monde, et même à plusieurs endroits en même temps. Les objectifs que poursuit LeBlanc, de même que sa véritable identité, sont à l'image de ses complots : totalement insaisissables.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir utilisé une compétence, Lee Sin voit sa vitesse d'attaque augmenter pour ses 2 prochaines attaques de base. Ces attaques accélérées lui rendent de l'énergie.\n\n",
+        "Onde sonore : Lee Sin émet une onde sonore pour localiser ses ennemis, infligeant des dégâts physiques au premier ennemi touché. Si Onde sonore touche un ennemi, Lee Sin peut lancer Coup résonant dans les 3 sec qui suivent. Coup résonant : Lee Sin fonce vers l'ennemi touché par Onde sonore, infligeant des dégâts physiques en fonction des PV manquants de l'ennemi.\n\n",
+        "Rempart : Lee Sin fonce vers l'allié ciblé, se protégeant contre les dégâts. Si l'allié est un champion, il est également protégé. Après avoir lancé Rempart, Lee Sin peut lancer Force d'âme dans les 3 sec qui suivent. Force d'âme : l'entraînement intense de Lee Sin lui permet de décupler ses forces pendant un combat. Pendant 4 sec, Lee Sin augmente ses effets Vol de vie et Sort vampirique.\n\n",
+        "Trombe : Lee Sin frappe le sol, envoyant une onde de choc qui inflige des dégâts magiques et révèle les unités ennemies touchées. Si Trombe touche un ennemi, Lee Sin peut lancer Fracture dans les 3 sec qui suivent. Fracture : Lee Sin estropie les ennemis proches blessés par Trombe, réduisant leur vitesse de déplacement pendant 4 sec. La vitesse de déplacement revient peu à peu à la normale pendant la durée de la compétence.\n\n",
+        "Lee Sin donne un puissant coup de pied qui projette sa cible en arrière, infligeant des dégâts physiques à la cible et à tous les ennemis qu'elle percute. Les ennemis ainsi percutés sont également projetés en l'air un court instant. Cette technique lui a été enseignée par Jesse Perring, mais Lee Sin ne sait pas encore éjecter les joueurs de la carte.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
