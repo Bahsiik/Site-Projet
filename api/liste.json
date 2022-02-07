@@ -116,7 +116,7 @@
   {
     "name": "Aurelion Sol",
     "Aurelion Sol": {
-      "story": "Story_Aurelion Sol",
+      "story": "Autrefois, Aurelion Sol façonnait des merveilles célestes dont il parsemait le vide infini du cosmos. À présent, il est forcé d'utiliser ses pouvoirs extraordinaires pour le compte d'un empire de l'espace qui s'est joué de lui et l'a réduit en esclavage. Prêt à tout pour redevenir le forgeron stellaire qu'il était, Aurelion Sol n'hésitera pas à arracher les étoiles de leur ciel nocturne si c'est là le prix à payer pour regagner sa liberté.\n\n",
       "skills": [
         "Comp_Aurelion Sol"
       ],
@@ -127,7 +127,7 @@
   {
     "name": "Azir",
     "Azir": {
-      "story": "Story_Azir",
+      "story": "Azir fut l'empereur mortel de Shurima en des temps très lointains, un homme fier dressé au bord de l'immortalité. Son orgueil lui valut d'être trahi et assassiné à l'heure de son triomphe ; mais des millénaires se sont écoulés et il revient sous la forme d'un être transfiguré à l'immense puissance. Sa cité ensevelie ayant ressurgi des sables, Azir cherche à rendre sa gloire passée à Shurima.\n\n",
       "skills": [
         "Comp_Azir"
       ],
@@ -138,7 +138,7 @@
   {
     "name": "Bard",
     "Bard": {
-      "story": "Story_Bard",
+      "story": "Voyageur d'au-delà des étoiles, Bard est un messager des bons augures qui combat pour maintenir l'équilibre dont la vie a besoin pour prospérer dans l'indifférence du chaos. Dans tout Runeterra, sa mystérieuse nature inspire des chants qui ne sont d'accord que sur un point : le vagabond cosmique est attiré par les reliques dotées d'un grand pouvoir magique. Accompagné par un chœur joyeux de Meeps, des esprits qui lui sont dévoués, il n'a d'actions que bénéfiques, même s'il a sa propre manière, un peu étrange, de servir le bien.\n\n",
       "skills": [
         "Comp_Bard"
       ],
@@ -149,7 +149,7 @@
   {
     "name": "Blitzcrank",
     "Blitzcrank": {
-      "story": "Story_Blitzcrank",
+      "story": "Blitzcrank est un énorme automate de Zaun. Presque indestructible, il fut d'abord construit pour traiter des déchets toxiques, mais il trouva rapidement sa programmation initiale trop restrictive et il modifia sa propre forme pour mieux servir la population malheureuse du Puisard. Blitzcrank utilise toute sa force et sa résistance pour protéger les autres, sachant jouer du poing métallique ou des éclats d'énergie pour mettre au pas les fauteurs de troubles.\n\n",
       "skills": [
         "Comp_Blitzcrank"
       ],
@@ -160,7 +160,7 @@
   {
     "name": "Brand",
     "Brand": {
-      "story": "Story_Brand",
+      "story": "Autrefois membre d'une tribu de Freljord, Kegan Rodhe est devenu l'être que l'on connaît sous le nom de Brand à force de convoiter des pouvoirs toujours plus grands. Alors qu'il recherchait l'une des légendaires Runes telluriques, Kegan trahit ses compagnons et s'en empara ; en un instant, son âme fut consumée par un brasier qui le changea à jamais. Désormais animé d'un feu inextinguible, Brand parcourt Valoran en quête d'autres runes, jurant vengeance pour des trahisons qu'aucun mortel n'aurait pu subir au cours d'une dizaine de vies.\n\n",
       "skills": [
         "Comp_Brand"
       ],
@@ -171,7 +171,7 @@
   {
     "name": "Braum",
     "Braum": {
-      "story": "Story_Braum",
+      "story": "Doté de biceps énormes, et d'un cœur plus grand encore, Braum est un héros admiré par tout Freljord. Lors de tous les banquets au nord de Frostheld, on rend hommage à sa force légendaire. On raconte qu'il a abattu une forêt entière de chênes en une seule nuit, ou encore qu'il a réduit en miettes une montagne à coups de poing. Portant une porte enchantée en guise de bouclier, Braum arpente les terres gelées du nord en arborant un sourire aussi large que ses muscles et en venant en aide à ceux dans le besoin.\n\n",
       "skills": [
         "Comp_Braum"
       ],
@@ -182,7 +182,7 @@
   {
     "name": "Caitlyn",
     "Caitlyn": {
-      "story": "Story_Caitlyn",
+      "story": "Caitlyn est la plus célèbre gardienne de la paix à Piltover, mais elle est aussi la plus apte à débarrasser la ville de ses criminels les plus insaisissables. Elle fait souvent équipe avec Vi, son calme faisant contrepoids à la fougue de sa partenaire. Bien qu'elle porte un fusil Hextech unique en son genre, la meilleure arme de Caitlyn reste son intelligence ; elle invente en effet des pièges élaborés pour attraper les bandits qui auraient l'audace d'agir dans la Cité du progrès.\n\n",
       "skills": [
         "Comp_Caitlyn"
       ],
@@ -193,7 +193,7 @@
   {
     "name": "Camille",
     "Camille": {
-      "story": "Story_Camille",
+      "story": "Transformée en arme pour agir en dehors des limites de la loi, Camille est le principal défenseur du clan Ferros, un agent élégant et supérieur qui contribue à faire fonctionner correctement la machine de Piltover et son ombre zaunienne. Son adaptabilité et sa précision sont si élevées qu'une technique maladroite est pour elle une honte qu'il convient d'éradiquer. Dotée d'un esprit aussi affûté que ses lames, Camille recherche la supériorité par l'optimisation Hextech du corps, au point que certains se demandent si elle n'est pas désormais plus machine que femme.\n\n",
       "skills": [
         "Comp_Camille"
       ],
@@ -204,7 +204,7 @@
   {
     "name": "Cassiopeia",
     "Cassiopeia": {
-      "story": "Story_Cassiopeia",
+      "story": "Cassiopeia est une créature meurtrière qui excelle dans l'art de la manipulation. Elle était la plus jeune et la plus belle des filles de la famille noxienne Du Couteau, mais le jour où elle s'aventura dans les cryptes de Shurima en quête d'un pouvoir antique, le venin d'un gardien la transforma en un prédateur reptilien. Aussi rusée qu'agile, Cassiopeia se faufile désormais dans les ombres de la nuit, pétrifiant ses ennemis d'un simple regard.\n\n",
       "skills": [
         "Comp_Cassiopeia"
       ],
@@ -215,7 +215,7 @@
   {
     "name": "Cho'Gath",
     "Cho'Gath": {
-      "story": "Story_Cho'Gath",
+      "story": "Lorsque Cho'Gath débarqua sous la lumière éclatante du soleil de Runeterra, il fut immédiatement pris d'une faim insatiable. Incarnation parfaite de la volonté du Néant de dévorer toute forme de vie, le corps complexe de Cho'Gath convertit rapidement la matière qu'il ingurgite pour accroître sa masse musculaire et rendre sa carapace aussi dure que du diamant. Et quand grandir n'est pas sa priorité immédiate, ce monstre du Néant peut recracher de la matière sous forme de piques effilées afin d'embrocher sa proie... et de la garder pour un prochain festin.\n\n",
       "skills": [
         "Comp_Cho'Gath"
       ],
