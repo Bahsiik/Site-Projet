@@ -445,7 +445,7 @@
   },
   {
     "name": "Heimerdinger",
-    "Hecarim": {
+    "Heimerdinger": {
       "story": "Story_Hecarim",
       "skills": [
         "Comp_Hecarim"
@@ -566,7 +566,7 @@
   },
   {
     "name": "Karma",
-    "Kalista": {
+    "Karma": {
       "story": "Story_Alistar",
       "skills": [
         "Comp_Alistar"
@@ -706,946 +706,1039 @@
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
     }
-  },{
-  "name": "Lee Sin",
-  "Lee Sin": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Leona",
-  "Leona": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Lillia",
-  "Lillia": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 3
-  }
-},{
-  "name": "Lissandra",
-  "Lissandra": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Lucian",
-  "Lucian": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Lulu",
-  "Lulu": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Lux",
-  "Lux": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 18
-  }
-},{
-  "name": "Malphite",
-  "Malphite": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Malzahar",
-  "Malzahar": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Maokai",
-  "Maokai": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Master Yi",
-  "Master Yi": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Miss Fortune",
-  "Miss Fortune": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 16
-  }
-},{
-  "name": "Mordekaiser",
-  "Mordekaiser": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 9
-  }
-},{
-  "name": "Morgana",
-  "Morgana": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Nami",
-  "Nami": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Nasus",
-  "Nasus": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Nautilus",
-  "Nautilus": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Neeko",
-  "Neeko": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Nidalee",
-  "Nidalee": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Nocturne",
-  "Nocturne": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 9
-  }
-},{
-  "name": "Nunu",
-  "Nunu": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Olaf",
-  "Olaf": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Orianna",
-  "Orianna": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Ornn",
-  "Ornn": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 3
-  }
-},{
-  "name": "Pantheon",
-  "Pantheon": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Poppy",
-  "Poppy": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Pyke",
-  "Pyke": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Qiyana",
-  "Qiyana": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Quinn",
-  "Quinn": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Rakan",
-  "Rakan": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Rammus",
-  "Rammus": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Rek'Sai",
-  "Rek'Sai": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Rell",
-  "Rell": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 2
-  }
-},{
-  "name": "Renekton",
-  "Renekton": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Rengar",
-  "Rengar": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Riven",
-  "Riven": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Rumble",
-  "Rumble": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Ryze",
-  "Ryze": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-}, {
-  "name": "Samira",
-  "Samira": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 3
-  }
-},
+  },
   {
-  "name": "Sejuani",
-  "Sejuani": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
+    "name": "Lee Sin",
+    "Lee Sin": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Leona",
+    "Leona": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Lillia",
+    "Lillia": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Lissandra",
+    "Lissandra": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Lucian",
+    "Lucian": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Lulu",
+    "Lulu": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Lux",
+    "Lux": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 18
+    }
+  },
+  {
+    "name": "Maitre Yi",
+    "Maitre Yi": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Malphite",
+    "Malphite": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Malzahar",
+    "Malzahar": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Maokai",
+    "Maokai": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Miss Fortune",
+    "Miss Fortune": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 16
+    }
+  },
+  {
+    "name": "Mordekaiser",
+    "Mordekaiser": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Morgana",
+    "Morgana": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Nami",
+    "Nami": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Nasus",
+    "Nasus": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Nautilus",
+    "Nautilus": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Neeko",
+    "Neeko": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Nidalee",
+    "Nidalee": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Nocturne",
+    "Nocturne": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Nunu",
+    "Nunu": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Olaf",
+    "Olaf": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Orianna",
+    "Orianna": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Ornn",
+    "Ornn": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Pantheon",
+    "Pantheon": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Poppy",
+    "Poppy": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Pyke",
+    "Pyke": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Qiyana",
+    "Qiyana": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Quinn",
+    "Quinn": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Rakan",
+    "Rakan": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Rammus",
+    "Rammus": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Rek'Sai",
+    "Rek'Sai": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Rell",
+    "Rell": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 2
+    }
+  },
+  {
+    "name": "Renekton",
+    "Renekton": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Rengar",
+    "Rengar": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Riven",
+    "Riven": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Rumble",
+    "Rumble": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Ryze",
+    "Ryze": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Samira",
+    "Samira": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Sejuani",
+    "Sejuani": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Senna",
+    "Senna": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Seraphine",
+    "Seraphine": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Sett",
+    "Sett": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Shaco",
+    "Shaco": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Shen",
+    "Shen": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Shyvana",
+    "Shyvana": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Singed",
+    "Singed": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Sion",
+    "Sion": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Sivir",
+    "Sivir": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Skarner",
+    "Skarner": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Sona",
+    "Sona": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Soraka",
+    "Soraka": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Swain",
+    "Swain": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Sylas",
+    "Sylas": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Syndra",
+    "Syndra": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Tahm Kench",
+    "Tahm Kench": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Taliyah",
+    "Taliyah": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Talon",
+    "Talon": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Taric",
+    "Taric": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Teemo",
+    "Teemo": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Thresh",
+    "Thresh": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Tristana",
+    "Tristana": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Trundle",
+    "Trundle": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Tryndamere",
+    "Tryndamere": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Twisted Fate",
+    "Twisted Fate": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 15
+    }
+  },
+  {
+    "name": "Twitch",
+    "Twitch": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Udyr",
+    "Udyr": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Urgot",
+    "Urgot": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Varus",
+    "Varus": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Vayne",
+    "Vayne": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 14
+    }
+  },
+  {
+    "name": "Veigar",
+    "Veigar": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Vel'Koz",
+    "Vel'Koz": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Vex",
+    "Vex": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 2
+    }
+  },
+  {
+    "name": "Vi",
+    "Vi": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Viego",
+    "Viego": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 3
+    }
+  },
+  {
+    "name": "Viktor",
+    "Viktor": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Vladimir",
+    "Vladimir": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Volibear",
+    "Volibear": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
+  },
+  {
+    "name": "Warwick",
+    "Warwick": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 13
+    }
+  },
+  {
+    "name": "Wukong",
+    "Wukong": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Xayah",
+    "Xayah": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 8
+    }
+  },
+  {
+    "name": "Xerath",
+    "Xerath": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Xin Zhao",
+    "Xin Zhao": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },
+  {
+    "name": "Yasuo",
+    "Yasuo": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 12
+    }
+  },
+  {
+    "name": "Yone",
+    "Yone": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 4
+    }
+  },
+  {
+    "name": "Yorick",
+    "Yorick": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Yuumi",
+    "Yuumi": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Zac",
+    "Zac": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 5
+    }
+  },
+  {
+    "name": "Zed",
+    "Zed": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Zeri",
+    "Zeri": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 2
+    }
+  },
+  {
+    "name": "Ziggs",
+    "Ziggs": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 10
+    }
+  },
+  {
+    "name": "Zilean",
+    "Zilean": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 7
+    }
+  },
+  {
+    "name": "Zoe",
+    "Zoe": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 6
+    }
+  },
+  {
+    "name": "Zyra",
+    "Zyra": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 9
+    }
   }
-},{
-  "name": "Senna",
-  "Senna": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Seraphine",
-  "Seraphine": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Sett",
-  "Sett": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Shaco",
-  "Shaco": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Shen",
-  "Shen": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Shyvana",
-  "Shyvana": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Singed",
-  "Singed": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Sion",
-  "Sion": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Sivir",
-  "Sivir": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Skarner",
-  "Skarner": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Sona",
-  "Sona": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Soraka",
-  "Soraka": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Swain",
-  "Swain": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Sylas",
-  "Sylas": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Syndra",
-  "Syndra": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Tahm Kench",
-  "Tahm Kench": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Taliyah",
-  "Taliyah": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 4
-  }
-},{
-  "name": "Talon",
-  "Talon": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 9
-  }
-},{
-  "name": "Taric",
-  "Taric": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Teemo",
-  "Teemo": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Thresh",
-  "Thresh": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Tristana",
-  "Tristana": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Trundle",
-  "Trundle": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Tryndamere",
-  "Tryndamere": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Twisted Fate",
-  "Twisted Fate": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 15
-  }
-},{
-  "name": "Twitch",
-  "Twitch": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Udyr",
-  "Udyr": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Urgot",
-  "Urgot": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Varus",
-  "Varus": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Vayne",
-  "Vayne": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 14
-  }
-},{
-  "name": "Veigar",
-  "Veigar": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Vel'Koz",
-  "Vel'Koz": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Vex",
-  "Vex": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 2
-  }
-},{
-  "name": "Vi",
-  "Vi": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Viego",
-  "Viego": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 3
-  }
-},{
-  "name": "Viktor",
-  "Viktor": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Vladimir",
-  "Vladimir": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Volibear",
-  "Volibear": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 9
-  }
-},{
-  "name": "Warwick",
-  "Warwick": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 13
-  }
-},{
-  "name": "Wukong",
-  "Wukong": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Xayah",
-  "Xayah": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 8
-  }
-},{
-  "name": "Xerath",
-  "Xerath": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Xin Zhao",
-  "Xin Zhao": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 11
-  }
-},{
-  "name": "Yasuo",
-  "Yasuo": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 12
-  }
-},{
-  "name": "Yone",
-  "Yone": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 4
-  }
-},{
-  "name": "Yorick",
-  "Yorick": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Yuumi",
-  "Yuumi": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Zac",
-  "Zac": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 5
-  }
-},{
-  "name": "Zed",
-  "Zed": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Zeri",
-  "Zeri": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 2
-  }
-},{
-  "name": "Ziggs",
-  "Ziggs": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 10
-  }
-},{
-  "name": "Zilean",
-  "Zilean": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 7
-  }
-},{
-  "name": "Zoe",
-  "Zoe": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 6
-  }
-},{
-  "name": "Zyra",
-  "Zyra": {
-    "story": "Story_Alistar",
-    "skills": [
-      "Comp_Alistar"
-    ],
-    "gameplay": "Gam_Alistar",
-    "totalSkin": 9
-  }
-}
 ]
