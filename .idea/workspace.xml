@@ -4,12 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
+    <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Akshan.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Akshan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Akshan_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Avengerang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Comeuppance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Dirty_Fighting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Going_Rogue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Akshan/Comp/Akshan_Heroic_Swing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Alistar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Alistar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Alistar_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Headbutt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Pulverize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Trample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Triumphant_Roar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Alistar/Comp/Alistar_Unbreakable_Will.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Amumu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Amumu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Amumu_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Bandage_Toss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Curse_of_the_Sad_Mummy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Cursed_Touch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Despair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Amumu/Comp/Amumu_Tantrum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Anivia.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Anivia.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Anivia_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Comp/Crystallize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Comp/Flash_Frost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Comp/Frostbite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Comp/Glacial_Storm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Anivia/Comp/Rebirth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Annie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Annie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Annie_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Comp/Disintegrate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Comp/Incinerate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Comp/Molten_Shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Comp/Pyromania.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Annie/Comp/Summon-_Tibbers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Aphelios.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Aphelios.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Aphelios_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Binding_Eclipse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Calibrum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Crescendum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Crescendum_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Duskwave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Gravitum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Infernum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Moonlight_Vigil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Moonshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Onslaught.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Phase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Sentry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Severum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_The_Hitman_and_the_Seer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aphelios/Comp/Aphelios_Weapons_of_the_Faithful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Ashe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Ashe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Ashe_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Enchanted_Crystal_Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Frost_Shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Frost_Shot_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Hawkshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Ranger27s_Focus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Ranger27s_Focus_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Ashe/Comp/Volley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Aurelion_Sol_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Celestial_Expansion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Center_of_the_Universe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Comet_of_Legend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Starsurge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Aurelion_Sol/Comp/Voice_of_Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Azir/Comp/Arise%21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Azir/Comp/Conquering_Sands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Azir/Comp/Emperor%27s_Divide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Azir/Comp/Shifting_Sands.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champions/Azir/Comp/Shurima%27s_Legacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vierge_champ.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/champ_base.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skin.js" beforeDir="false" afterPath="$PROJECT_DIR$/skin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/vierge_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +188,7 @@
       <workItem from="1644031369164" duration="634000" />
       <workItem from="1644033405375" duration="727000" />
       <workItem from="1644075961308" duration="765000" />
+      <workItem from="1644219678733" duration="3369000" />
     </task>
     <servers />
   </component>

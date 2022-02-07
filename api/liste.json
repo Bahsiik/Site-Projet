@@ -673,5 +673,946 @@
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
     }
+  },
+  {
+    "name": "LeBlanc",
+    "Kog'Maw": {
+      "story": "Story_Alistar",
+      "skills": [
+        "Comp_Alistar"
+      ],
+      "gameplay": "Gam_Alistar",
+      "totalSkin": 11
+    }
+  },{
+  "name": "Lee Sin",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
   }
+},{
+  "name": "Leona",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Lilia",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 3
+  }
+},{
+  "name": "Lissandra",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Lucian",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Lulu",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Lux",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 18
+  }
+},{
+  "name": "Malphite",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Malhazar",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Maokai",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Master Yi",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Miss Fortune",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 16
+  }
+},{
+  "name": "Mordekaiser",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 9
+  }
+},{
+  "name": "Moragana",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Nami",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Nasus",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Nautilus",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Neeko",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Nidalee",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Nocturne",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 9
+  }
+},{
+  "name": "Nunu",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Olaf",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Orianna",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Ornn",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 3
+  }
+},{
+  "name": "Pantheon",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Poppy",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Pyke",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Qiyana",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Quinn",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Rakan",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Rammus",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Rek'Sai",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Rell",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 2
+  }
+},{
+  "name": "Renekton",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Rengar",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Riven",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Rumble",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Ryze",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Sejuani",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Senna",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Seraphine",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Sett",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Shaco",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Shen",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Shyvana",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Singed",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Sion",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Sivir",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Skarner",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Sona",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Soraka",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Swain",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Sylas",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Syndra",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Tahm",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Taliyah",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 4
+  }
+},{
+  "name": "Talon",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 9
+  }
+},{
+  "name": "Taric",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Teemo",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Tresh",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Tristana",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Trundle",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Tryndamere",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Twisted Fate",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 15
+  }
+},{
+  "name": "Twitch",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Udyr",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Urgot",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Varus",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Vayne",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 14
+  }
+},{
+  "name": "Veigar",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Vel'Koz",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Vex",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 2
+  }
+},{
+  "name": "Vi",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Viego",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 3
+  }
+},{
+  "name": "Victor",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Vladimir",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Volibear",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 9
+  }
+},{
+  "name": "Warwick",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 13
+  }
+},{
+  "name": "Wukong",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Xayah",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 8
+  }
+},{
+  "name": "Xerath",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Xin Zhao",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 11
+  }
+},{
+  "name": "Yasuo",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 12
+  }
+},{
+  "name": "Yone",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 4
+  }
+},{
+  "name": "Yorick",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Yuumi",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Zac",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 5
+  }
+},{
+  "name": "Zed",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Zeri",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 2
+  }
+},{
+  "name": "Ziggs",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 10
+  }
+},{
+  "name": "Zilean",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 7
+  }
+},{
+  "name": "Zoe",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 6
+  }
+},{
+  "name": "Zyra",
+  "Kog'Maw": {
+    "story": "Story_Alistar",
+    "skills": [
+      "Comp_Alistar"
+    ],
+    "gameplay": "Gam_Alistar",
+    "totalSkin": 9
+  }
+}
 ]
