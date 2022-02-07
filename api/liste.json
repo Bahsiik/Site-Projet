@@ -980,11 +980,11 @@
     "Leona": {
       "story": "Imprégnée de l'énergie du soleil, Leona est une guerrière sainte des Solaris qui défend le Mont Targon ; elle combat avec sa Lame du zénith et son Bouclier de l'aube. Sa peau brûle d'éclats ardents et ses yeux crépitent au rythme de la Manifestation céleste qui l'habite. Équipée d'une armure d'or et affligée par le terrible fardeau de connaissances antiques, Leona apporte à certains l'illumination, à d'autres la mort.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les sorts marquent les ennemis d'un Rayon de soleil pendant 1,5 sec. Si des champions alliés blessent ces ennemis, ils dissipent Rayon de soleil et infligent des dégâts magiques supplémentaires.\n\n",
+        "Leona utilise son bouclier pour sa prochaine attaque de base, infligeant des dégâts magiques supplémentaires et étourdissant la cible.\n\n",
+        "Leona lève son bouclier et profite d'une amélioration de son armure et de sa résistance magique ainsi que d'une réduction des dégâts. Lorsque l'effet prend fin pour la première fois, s'il y a des ennemis proches, elle leur inflige des dégâts magiques et l'effet de protection est prolongé.\n\n",
+        "Leona projette une image solaire de son épée, infligeant des dégâts magiques à tous les ennemis sur une ligne. Lorsque l'image se dissipe, le dernier champion ennemi touché est brièvement immobilisé et Leona fonce vers lui.\n\n",
+        "Leona invoque un rayon d'énergie solaire qui inflige des dégâts à tous les ennemis dans une zone. Les ennemis au centre de la zone sont étourdis et ceux qui sont en bordure sont ralentis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -995,11 +995,11 @@
     "Lillia": {
       "story": "Profondément timide, Lillia, le faon féérique, parcourt nerveusement les forêts d'Ionia. Échappant toujours au regard des mortels dont la nature a longtemps captivé et intimidé la jeune créature, Lillia espère découvrir la raison pour laquelle les rêves des mortels n'atteignent plus l'Arbre des rêves. Elle sillonne désormais Ionia, sa branche magique en main, afin de retrouver les rêves inassouvis des hommes. Ce n'est qu'alors que Lillia pourra s'épanouir et aider les autres à démêler leurs peurs et trouver l'étincelle qui se cache au fond d'eux. Hii !\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toucher un champion ou un monstre avec une compétence lui inflige des dégâts supplémentaires sur la durée équivalents à un pourcentage de ses PV max.\n\n",
+        "Passivement, Lillia gagne des bonus cumulables en vitesse de déplacement quand elle touche des ennemis avec ses compétences. Elle peut activer cette compétence pour infliger des dégâts magiques aux ennemis proches, ainsi que des dégâts bruts supplémentaires en bordure de la zone.\n\n",
+        "Lillia lance une attaque dans une zone proche, infligeant d'importants dégâts au centre de la zone.\n\n",
+        "Lillia lance une graine qui blesse et ralentit ceux qu'elle touche. Si la graine ne touche rien, elle continue de rouler jusqu'à toucher un mur ou une cible.\n\n",
+        "Lillia provoque un effet de somnolence chez tous les ennemis affectés par Poussière de rêve, qui finissent par s'endormir. Ces ennemis subiront des dégâts supplémentaires s'ils sont réveillés de force.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 3
@@ -1010,11 +1010,11 @@
     "Lissandra": {
       "story": "La magie de Lissandra est capable de manipuler la pure puissance de la glace en quelque chose d'à la fois obscur et terrible. Avec la force de sa glace noire, elle fait bien plus que glacer... elle empale et écrase ceux qui osent s'opposer à elle. Les habitants du Nord, terrifiés, la connaissent sous le nom de « Sorcière de glace ». La vérité est bien plus sombre : Lissandra complote pour corrompre la Nature et ramener le monde à l'âge de glace.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lorsqu'un champion ennemi meurt à proximité de Lissandra, il se transforme en Serviteur de glace. Les Serviteurs de glace ralentissent les ennemis proches et, après un délai, le froid les fait exploser, infligeant des dégâts magiques aux cibles proches.\n\n",
+        "Projette une lance de glace qui se brise au contact du premier ennemi touché, lui infligeant des dégâts magiques et réduisant sa vitesse de déplacement. Des éclats traversent la cible, infligeant les mêmes dégâts aux autres ennemis touchés.\n\n",
+        "Congèle les ennemis proches, leur infligeant des dégâts magiques et les immobilisant.\n\n",
+        "Lissandra lance une griffe de glace qui inflige des dégâts magiques. Si vous réactivez la compétence, Lissandra est transportée à l'endroit où se situe sa griffe.\n\n",
+        "Si le sort est lancé sur un champion ennemi, la cible est congelée, ce qui l'étourdit. Si le sort est lancé sur Lissandra, elle s'immobilise dans la glace, ce qui la soigne en plus de la rendre impossible à cibler et insensible aux dégâts. De la glace obscure émane de la cible, infligeant des dégâts magiques aux ennemis et réduisant leur vitesse de déplacement.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -1025,11 +1025,11 @@
     "Lucian": {
       "story": "Jadis une Sentinelle de la lumière, Lucian est aujourd'hui un chasseur de morts-vivants. Il poursuit ses cibles sans répit et les éradique avec ses pistolets jumeaux. Après que Thresh a tué Senna, sa femme, Lucian s'est lancé sur la voie de la vengeance. Mais, alors même que Senna est revenue à la vie, la rage de Lucian reste inextinguible. Impitoyable et déterminé, il est prêt à tout pour protéger les vivants des horreurs indicibles de la Brume noire.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Lucian utilise une compétence, sa prochaine attaque devient un double-tir. Quand Lucian est renforcé par un allié, ses 2 prochaines attaques de base infligeront des dégâts magiques supplémentaires.\n\n",
+        "Lucian tire un rayon lumineux qui transperce une cible.\n\n",
+        "Lucian tire un projectile qui provoque une explosion en forme d'étoile, marquant et révélant brièvement les ennemis. Lucian augmente sa vitesse de déplacement quand il attaque les ennemis marqués.\n\n",
+        "Lucian fonce sur une courte distance. Pistolero réduit le délai de récupération de Poursuite inlassable.\n\n",
+        "Lucian tire un déluge de balles avec ses armes.\n\n  "
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1040,11 +1040,11 @@
     "Lulu": {
       "story": "Jadis une Sentinelle de la lumière, Lucian est aujourd'hui un chasseur de morts-vivants. Il poursuit ses cibles sans répit et les éradique avec ses pistolets jumeaux. Après que Thresh a tué Senna, sa femme, Lucian s'est lancé sur la voie de la vengeance. Mais, alors même que Senna est revenue à la vie, la rage de Lucian reste inextinguible. Impitoyable et déterminé, il est prêt à tout pour protéger les vivants des horreurs indicibles de la Brume noire.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Pix tire des projectiles magiques quand le champion qu'il suit attaque une autre unité ennemie. Ces tirs sont guidés, mais ils peuvent être interceptés par d'autres unités.\n\n",
+        "Pix et Lulu tirent chacun un projectile magique qui blesse et ralentit grandement les ennemis touchés.\n\n",
+        "Si le sort est lancé sur un allié, il augmente temporairement ses vitesses de déplacement et d'attaque. S'il est lancé sur un ennemi, il le transforme en une petite bête adorable qui ne peut ni attaquer, ni lancer de sorts.\n\n",
+        "Sort lancé sur un allié : ordonne à Pix de rejoindre un allié et de le protéger, après quoi Pix le suit et l'aide à attaquer. Sort lancé sur un ennemi : ordonne à Pix de foncer sur un ennemi et de le blesser, après quoi Pix le suit et vous confère la vision de cet ennemi.\n\n",
+        "Lulu fait grandir un allié, projetant en l'air les ennemis proches et lui conférant de nombreux PV supplémentaires. Pendant les quelques secondes qui suivent, cet allié bénéficie d'un halo qui ralentit les ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
