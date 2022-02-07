@@ -1055,11 +1055,11 @@
     "Lux": {
       "story": "Luxanna Crownguard est originaire de Demacia, un royaume isolationniste où la magie inspire la peur et la méfiance. Capable de plier la lumière à sa volonté, elle a grandi dans la crainte d'être un jour exilée et a été contrainte de dissimuler son pouvoir pour préserver l'honneur de sa famille. Cependant, l'optimisme et la ténacité de Lux l'ont conduite à accepter ses talents uniques, et elle les emploie désormais secrètement pour le bénéfice de sa patrie.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Lux infligeant des dégâts chargent la cible en énergie pendant quelques secondes. La prochaine attaque de Lux embrase l'énergie, infligeant des dégâts magiques supplémentaires à la cible (en fonction du niveau de Lux).\n\n",
+        "Lux projette une sphère de lumière qui immobilise et blesse jusqu'à deux unités ennemies.\n\n",
+        "Lux lance son bâton et courbe la lumière autour des cibles alliées touchées, les protégeant contre les dégâts.\n\n",
+        "Crée une anomalie composée de lumière dans une zone, ralentissant les ennemis proches. Lux peut la faire exploser pour blesser les ennemis dans la zone d'effet.\n\n",
+        "Après avoir chargé de l'énergie, Lux tire un rayon lumineux qui inflige des dégâts à toutes les cibles dans la zone. En outre, Éclat final déclenche la compétence passive de Lux et rafraîchit la durée du sortilège d'Illumination.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 18
@@ -1070,11 +1070,11 @@
     "Maitre Yi": {
       "story": "Maître Yi a renforcé son corps et affûté son esprit jusqu'à ce que réflexion et action ne fassent plus qu'un. Bien qu'il ne fasse appel à la violence qu'en dernier recours, la grâce et la vitesse avec lesquelles il manie son épée assurent une résolution rapide de tout conflit. En tant que l'un des derniers praticiens vivants de l'art martial ionien appelé Wuju, Yi a voué sa vie à perpétuer l'héritage de son peuple, scrutant les nouveaux disciples potentiels à l'aide des Sept lentilles d'éveil pour identifier les plus dignes de recevoir son enseignement.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après plusieurs attaques consécutives, Maître Yi frappe deux fois.\n\n",
+        "Maître Yi se téléporte sur le champ de bataille à la vitesse de l'éclair, infligeant des dégâts physiques à plusieurs unités sur son chemin tout en étant impossible à cibler. Assaut éclair peut infliger des coups critiques et inflige des dégâts physiques supplémentaires aux monstres. Les attaques de base réduisent le délai de récupération d'Assaut éclair.\n\n",
+        "Maître Yi médite, régénérant ses PV chaque seconde et subissant moins de dégâts un court moment. De plus, Maître Yi cumule des effets Coup double et met en pause la durée restante de Style Wuju et de Highlander pour chaque seconde de canalisation.\n\n",
+        "Permet aux attaques de base d'infliger des dégâts bruts supplémentaires.\n\n",
+        "Maître Yi se déplace avec une agilité sans pareille, ce qui augmente ses vitesses de déplacement et d'attaque et le rend temporairement insensible aux effets qui ralentissent. Pendant la durée de l'effet, tuer un champion ou effectuer une assistance prolonge la durée de Highlander. Passivement, tuer un champion ou effectuer une assistance réduit le délai de récupération des autres compétences.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1085,11 +1085,11 @@
     "Malphite": {
       "story": "Massive créature de pierre vivante, Malphite lutte pour imposer un ordre sacré dans un monde chaotique. Né pour servir l'obélisque mystique que l'on nomme le Monolithe, il utilisa son incroyable force élémentaire pour protéger son créateur, mais n'y parvint pas. Seul survivant de la destruction qui s'ensuivit, Malphite doit désormais supporter les inconséquences des êtres de chair et trouver un nouveau rôle, digne du dernier survivant de son espèce.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Malphite est protégé par un bouclier de roche qui absorbe des dégâts équivalents à 10% de ses PV max. Si Malphite n'est pas touché pendant quelques secondes, l'effet se recharge.\n\n",
+        "Malphite envoie un éclat de terre à son ennemi à travers le sol, infligeant des dégâts à l'impact et lui dérobant sa vitesse de déplacement pendant 3 sec.\n\n",
+        "Malphite attaque avec tant de force qu'il crée des bangs supersoniques. Pendant quelques secondes, ses attaques produisent des ondes de choc devant lui.\n\n",
+        "Malphite frappe le sol, provoquant une onde de choc qui inflige des dégâts magiques en fonction de son armure et qui réduit brièvement la vitesse d'attaque des ennemis.\n\n",
+        "Malphite fonce vers une position à grande vitesse, blessant les ennemis et les projetant dans les airs.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1100,11 +1100,11 @@
     "Malzahar": {
       "story": "Voyant fanatique ayant dédié son existence à l'unification de toute forme de vie, Malzahar croit fermement que le Néant est la voie du salut de Runeterra. Dans les étendues désertiques de Shurima, il suivit les voix qui murmuraient dans son esprit jusqu'à l'antique cité d'Icathia. Au plus profond des ruines, il plongea le regard dans le cœur noir du Néant et reçut de nouveaux pouvoirs, un nouveau but. Malzahar se considère désormais comme un berger : sa tâche est d'unir ses semblables… ou de libérer les créatures du Néant qui vivent sous terre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand il ne subit pas de dégâts ou de contrôle de foule pendant un temps, Malzahar gagne une énorme réduction des dégâts et devient insensible aux contrôles de foule. Cet effet perdure pendant un court instant après avoir subi des dégâts.\n\n",
+        "Malzahar ouvre deux portails vers le Néant. Après un court délai, ils tirent des projectiles qui infligent des dégâts magiques et réduisent les champions ennemis au silence.\n\n",
+        "Malzahar invoque des êtres du Néant qui attaquent les ennemis proches.\n\n",
+        "Malzahar tourmente sa cible avec des visions de sa mort, infligeant des dégâts sur la durée. Utiliser les autres sorts de Malzahar sur la cible renouvelle les visions. Si la cible meurt en étant affectée par cet effet, les visions sont transmises à une unité ennemie proche et Malzahar regagne du mana. Les êtres du Néant de Malzahar sont attirés par les cibles ainsi affectées.\n\n",
+        "Malzahar canalise l'essence du Néant pour neutraliser un champion ennemi dans une zone d'énergie négative infligeant des dégâts.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1115,11 +1115,11 @@
     "Maokai": {
       "story": "Maokai est un immense tréant possédé par la colère, qui combat les horreurs impies des Îles obscures. Il est devenu l'incarnation de la vengeance après la destruction de ses terres par un cataclysme magique, n'échappant lui-même à l'état de mort-vivant que grâce à l'eau de la vie qui l'irrigue. Autrefois, Maokai était un paisible esprit de la nature ; aujourd'hui, il combat avec fureur le fléau mort-vivant qui accable les Îles obscures pour rendre à l'archipel son ancienne beauté.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "L'attaque de base de Maokai a un effet qui lui rend des PV, avec un délai de récupération modéré. Chaque fois que Maokai lance une compétence ou est touché par une compétence ennemie, ce délai de récupération est réduit.\n\n",
+        "Maokai projette les ennemis proches en arrière avec une onde de choc, leur infligeant des dégâts magiques et les ralentissant.\n\n",
+        "Maokai se transforme en une masse de racines mouvantes, devenant impossible à cibler et fonçant sur la cible. À l'arrivée, il immobilise la cible.\n\n",
+        "Maokai envoie un arbrisseau qui surveille une zone. Plus efficace dans les hautes herbes.\n\n",
+        "Maokai invoque un colossal mur de ronces et d'épines qui avance lentement, blessant et immobilisant les ennemis sur son chemin.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -1130,11 +1130,11 @@
     "Miss Fortune": {
       "story": "Capitaine de Bilgewater réputée pour sa beauté et crainte pour sa cruauté, Sarah Fortune est une personnalité qui détonne au milieu des criminels endurcis qui arpentent la cité portuaire. Enfant, elle assista au massacre de sa famille par Gangplank, le roi des pillards, et elle prit sa revanche des années plus tard, faisant exploser son navire alors qu'il se trouvait à bord. Ceux qui la sous-estiment découvrent un adversaire imprévisible et séduisant... avant de prendre une ou deux balles dans les entrailles.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Miss Fortune inflige des dégâts physiques supplémentaires quand elle attaque une nouvelle cible.\n\n",
+        "Miss Fortune tire une balle sur une cible, blessant cette cible et celle qui se trouve derrière. Les deux coups peuvent aussi appliquer Cœur volage.\n\n",
+        "Miss Fortune augmente passivement sa vitesse de déplacement quand elle n'est pas attaquée. Cette compétence peut être activée pour recevoir un bonus en vitesse d'attaque pendant un court instant. Quand cette compétence est en récupération, Cœur volage réduit le délai de récupération restant de Fanfaronne.\n\n",
+        "Miss Fortune révèle une zone avec une pluie de balles, infligeant des vagues de dégâts aux ennemis et les ralentissant.\n\n",
+        "Miss Fortune déchaîne un déluge de balles dans un cône devant elle, infligeant d'importants dégâts aux ennemis. Chaque vague de Barrage de plomb peut infliger des coups critiques.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 16
@@ -1145,11 +1145,11 @@
     "Mordekaiser": {
       "story": "Deux fois abattu et trois fois né, Mordekaiser est un chef de guerre brutal venu d'un lointain passé. Il utilise ses pouvoirs nécromantiques pour lier les âmes à une éternité de servitude. Il n'y a plus guère de gens pour se souvenir de ses anciennes conquêtes ou pour connaître l'étendue de ses vrais pouvoirs. Pourtant, certaines âmes antiques en ont gardé la mémoire et craignent le jour où il prétendra de nouveau régner sur les vivants et les morts.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après 3 attaques ou compétences contre des champions ou des monstres, Mordekaiser gagne un puissant halo de dégâts et augmente sa vitesse de déplacement.\n\n",
+        "Mordekaiser frappe le sol avec sa massue, infligeant des dégâts à tous les ennemis touchés. Les dégâts sont augmentés si un seul ennemi est touché.\n\n",
+        "Mordekaiser stocke une partie des dégâts qu'il inflige et qu'il subit pour créer un bouclier. Il peut consommer ce bouclier pour récupérer des PV.\n\n",
+        "Mordekaiser attire tous les ennemis qui se trouvent dans une zone.\n\n",
+        "Mordekaiser entraîne sa victime avec lui dans une autre dimension et lui vole une partie de ses stats. S'il la tue, il garde ces stats jusqu'à la réapparition de sa victime.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -1160,11 +1160,11 @@
     "Morgana": {
       "story": "Déchirée entre ses origines célestes et mortelles, Morgana a enchaîné ses ailes pour appartenir pleinement à l'humanité et abattre sa peine et sa rancœur sur les corrompus et les malhonnêtes. Elle rejette les lois et les traditions qu'elle juge injustes. Terrée dans les recoins obscurs de Demacia, elle préfère se battre pour la vérité – quand d'autres veulent la faire taire – en employant ses boucliers et ses chaînes de feu ténébreux. Plus que tout, Morgana croit fermement que même les proscrits et les parias peuvent un jour se racheter.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Morgana peut drainer l'esprit de ses ennemis. Elle récupère des PV quand elle blesse des champions, des grands sbires et des monstres grands ou moyens de la jungle.\n\n",
+        "Morgana utilise la magie noire pour immobiliser un ennemi, l'obligeant à ressentir la douleur qu'il a causée et lui infligeant des dégâts magiques.\n\n",
+        "Morgana déploie une ombre maudite sur une zone, blessant les ennemis qui osent y mettre les pieds. Ces ennemis subissent des dégâts magiques sur la durée qui augmentent avec leurs PV manquants.\n\n",
+        "Morgana offre à un allié une barrière de feu stellaire qui absorbe les dégâts magiques et les entraves jusqu'à ce que celle-ci soit brisée.\n\n",
+        "Morgana détache ses ailes, libérant toute sa puissance céleste et se mettant à survoler le sol. Elle lance des chaînes sombres sur les champions ennemis proches, gagnant de la vitesse de déplacement dans leur direction. Les chaînes ralentissent ces ennemis et leur infligent des dégâts ; après un délai, les ennemis qui n'ont pas brisé les chaînes sont étourdis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1175,11 +1175,11 @@
     "Nami": {
       "story": "Jeune Vastaya des mers, Nami fut la première de la tribu des Marai à quitter les océans et à s'aventurer sur la terre ferme lorsque leur accord ancestral avec les Targoniens fut rompu. Convaincue qu'il n'y avait pas d'autre solution, elle a décidé de suivre le rituel sacré permettant de garantir la protection de son peuple. Plongée en plein chaos, Nami fait face à son avenir avec détermination, utilisant son bâton d'Aquamancienne pour invoquer la puissance des océans.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand les compétences de Nami touchent des champions alliés, la vitesse de déplacement de ces champions augmente un court instant.\n\n",
+        "Envoie une bulle sur la zone ciblée, infligeant des dégâts et étourdissant tous les ennemis à l'impact.\n\n",
+        "Projette un flux d'eau qui rebondit sur les champions alliés et ennemis, soignant les alliés et blessant les ennemis.\n\n",
+        "Renforce un champion allié pendant un court instant, permettant à ses attaques de base et à ses sorts d'infliger des dégâts magiques supplémentaires et de ralentir sa cible.\n\n",
+        "Invoque un énorme raz-de-marée qui projette tous les ennemis touchés en l'air, les ralentit et les blesse. Les alliés touchés gagnent le double de l'effet de Déferlantes.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -1190,11 +1190,11 @@
     "Nasus": {
       "story": "Jeune Vastaya des mers, Nami fut la première de la tribu des Marai à quitter les océans et à s'aventurer sur la terre ferme lorsque leur accord ancestral avec les Targoniens fut rompu. Convaincue qu'il n'y avait pas d'autre solution, elle a décidé de suivre le rituel sacré permettant de garantir la protection de son peuple. Plongée en plein chaos, Nami fait face à son avenir avec détermination, utilisant son bâton d'Aquamancienne pour invoquer la puissance des océans.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Nasus draine l'énergie spirituelle de son adversaire et profite d'un bonus de Vol de vie.\n\n",
+        "Nasus frappe son ennemi, infligeant des dégâts et augmentant la puissance des prochaines Buveuses d'âmes s'il tue sa cible.\n\n",
+        "Nasus fait vieillir un champion ennemi et réduit ses vitesses d'attaque et de déplacement sur la durée.\n\n",
+        "Nasus libère un esprit enflammé sur une zone, infligeant des dégâts aux ennemis qui s'y trouvent et réduisant leur armure.\n\n",
+        "Nasus libère une puissante tempête de sable. Tant que la tempête fait rage, il a plus de PV, sa portée d'attaque est augmentée, il blesse les ennemis proches, il augmente son armure et sa résistance magique et le délai de récupération de Buveuse d'âmes est réduit.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
