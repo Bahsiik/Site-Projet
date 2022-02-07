@@ -887,7 +887,7 @@
   {
     "name": "Nautilus",
     "Nautilus": {
-      "story": "Story_Alistar",
+      "story": "Nautilus, une légende plus ancienne encore que la première jetée de Bilgewater, est un titan en armure qui sillonne les eaux sombres au large des Îles de la Flamme Bleue. Trahi il y a bien longtemps de cela, il frappe désormais sans prévenir, se servant de son ancre gigantesque pour sauver les malheureux et couler les avares. On raconte qu'il vient chercher ceux qui oublient de payer le « tribut de Bilgewater » et qu'il les emmène avec lui au fond des mers, d'où nul ne peut s'échapper.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -898,7 +898,7 @@
   {
     "name": "Neeko",
     "Neeko": {
-      "story": "Story_Alistar",
+      "story": "Originaire d'une tribu disparue de Vastayas, Neeko est capable de se fondre dans n'importe quelle foule en empruntant l'apparence des autres, allant même jusqu'à absorber un soupçon de leur état émotionnel pour différencier un instant les amis des ennemis. Personne ne sait réellement où – ni qui – peut bien être Neeko, mais ceux qui chercheront à lui faire du mal découvriront bien vite sa véritable nature… et goûteront à toute la force primordiale de son pouvoir spirituel.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -909,7 +909,7 @@
   {
     "name": "Nidalee",
     "Nidalee": {
-      "story": "Story_Alistar",
+      "story": "Élevée au plus profond de la jungle, Nidalee est une pisteuse d'exception qui peut se transformer à volonté en couguar. Ni totalement femme, ni totalement bête, elle défend férocement son territoire contre tous ceux qui veulent y pénétrer avec ses pièges judicieusement placés et sa lance. Elle estropie sa proie avant de se jeter sur elle sous sa forme de félin. Ceux qui survivent sont rares, et tous la décrivent comme une femme aux griffes aussi aiguisées que ses instincts...\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -920,7 +920,7 @@
   {
     "name": "Nocturne",
     "Nocturne": {
-      "story": "Story_Alistar",
+      "story": "Expression démoniaque des cauchemars qui hantent tous les êtres doués d'intelligence, la chose que l'on nomme Nocturne est devenue une force primordiale du mal. D'aspect liquide, c'est une ombre sans visage, au regard glacial, armée de lames effrayantes. Après s'être affranchi du royaume des esprits, Nocturne est parvenu jusqu'au monde éveillé, pour se nourrir d'une terreur qui ne prospère que dans les véritables ténèbres.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -931,7 +931,7 @@
   {
     "name": "Nunu",
     "Nunu": {
-      "story": "Story_Alistar",
+      "story": "Il était une fois un jeune garçon qui voulait prouver qu'il était un héros en tuant un monstre effrayant, mais il découvrit que la créature, un yéti solitaire, avait seulement besoin d'un ami. Rapprochés par une puissance ancienne et un amour partagé des boules de neige, Nunu et Willump courent maintenant librement dans tout Freljord en donnant vie à des aventures rêvées. Ils espèrent un jour retrouver la mère disparue de l'enfant. S'ils peuvent la sauver, peut-être seront-ils vraiment des héros, finalement…\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -942,7 +942,7 @@
   {
     "name": "Olaf",
     "Olaf": {
-      "story": "Story_Alistar",
+      "story": "Olaf, avec sa hache et son extraordinaire force de destruction, ne souhaite que mourir au combat. Venu de l'âpre péninsule freljordienne de Lokfar, il a été choqué par une prophétie qui lui prédisait une mort paisible : dans l'esprit de son peuple, une ignoble fin de lâche. Cherchant la mort et animé par la rage, il ravage une région après l'autre, éliminant des hordes de grands guerriers et de bêtes légendaires dans sa recherche d'un ennemi capable de l'arrêter. Aujourd'hui un brutal combattant de la Griffe hivernale, il espère mourir glorieusement dans les grandes guerres à venir.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -953,7 +953,7 @@
   {
     "name": "Orianna",
     "Orianna": {
-      "story": "Story_Alistar",
+      "story": "Autrefois une jeune fille curieuse, de chair et d'os, Orianna est aujourd'hui une merveille de technologie entièrement mécanisée. Elle est tombée gravement malade à la suite d'un accident dans les quartiers inférieurs de Zaun, et son corps défaillant a été remplacé petit à petit par des prothèses perfectionnées. Accompagnée par une sphère extraordinaire qu'elle a elle-même créée pour lui servir de compagnon et de protectrice, Orianna est désormais libre d'explorer la merveilleuse ville de Piltover et ce qui se trouve au-delà.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -964,7 +964,7 @@
   {
     "name": "Ornn",
     "Ornn": {
-      "story": "Story_Alistar",
+      "story": "Ornn est le demi-dieu de la forge et de l'artisanat à Freljord. Avec comme seule compagne la solitude, il travaille dans sa forge enfouie au plus profond des cavernes de lave de l'Âtre-foyer. C'est là qu'il fond et purifie les métaux nécessaires à la création d'objets de qualité inimitable. Tandis que d'autres divinités – Volibear avant tout – s'immiscent dans les affaires des mortels, Ornn ne sort de son antre que pour remettre ces déités à leur place, avec son fidèle marteau ou les pouvoirs du volcan lui-même.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -975,7 +975,7 @@
   {
     "name": "Pantheon",
     "Pantheon": {
-      "story": "Story_Alistar",
+      "story": "Autrefois l'hôte réticent de la Manifestation de la Guerre, Atreus a survécu à la mort de la puissance céleste qui l'habitait, refusant de succomber au coup qui arracha les étoiles mêmes des cieux. Avec le temps, il apprit à accepter le pouvoir de sa mortalité, et la résistance bornée qui y est associée. Atreus s'oppose désormais aux entités divines en tant que Pantheon, ressuscité parmi les mortels, et manie les armes de la Manifestation animées par sa volonté inébranlable sur le champ de bataille.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -986,7 +986,7 @@
   {
     "name": "Poppy",
     "Poppy": {
-      "story": "Story_Alistar",
+      "story": "Runeterra ne manque pas de braves champions, mais peu peuvent se targuer d'être aussi tenaces que Poppy. Armée du légendaire marteau d'Orlon, faisant deux fois sa taille, cette yordle déterminée cherche depuis d'innombrables années le « héros de Demacia », qui serait le dépositaire légitime de cette arme. En attendant, elle part inlassablement au combat, repoussant les ennemis du royaume à grands coups de marteau.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
