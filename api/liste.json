@@ -997,7 +997,7 @@
   {
     "name": "Pyke",
     "Pyke": {
-      "story": "Story_Alistar",
+      "story": "Harponneur renommé des quais-abattoirs de Bilgewater, Pyke aurait dû trouver la mort dans le ventre d'une énorme créature marine… et pourtant, il est revenu. À présent, il écume les ruelles sombres de son ancien port d'attache, utilisant ses dons surnaturels pour assassiner brutalement les riches exploiteurs du peuple. Bilgewater, la ville des chasseurs de monstres, est devenue le terrain de chasse d'un monstre.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1008,7 +1008,7 @@
   {
     "name": "Qiyana",
     "Qiyana": {
-      "story": "Story_Alistar",
+      "story": "Dans la ville d'Ixaocan, perdue dans la jungle, Qiyana complote pour obtenir au prix du sang le siège révéré des Yun Tal. Dernière dans l'ordre de la succession, elle affronte ceux qui sont sur son chemin avec une absolue confiance en elle et une maîtrise exceptionnelle de la magie élémentaire. La terre elle-même obéit à ses ordres et Qiyana se considère comme la plus grande élémentaliste de l'histoire d'Ixaocan. À ce titre, elle pense mériter, non une ville, mais un empire.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1019,7 +1019,7 @@
   {
     "name": "Quinn",
     "Quinn": {
-      "story": "Story_Alistar",
+      "story": "Quinn est un chevalier-éclaireur d'élite de Demacia qui se spécialise dans les missions d'infiltration en territoire ennemi. Avec son aigle de légende, Valor, elle forme un duo inséparable dont les proies rendent souvent l'âme avant même de comprendre qu'elles affrontaient non pas un, mais deux héros demaciens. D'une grande agilité quand la situation l'impose, Quinn pointe son arbalète sur l'ennemi pendant que Valor survole le terrain et marque les cibles évasives, pour une efficacité meurtrière sur le champ de bataille.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1030,7 +1030,7 @@
   {
     "name": "Rakan",
     "Rakan": {
-      "story": "Story_Alistar",
+      "story": "Aussi lunatique qu'il est charmeur, Rakan est un trublion vastaya tristement célèbre, et le plus grand danseur guerrier de l'histoire de la tribu Lhotla. Pour les humains qui vivent dans les hautes terres d'Ionia, son nom est depuis longtemps synonyme de festivals endiablés, de fêtes déraisonnables et de musique anarchique. Peu de gens savent cependant que cet histrion ambulant est également le partenaire de Xayah, la rebelle, dont il défend avec ferveur la cause.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1041,7 +1041,7 @@
   {
     "name": "Rammus",
     "Rammus": {
-      "story": "Story_Alistar",
+      "story": "Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. Protégé par une carapace cloutée, il inspire des théories de plus en plus variées sur ses origines : demi-dieu, oracle, simple bête transformée par la magie... Quelle que soit la vérité, Rammus n'est pas très bavard et ne s'arrête pour personne tandis qu'il parcourt le désert de Shurima.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1052,7 +1052,7 @@
   {
     "name": "Rek'Sai",
     "Rek'Sai": {
-      "story": "Story_Alistar",
+      "story": "Rek'Sai est une créature prédatrice – la plus imposante et la plus féroce de son espèce – qui se déplace sous terre pour surprendre ses proies. Sa faim insatiable a ravagé des régions entières de Shurima à l'époque où cet empire était encore florissant. Les marchands et les caravanes armées faisaient des détours de plusieurs kilomètres pour rester loin de ses terres. Dès lors que Rek'Sai vous a repéré, votre sort est scellé. Nul ne peut lui échapper ; elle est la mort qui surgit du sable.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1063,7 +1063,7 @@
   {
     "name": "Rell",
     "Rell": {
-      "story": "Story_Alistar",
+      "story": "Changée en arme vivante par les expériences brutales de l'académie de la Rose noire, Rell est aujourd'hui déterminée à détruire Noxus. Son enfance a été particulièrement horrible ; on lui a fait subir des choses atroces afin de perfectionner ses capacités magiques de manipulation du métal... jusqu'à ce qu'elle réussisse à s'échapper en tuant beaucoup de ses ravisseurs au passage. Désormais considérée comme une criminelle, Rell s'attaque aux soldats noxiens tout en recherchant les survivants de son ancienne « académie ». Bien qu'elle défende les faibles, elle tuera sans pitié ses anciens tortionnaires.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1074,7 +1074,7 @@
   {
     "name": "Renekton",
     "Renekton": {
-      "story": "Story_Alistar",
+      "story": "Originaire du désert brûlant de Shurima, Renekton est un Transfiguré terrifiant animé par la rage. Il était autrefois le guerrier le plus respecté de l'empire de Shurima, dont il avait mené les armées vers la victoire à maintes reprises. Cependant, après la chute de l'empire, Renekton fut enseveli sous les sables. Petit à petit, alors que le monde changeait, il sombra dans la démence. Désormais libre, son unique souhait est de retrouver et de tuer son frère Nasus qui, croit-il dans sa folie, est responsable des siècles qu'il a passés dans les ténèbres.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1085,7 +1085,7 @@
   {
     "name": "Rengar",
     "Rengar": {
-      "story": "Story_Alistar",
+      "story": "Rengar est un féroce Vastaya chasseur de trophées qui ne vit que pour le frisson de la traque et de l'élimination des proies les plus dangereuses. Il parcourt le monde à la recherche des bêtes les plus féroces, et surtout de Kha'Zix, la créature du Néant qui lui a fait perdre un œil. Rengar ne piste ses proies ni pour la nourriture ni pour la gloire, mais pour la beauté de la poursuite en elle-même.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1096,7 +1096,7 @@
   {
     "name": "Riven",
     "Riven": {
-      "story": "Story_Alistar",
+      "story": "Autrefois soldat d'un régiment de Noxus, Riven est désormais expatriée dans un pays qu'elle avait elle-même tenté d'envahir. Elle s'est naguère élevée dans la hiérarchie grâce à sa force de conviction et à son efficacité brutale : sa récompense fut de commander ses propres troupes, armée d'une épée runique légendaire. Cependant, sur le front ionien, la foi de Riven en sa terre natale a vacillé avant de rompre. Ayant tranché tous ses liens avec l'empire, elle cherche désormais sa place dans un monde blessé, alors même que, d'après les rumeurs, Noxus a retrouvé sa vigueur d'antan…\n\n ",
       "skills": [
         "Comp_Alistar"
       ],
