@@ -604,11 +604,11 @@
     "Heimerdinger": {
       "story": "Scientifique yordle aussi brillant qu'excentrique, le professeur Cecil B. Heimerdinger est considéré comme l'un des inventeurs les plus innovants qu'ait connu Piltover. Travailleur si acharné que cela confine à l'obsession, il cherche les réponses aux questions les plus obscures de l'univers. Bien que ses théories paraissent souvent opaques et ésotériques, Heimerdinger a fabriqué certaines des machineries les plus étonnantes (et les plus mortelles) de Piltover. Il ne cesse jamais de bidouiller ses inventions pour les améliorer encore.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Gagne de la vitesse de déplacement à proximité des tourelles alliées et des tourelles déployées par Heimerdinger.\n\n",
+        "Heimerdinger déploie une tourelle équipée d'un laser secondaire perforant (elle inflige 50% de dégâts aux tourelles ennemies).\n\n",
+        "Heimerdinger lance des roquettes à longue portée qui convergent vers son curseur.\n\n",
+        "Heimerdinger lance une grenade vers l'endroit ciblé, infligeant des dégâts aux unités ennemies. Cela étourdit aussi les unités touchées directement et ralentit les unités proches.\n\n",
+        "Heimerdinger invente une amélioration, ce qui permet à son prochain sort d'avoir des effets augmentés.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -619,11 +619,11 @@
     "Illaoi": {
       "story": "La stature colossale d'Illaoi n'a d'égale que sa foi implacable. Prophétesse du Grand Kraken, elle se sert d'une énorme idole dorée pour arracher les esprits de ses ennemis et faire voler en éclats leur perception de la réalité. Ceux qui défient « l'Apôtre de la vérité de Nagakabouros » découvrent bien vite qu'Illaoi ne combat jamais seule, car le dieu des Îles aux serpents lui prête main-forte.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Illaoi et les réceptacles qu'elle crée font apparaître des tentacules sur les éléments de décor infranchissables à proximité. Les tentacules frappent les esprits, les réceptacles et les victimes de l'Âpre leçon d'Illaoi. Les tentacules infligent des dégâts physiques aux ennemis touchés, et ils soignent Illaoi s'ils blessent un champion.\n\n",
+        "Augmente les dégâts infligés par les tentacules. À l'activation, Illaoi fait s'abattre un tentacule qui inflige des dégâts physiques.\n\n",
+        "Illaoi bondit sur sa cible, infligeant des dégâts physiques et poussant tous les tentacules proches à frapper la cible.\n\n",
+        "Illaoi arrache l'esprit d'un ennemi et l'attire jusqu'à elle. L'esprit transmet un pourcentage des dégâts qu'il subit à la cible originale. S'il est détruit ou si la cible s'éloigne trop de son esprit, la cible devient un réceptacle et commence à faire apparaître des tentacules.\n\n",
+        "Illaoi écrase son idole au sol, infligeant des dégâts physiques aux ennemis proches. Un tentacule apparaît pour chaque champion ennemi touché.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -634,11 +634,11 @@
     "Irelia": {
       "story": "Des nombreux héros qui naquirent de l'occupation noxienne, aucun n'est plus étonnant que la jeune Irelia de Navori. Formée aux danses ancestrales de sa province, elle adapta son art pour la guerre, se servant de ses mouvements gracieux et précis pour faire léviter une multitude de lames acérées. Après avoir prouvé ses talents de guerrière, elle devint le chef et le symbole de la Résistance ; à ce jour, sa tâche est toujours de défendre son pays.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Irelia frappe des ennemis avec ses compétences, elle gagne un bonus de vitesse d'attaque cumulable. Au maximum d'effets cumulés, elle gagne aussi des dégâts à l'impact supplémentaires.\n\n",
+        "Irelia fonce vers l'avant pour frapper sa cible tout en récupérant des PV. Si la cible était marquée ou si elle est tuée par Rush fatal, le délai de récupération de la compétence est annulé.\n\n",
+        "Irelia charge une attaque. Plus la charge dure longtemps, plus les dégâts augmentent. Irelia subit moins de dégâts physiques pendant la charge.\n\n",
+        "Irelia envoie deux lames qui volent ensuite l'une vers l'autre. Les ennemis pris entre les lames sont blessés, étourdis et marqués.\n\n",
+        "Irelia tire un grand nombre de lames qui se dispersent en touchant un champion ennemi. Les ennemis touchés par les lames sont blessés et marqués. Les lames forment ensuite un mur qui blesse et ralentit les ennemis qui le traversent.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
@@ -649,11 +649,11 @@
     "Ivern": {
       "story": "Ivern Roncepied, que beaucoup connaissent sous le nom d'Aîné de la forêt, est un être étrange mi-homme mi-arbre, qui arpente les forêts de Runeterra en cultivant la vie partout où il va. Il connaît les secrets du monde naturel et entretient une profonde amitié avec tout ce qui rampe, vole et pousse. Ivern erre dans la nature sauvage, partageant sa sagesse avec tous ceux qu'il rencontre, enrichissant les forêts et confiant parfois (à tort !) certains de ses secrets aux papillons.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Ivern ne peut pas attaquer ou être attaqué par les monstres non épiques. Ivern peut créer des bosquets magiques qui se développent progressivement sur les camps de monstres. Quand le bosquet est pleinement développé, Ivern peut libérer les monstres pour recevoir des PO et de l'expérience. Passé le niveau 5, Ivern peut partager les enchantements de la jungle avec ses alliés.\n\n",
+        "Ivern projette une racine, infligeant des dégâts et immobilisant les cibles ennemies touchées. Les alliés d'Ivern peuvent foncer vers la cible immobilisée.\n\n",
+        "Dans les hautes herbes, les attaques d'Ivern infligent des dégâts magiques supplémentaires. Ivern peut activer cette compétence pour créer une parcelle d'herbes hautes.\n\n",
+        "Ivern offre à un allié un bouclier qui explose après un court instant, ralentissant et blessant les ennemis.\n\n",
+        "Ivern invoque son amie Marguerite, une sentinelle, pour qu'elle combatte à ses côtés. Marguerite envoie une onde de choc si elle attaque le même champion trois fois de suite.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -664,11 +664,11 @@
     "Janna": {
       "story": "Armée de la puissance des grands vents de Runeterra, Janna est un mystérieux esprit élémentaire qui protège les parias de Zaun. Certains croient que la vie lui a été donnée par les suppliques des marins de Runeterra cherchant les bons vents des mers calmes, affrontant les courants traîtres ou bravant les typhons. Depuis, on implore sa protection jusque dans les profondeurs de Zaun, où Janna est devenue un fanal d'espoir pour ceux qui sont dans le besoin. Nul ne sait quand et où elle apparaîtra, mais ceux qui espèrent son aide sont rarement déçus.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Janna gagne de la vitesse de déplacement bonus quand elle se dirige vers des champions alliés, et les champions alliés proches gagnent ce bonus quand ils se dirigent vers elle.\n\n",
+        "En modifiant localement la pression et la température, Janna peut créer une petite tornade qui croît en taille avec le temps. Elle peut activer une nouvelle fois le sort pour libérer la tornade. Elle fonce alors dans la direction de l'invocation, projetant en l'air les ennemis sur son passage et leur infligeant des dégâts.\n\n",
+        "Janna invoque un élémentaire d'air qui, passivement, augmente sa vitesse de déplacement et lui permet de traverser les unités. Elle peut aussi activer cette compétence pour infliger des dégâts et réduire la vitesse de déplacement d'un ennemi. La propriété passive est perdue pendant le délai de récupération de cette compétence.\n\n",
+        "Janna invoque une tempête défensive qui protège un champion allié ou une tourelle alliée contre les dégâts et qui augmente ses dégâts d'attaque.\n\n",
+        "Janna s'entoure d'une puissante tempête magique, repoussant au loin les ennemis. Quand la tempête est terminée, les dernières brises soignent les alliés proches tant que la compétence est active.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -679,11 +679,11 @@
     "Jarvan IV": {
       "story": "Le prince Jarvan, héritier de la dynastie des Lightshield, doit un jour monter sur le trône de Demacia. Élevé de manière à incarner les plus hautes vertus de sa nation, il est contraint de trouver un équilibre entre les attentes placées en lui et son désir de combattre sur la ligne de front. Jarvan inspire ses troupes avec son courage, sa détermination et son dévouement. Il porte haut les couleurs de sa famille et révèle chaque jour davantage sa véritable force de prochain souverain.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "La première attaque de base de Jarvan IV sur un ennemi inflige des dégâts physiques supplémentaires selon un pourcentage des PV actuels de la cible. Cet effet ne peut ensuite plus être infligé au même ennemi pendant quelques secondes.\n\n",
+        "Jarvan IV allonge sa lance, infligeant des dégâts physiques et réduisant l'armure des ennemis sur son chemin. En outre, cela peut ramener Jarvan à son Étendard demacien, projetant les ennemis dans les airs au passage.\n\n",
+        "Jarvan IV implore les anciens rois de Demacia de le protéger et de ralentir les ennemis proches.\n\n",
+        "Jarvan IV porte la fierté de Demacia, ce qui lui octroie passivement un bonus en vitesse d'attaque. Activer Étendard demacien permet à Jarvan IV de planter un drapeau demacien, infligeant des dégâts magiques à l'impact et augmentant la vitesse d'attaque des champions alliés proches.\n\n",
+        "Jarvan IV bondit héroïquement sur une cible avec une telle force qu'il transforme la zone autour de lui en une arène. Les ennemis proches sont blessés lors de l'impact.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -694,11 +694,11 @@
     "Jax": {
       "story": "Jax, dont nul ne peut égaler l'art du sarcasme et des armements inhabituels, est connu comme le dernier maître d'armes d'Icathia. Après la chute de sa terre natale, ravagée par le Néant qu'elle avait eu l'orgueil de déchaîner, Jax et ses compagnons jurèrent de protéger le peu qu'il en restait. La magie montant de nouveau dans le monde, la menace se fait plus pressante et Jax parcourt Valoran, porteur des dernières lumières d'Icathia. Il éprouve les qualités de tous les guerriers qu'il rencontre pour voir s'ils sont assez puissants pour combattre à ses côtés...\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base successives de Jax augmentent continuellement sa vitesse d'attaque.\n\n",
+        "Jax bondit sur une unité. S'il s'agit d'un ennemi, il le frappe avec son arme.\n\n",
+        "Jax charge son arme en énergie pour infliger des dégâts supplémentaires avec sa prochaine attaque.\n\n",
+        "Jax est capable d'esquiver toutes les attaques pendant un bref instant puis d'étourdir tous les ennemis proches en contre-attaquant.\n\n",
+        "Le troisième coup consécutif de Jax inflige des dégâts magiques supplémentaires. En outre, Jax peut activer cette compétence pour renforcer sa détermination, augmentant son armure et sa résistance magique pendant un court instant.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -709,11 +709,11 @@
     "Jayce": {
       "story": "Jayce est un brillant inventeur qui a voué sa vie à la défense de Piltover et de sa poursuite inlassable du progrès. Armé de son marteau Hextech polymorphe, Jayce utilise aussi bien sa force que son courage et son intelligence pour protéger sa ville. Bien que considéré comme un héros par ses compatriotes, il n'apprécie pas vraiment l'attention que cela lui vaut. Jayce a néanmoins un cœur d'or, et même ceux qui sont jaloux de ses talents naturels lui sont reconnaissants de protéger la Cité du progrès.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Jayce change d'arme, il gagne un bonus en vitesse de déplacement pendant un court instant.\n\n",
+        "Marteau : bondit sur un ennemi, infligeant des dégâts physiques et ralentissant les ennemis. Canon : tire un orbe qui explose en touchant un ennemi ou en arrivant au bout de sa course, infligeant des dégâts physiques à tous les ennemis touchés.\n\n",
+        "Marteau - Passive : rend du mana à chaque attaque. Active : crée un champ d'électricité qui blesse les ennemis proches pendant plusieurs secondes. Canon : provoque une poussée d'énergie, augmentant la vitesse d'attaque au maximum pour plusieurs attaques.\n\n",
+        "Marteau : inflige des dégâts magiques à un ennemi et le repousse sur une courte distance. Canon : déploie un Portail d'accélération qui augmente la vitesse de déplacement de tous les champions alliés le traversant. Si Orbe électrique passe le portail, la vitesse, la portée et les dégâts du projectile augmentent.\n\n",
+        "Marteau : transforme le Marteau Mercury en Canon Mercury, offrant à Jayce de nouvelles compétences et augmentant sa portée. La première attaque avec le canon réduit l'armure et la résistance magique de l'ennemi. Canon : transforme le Canon Mercury en Marteau Mercury, offrant à Jayce de nouvelles compétences et augmentant ses résistances aux dégâts. La première attaque avec le marteau infligera des dégâts magiques supplémentaires.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -724,11 +724,11 @@
     "Jhin": {
       "story": "Jhin est un psychopathe méticuleux pour qui le meurtre est une forme d'art. Autrefois prisonnier de Ionia, mais libéré par des conspirateurs opérant au sein du conseil dirigeant du pays, ce tueur en série a désormais mis ses talents d'assassin au service de leur complot. Utilisant son pistolet comme un pinceau, Jhin crée des œuvres d'art empreintes de brutalité, aussi terrifiantes pour ses victimes que pour les témoins de ses crimes. Il tire un plaisir sadique de ses performances théâtrales, ce qui en fait un atout de poids quand il s'agit d'envoyer le plus puissant des messages : celui de la terreur.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Le pistolet de Jhin, Murmure, est un instrument de précision capable d'infliger de lourds dégâts. Sa cadence de tir est fixe et il ne peut tirer que quatre balles avant de devoir être rechargé. Jhin insuffle à la dernière balle un soupçon de magie noire qui lui permet de toujours infliger un coup critique et des dégâts supplémentaires. Quand Murmure inflige un coup critique, Jhin reçoit un bonus en vitesse de déplacement.\n\n",
+        "Jhin lance une bombe magique sur un ennemi. Elle peut toucher jusqu'à quatre cibles et ses dégâts augmentent après chaque coup fatal.\n\n",
+        "Jhin brandit sa canne et tire une unique balle à très longue portée. Elle transperce les sbires et les monstres, mais s'arrête au premier champion touché. Si la cible avait récemment été blessée par Jhin ou touchée par les alliés de Jhin ou un piège-lotus, elle est immobilisée.\n\n",
+        "Jhin pose un piège-lotus invisible qui fleurit quand un ennemi marche dessus. Il ralentit les ennemis proches avant de leur infliger des dégâts dans une explosion de pétales lacérants. Beauté dans la mort : Quand Jhin tue un champion ennemi, un piège-lotus fleurit près de son cadavre.\n\n",
+        "Après une canalisation, Jhin transforme Murmure en méga-canon d'épaule. Il peut alors tirer 4 super balles à très longue portée qui transpercent les sbires et les monstres, mais s'arrêtent au premier champion touché. Murmure estropie les ennemis touchés, ce qui les ralentit et leur inflige des dégâts supplémentaires. Le 4e tir est parfaitement calibré et puissant, et il inflige toujours un coup critique.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -739,11 +739,11 @@
     "Jinx": {
       "story": "Criminelle hystérique et impulsive de Zaun, Jinx ne vit que pour semer le chaos sans se préoccuper des conséquences. Équipée d'un arsenal d'armes mortelles, elle déchaîne les explosions les plus spectaculaires en ne laissant dans son sillage que destruction et panique. Jinx déteste s'ennuyer et c'est dans la bonne humeur qu'elle sème le chaos dans tous les endroits qu'elle traverse.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Jinx reçoit un énorme bonus en vitesse de déplacement et en vitesse d'attaque quand elle participe à l'élimination/destruction d'un champion, d'un monstre épique de la jungle ou d'un bâtiment.\n\n",
+        "Jinx modifie ses attaques de base en optant pour Bang-Bang, son minigun, ou Poiscaille, son lance-roquettes. Les attaques avec Bang-Bang augmentent la vitesse d'attaque, tandis que les attaques avec Poiscaille infligent des dégâts de zone et ont une plus grande portée, mais drainent du mana et sont plus lentes.\n\n",
+        "Jinx utilise Zapper, son pistolet, pour tirer un rayon qui inflige des dégâts au premier ennemi touché, le ralentit et le révèle.\n\n",
+        "Jinx lance des grenades immobilisantes qui explosent au bout de 5 sec et mettent le feu aux ennemis. Les Pyromâcheurs mordent les champions ennemis qui leur marchent dessus, les immobilisant.\n\n",
+        "Jinx tire une super roquette qui traverse la carte et dont les dégâts augmentent pendant le trajet. La roquette explose au contact d'un champion ennemi, infligeant des dégâts à ce champion et aux ennemis proches en fonction de leurs PV manquants.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10

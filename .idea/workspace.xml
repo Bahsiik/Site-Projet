@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09586285-f89c-40d7-9992-9caf41d24c4c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/vierge_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite" />
       <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\Html" />
       <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\js" />
     </key>
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644260966173</updated>
-      <workItem from="1644260969678" duration="7600000" />
+      <workItem from="1644260969678" duration="7902000" />
     </task>
     <servers />
   </component>
