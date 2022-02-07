@@ -1657,7 +1657,7 @@
   {
     "name": "Yuumi",
     "Yuumi": {
-      "story": "Story_Alistar",
+      "story": "Originaire de Bandle, Yuumi est un familier magique dont la maîtresse, une enchanteresse yordle du nom de Norra, a mystérieusement disparu. Yuumi est désormais la gardienne du Grimoire des Seuils que possédait Norra, un livre permettant de franchir des portails. Partie à la recherche de sa maîtresse, Yuumi s'est fait de nouveaux amis durant son périple, et elle les protège tous avec la même détermination. Même si Grimoire aimerait que Yuumi se concentre davantage sur sa mission, sa comparse aime prendre le temps de faire la sieste et de pêcher des poissons. Malgré cela, elle finit toujours par repartir en quête de sa maîtresse.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1668,7 +1668,7 @@
   {
     "name": "Zac",
     "Zac": {
-      "story": "Story_Alistar",
+      "story": "Zac est le produit d'une fuite toxique qui, dégoulinant par une veine techno-chimique, se transforma en bassin dans une profonde caverne du Puisard de Zaun. En dépit de ses humbles origines, Zac a évolué pour passer du stade de dépôt primordial à celui d'être pensant qui se faufile dans les canalisations de la ville. De temps en temps, il émerge pour aider ceux qui ne s'en sortent pas seuls ou pour reconstruire les infrastructures en mauvais état de Zaun.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1679,7 +1679,7 @@
   {
     "name": "Zed",
     "Zed": {
-      "story": "Story_Alistar",
+      "story": "L'impitoyable Zed est le maître de l'Ordre de l'ombre, une organisation qu'il a créée dans l'intention de militariser la tradition des arts martiaux d'Ionia et de chasser enfin les envahisseurs noxiens. Pendant la guerre, le désespoir le conduisit à déchaîner la Forme secrète de l'ombre, un puissant esprit maléfique aussi dangereux que corrompu. Si Zed maîtrise ces techniques interdites, c'est pour détruire tout ce qu'il considère comme une menace contre sa nation ou son ordre.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1690,7 +1690,7 @@
   {
     "name": "Zeri",
     "Zeri": {
-      "story": "Story_Alistar",
+      "story": "Zeri est une jeune femme vive et téméraire originaire des quartiers défavorisés de Zaun. Elle canalise son électricité intérieure afin de la charger dans un fusil conçu spécialement pour elle. Son pouvoir magique est le reflet de ses émotions, et ses étincelles sont aussi fulgurantes que son caractère. Résolument tournée vers les autres, Zeri se sert de son amour pour sa famille et son quartier durant chaque combat. Malgré toute sa bonne volonté, cependant, les événements ne se passent pas toujours comme prévu. Cela dit, Zeri est sûre d'une chose : si vous vous battez pour votre communauté, elle se battra avec vous.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1701,7 +1701,7 @@
   {
     "name": "Ziggs",
     "Ziggs": {
-      "story": "Story_Alistar",
+      "story": "Amoureux des grosses bombes et des mèches courtes, le yordle Ziggs est une force de la nature explosive. Assistant d'un inventeur de Piltover, il finit par se lasser de sa vie routinière et devint l'ami d'une jeune fille imprévisible et portée sur les explosifs, Jinx. Après une folle nuit en ville, Ziggs suivit les conseils de Jinx et s'installa à Zaun, où il se livre désormais à sa passion plus librement, terrorisant les Barons de la chimie comme les simples citoyens dans sa quête éternelle pour faire sauter tout ce qui traverse son champ de vision.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1712,7 +1712,7 @@
   {
     "name": "Zilean",
     "Zilean": {
-      "story": "Story_Alistar",
+      "story": "Naguère puissant mage d'Icathia, Zilean devint obsédé par le passage du temps après avoir assisté à la destruction de sa terre natale par le Néant. Refusant de perdre une minute à pleurer sur les décombres, il fit appel à une antique force magique capable de prédire tous les avenirs possibles. Devenu techniquement immortel, Zilean erre désormais entre passé, présent et futur, distordant autour de lui le flux du temps, toujours à la recherche du moment exact qui lui permettra de changer le passé et d'empêcher la destruction d'Icathia.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1723,7 +1723,7 @@
   {
     "name": "Zoe",
     "Zoe": {
-      "story": "Story_Alistar",
+      "story": "Incarnation de l'espièglerie, de l'imagination et de l'inconstance, Zoé est une messagère cosmique de Targon, annonciatrice des grands événements qui chamboulent les mondes. Sa simple présence distord les règles mathématiques qui gouvernent dans l'ombre les réalités et, sans pour autant le vouloir, peut même provoquer des cataclysmes. Cela explique peut-être la nonchalance désinvolte avec laquelle Zoé traite ses tâches, préférant consacrer le plus clair de son temps à s'amuser, à jouer des tours aux mortels, bref, à faire tout ce qui lui plaît. Une rencontre avec Zoé peut se révéler joyeuse et porteuse d'optimisme, mais ce n'est souvent qu'une apparence, cachant une vérité extrêmement dangereuse.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1734,7 +1734,7 @@
   {
     "name": "Zyra",
     "Zyra": {
-      "story": "Story_Alistar",
+      "story": "Née au cours d'une ancienne catastrophe magique, Zyra est la colère de la nature incarnée : mélange de plante et d'humain, faisant émerger de nouvelles pousses à chaque pas. Elle considère les nombreux mortels de Valoran comme de simples proies pour sa progéniture végétale, et les éliminer avec ses gerbes d'épines ne lui pose aucun problème. Bien que nul ne connaisse ses vrais objectifs, Zyra erre de par le monde, suivant son instinct qui est de coloniser toujours plus de terres et d'en exterminer toutes les autres formes de vie.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
