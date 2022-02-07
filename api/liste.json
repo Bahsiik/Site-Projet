@@ -17,7 +17,7 @@
   {
     "name": "Ahri",
     "Ahri": {
-      "story": "Story_Ahri",
+      "story": "Dotée d'un lien inné avec le pouvoir naturel de Runeterra, Ahri est une Vastaya capable de modeler la magie pour en faire des orbes d'énergie pure. Elle aime plus que tout jouer avec ses proies en manipulant leurs émotions avant de dévorer leur essence vitale. En dépit de sa nature de prédateur, Ahri n'est pas sans empathie, car chaque âme qu'elle absorbe l'emplit de fragments de ses souvenirs.",
       "skills": [
         "Comp_Ahri"
       ],
@@ -28,7 +28,7 @@
   {
     "name": "Akali",
     "Akali": {
-      "story": "Story_Akali",
+      "story": "Ayant abandonné l'Ordre Kinkou et le titre de Poing de l'ombre, Akali combat aujourd'hui seule, prête à devenir l'arme mortelle dont son peuple a besoin. Bien qu'elle n'oublie rien de tout ce que son maître Shen lui a enseigné, elle a juré de défendre Ionia contre ses ennemis, une élimination après l'autre. Akali tue sans faire de bruit, mais son message est fort et clair : craignez l'assassin sans maître.\n\n",
       "skills": [
         "Comp_Akali"
       ],
@@ -39,7 +39,7 @@
   {
     "name": "Akshan",
     "Akshan": {
-      "story": "Story_Akshan",
+      "story": "Se jouant du danger, Akshan combat le mal sans jamais se départir de son charisme (il ne faut jamais sous-estimer l'importance de la cape) et de sa droiture. Il est passé maître dans l'art du combat furtif, ce qui lui permet d'échapper au regard de ses ennemis et de réapparaître lorsqu'ils s'y attendent le moins. À l'aide de son sens aigu de la justice et d'une arme légendaire défiant la mort elle-même, il redresse les torts des nombreux vauriens de Runeterra. Sa règle d'or : « ne sois pas crapuleux. »\n\n",
       "skills": [
         "Comp_Akshan"
       ],
@@ -50,7 +50,7 @@
   {
     "name": "Alistar",
     "Alistar": {
-      "story": "Story_Alistar",
+      "story": "Alistar est un guerrier redoutable cherchant à se venger de l'empire noxien qui a détruit son clan. Bien qu'il ait été réduit en esclavage et forcé de vivre une vie de gladiateur, sa volonté de fer lui a permis de ne pas succomber à la folie bestiale qui le menaçait. Maintenant qu'il a retrouvé la liberté, il combat au nom des faibles et des opprimés. Ses seules armes sont ses cornes, ses sabots et ses poings.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -61,7 +61,7 @@
   {
     "name": "Amumu",
     "Amumu": {
-      "story": "Story_Amumu",
+      "story": "La légende veut qu'Amumu soit une âme solitaire et mélancolique de la Shurima antique et qu'il parcoure le monde à la recherche d'un ami. Condamné par une malédiction à rester seul à jamais, il provoque la mort et la ruine à chaque geste d'affection. Ceux qui prétendent l'avoir vu le décrivent comme un cadavre vivant, petit de taille, enveloppé dans d'effrayants bandages. Il a inspiré bien des mythes, des chansons et des légendes, transmis de génération en génération pendant si longtemps qu'il est désormais impossible de démêler le vrai du faux.\n\n",
       "skills": [
         "Comp_Amumu"
       ],
@@ -72,7 +72,7 @@
   {
     "name": "Anivia",
     "Anivia": {
-      "story": "Story_Anivia",
+      "story": "Anivia est un esprit ailé bienveillant qui subit des cycles sans fin de vie, de mort et de renaissance pour protéger Freljord. Demi-déesse née de la glace la plus froide et des vents les plus coupants, elle utilise ses pouvoirs élémentaires contre quiconque prétend troubler la paix de sa terre natale. Anivia guide et protège les tribus du Nord, qui la vénèrent comme un symbole d'espoir et la promesse de grands changements. Elle combat de tout son être, sachant que son sacrifice fera vivre sa légende et qu'elle renaîtra dans un lendemain nouveau.\n\n",
       "skills": [
         "Comp_Anivia"
       ],
@@ -83,7 +83,7 @@
   {
     "name": "Annie",
     "Annie": {
-      "story": "Story_Annie",
+      "story": "Dangereuse, incroyablement précoce, Annie est une enfant mage dotée d'extraordinaires pouvoirs de pyrokinésie. Même à l'ombre des montagnes du nord de Noxus, sa magie est un cas unique. Son affinité naturelle avec le feu se manifesta dès sa prime enfance à travers des explosions émotionnelles imprévisibles, même si elle apprit rapidement à contrôler ces éclats. Parmi ses jeux favoris, elle aime invoquer son bien-aimé ours en peluche, Tibbers, sous la forme d'un protecteur enflammé. Perdue dans l'innocence perpétuelle de l'enfance, Annie sautille dans les forêts obscures, à la recherche de quelqu'un avec qui jouer.\n\n",
       "skills": [
         "Comp_Annie"
       ],
@@ -94,7 +94,7 @@
   {
     "name": "Aphelios",
     "Aphelios": {
-      "story": "Story_Aphelios",
+      "story": "Émergeant des ombres au clair de lune, Aphelios abat ceux qui voudraient anéantir sa foi sans un mot ; ses armes et sa précision mortelle parlent pour lui. Un poison qui le rend muet coule dans ses veines, mais il est constamment guidé par sa sœur, Alune. Depuis son temple lointain, elle lui confère un arsenal d'armes en pierre de lune. Tant que la lune brillera dans le ciel, Aphelios ne sera jamais seul.\n\n",
       "skills": [
         "Comp_Aphelios"
       ],
@@ -105,7 +105,7 @@
   {
     "name": "Ashe",
     "Ashe": {
-      "story": "Story_Ashe",
+      "story": "Chef de guerre sublimé de la tribu des Avarosans, Ashe est à la tête de la plus vaste horde des terres du nord. Stoïque, intelligente et idéaliste, mais mal à l'aise dans son rôle de leader, elle puise dans la magie ancestrale de sa lignée pour manier un arc de glace pure. Soutenue par son peuple qui voit en elle la réincarnation de la légendaire héroïne Avarosa, Ashe cherche à unifier Freljord en reprenant les terres tribales.\n\n",
       "skills": [
         "Comp_Ashe"
       ],

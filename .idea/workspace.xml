@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
-      <change beforePath="$PROJECT_DIR$/.idea/ProjetSite.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_02__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/AatroxE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Ahri_Fox-Fire.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Ahri_OriginalSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Ahri_StarGuardianSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Akali_Assassin27s_Mark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Akali_Five_Point_Strike.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Akshan_Avengerang.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Akshan_Going_Rogue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Alistar_SweeperSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Alistar_Triumphant_Roar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Alistar_Unbreakable_Will.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Amumu_PumpkinPrinceSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Anivia_CosmicFlightSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Annie_ReverseSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Aphelios_Binding_Eclipse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Aphelios_Phase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Arise%21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Ashe_ChampionshipSkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Disintegrate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Frost_Shot_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_02_2022_10_05_[Changes]/Summon-_Tibbers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/listeChampions.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +105,7 @@
       <workItem from="1644031369164" duration="634000" />
       <workItem from="1644033405375" duration="727000" />
       <workItem from="1644075961308" duration="765000" />
-      <workItem from="1644222266717" duration="3907000" />
+      <workItem from="1644222266717" duration="5247000" />
     </task>
     <servers />
   </component>
