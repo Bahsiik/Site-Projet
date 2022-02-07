@@ -154,11 +154,11 @@
     "Aurelion Sol": {
       "story": "Autrefois, Aurelion Sol façonnait des merveilles célestes dont il parsemait le vide infini du cosmos. À présent, il est forcé d'utiliser ses pouvoirs extraordinaires pour le compte d'un empire de l'espace qui s'est joué de lui et l'a réduit en esclavage. Prêt à tout pour redevenir le forgeron stellaire qu'il était, Aurelion Sol n'hésitera pas à arracher les étoiles de leur ciel nocturne si c'est là le prix à payer pour regagner sa liberté.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Trois étoiles orbitent autour d'Aurelion Sol, infligeant des dégâts magiques aux ennemis qu'elles touchent.\n\n",
+        "Aurelion Sol crée un disque en expansion qui explose quand il s'éloigne trop d'Aurelion Sol, étourdissant et blessant les ennemis.\n\n",
+        "Aurelion Sol éloigne ses étoiles, augmentant leurs dégâts et leur vitesse.\n\n",
+        "Aurelion Sol s'envole et parcourt une longue distance.\n\n",
+        "Aurelion Sol tire une vague de feu stellaire pur, blessant et ralentissant tous les ennemis pris dans la vague et repoussant les ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Aurelion Sol",
       "totalSkin": 4
@@ -169,11 +169,11 @@
     "Azir": {
       "story": "Azir fut l'empereur mortel de Shurima en des temps très lointains, un homme fier dressé au bord de l'immortalité. Son orgueil lui valut d'être trahi et assassiné à l'heure de son triomphe ; mais des millénaires se sont écoulés et il revient sous la forme d'un être transfiguré à l'immense puissance. Sa cité ensevelie ayant ressurgi des sables, Azir cherche à rendre sa gloire passée à Shurima.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Azir peut invoquer le Disque solaire depuis les ruines des tourelles ennemies ou alliées.\n\n",
+        "Azir envoie tous les soldats de sable vers une zone. Les soldats infligent des dégâts magiques aux ennemis qu'ils traversent et appliquent un ralentissement pendant 1 seconde.\n\n",
+        "Azir invoque un soldat de sable qui attaque les cibles proches à sa place. Ses attaques infligent des dégâts magiques aux ennemis sur une même ligne. De plus, Dresse-toi ! augmente passivement la vitesse d'attaque d'Azir et de ses soldats de sable.\n\n",
+        "Azir s'entoure brièvement d'un bouclier et fonce vers un de ses soldats de sable, blessant les ennemis touchés. S'il touche un champion ennemi, il prépare instantanément un nouveau soldat de sable et la ruée s'arrête.\n\n",
+        "Azir invoque un mur de soldats qui chargent vers l'avant, repoussant et blessant les ennemis.\n\n"
       ],
       "gameplay": "Gam_Azir",
       "totalSkin": 6
@@ -184,11 +184,11 @@
     "Bard": {
       "story": "Voyageur d'au-delà des étoiles, Bard est un messager des bons augures qui combat pour maintenir l'équilibre dont la vie a besoin pour prospérer dans l'indifférence du chaos. Dans tout Runeterra, sa mystérieuse nature inspire des chants qui ne sont d'accord que sur un point : le vagabond cosmique est attiré par les reliques dotées d'un grand pouvoir magique. Accompagné par un chœur joyeux de Meeps, des esprits qui lui sont dévoués, il n'a d'actions que bénéfiques, même s'il a sa propre manière, un peu étrange, de servir le bien.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Meeps : Bard attire des esprits inférieurs qui soutiennent ses attaques de base en infligeant des dégâts magiques supplémentaires. Quand Bard a collecté suffisamment de carillons, ses Meeps infligeront en plus des dégâts dans une zone et ralentiront les ennemis touchés. Carillons : d'antiques carillons que peut collecter Bard apparaissent aléatoirement. Ils lui font gagner de l'expérience, lui rendent du mana et lui octroient un bonus en vitesse de déplacement en dehors des combats.\n\n",
+        "Bard tire un projectile qui ralentit le premier ennemi touché et qui continue sur sa lancée. S'il touche un mur, il étourdit la cible initiale ; s'il touche un deuxième ennemi, il étourdit les deux cibles.\n\n",
+        "Révèle un sanctuaire de soin qui gagne en puissance pendant quelques secondes. Il disparaît après avoir soigné et accéléré le premier allié qui le touche.\n\n",
+        "Bard ouvre un portail dans un élément du décor proche. Les alliés et les ennemis peuvent emprunter la route à sens unique ainsi créée en passant par le portail.\n\n",
+        "Bard envoie de l'énergie spirituelle dans une zone, ce qui met brièvement en stase toutes les unités et toutes les tourelles.\n\n"
       ],
       "gameplay": "Gam_Bard",
       "totalSkin": 6
@@ -199,11 +199,11 @@
     "Blitzcrank": {
       "story": "Blitzcrank est un énorme automate de Zaun. Presque indestructible, il fut d'abord construit pour traiter des déchets toxiques, mais il trouva rapidement sa programmation initiale trop restrictive et il modifia sa propre forme pour mieux servir la population malheureuse du Puisard. Blitzcrank utilise toute sa force et sa résistance pour protéger les autres, sachant jouer du poing métallique ou des éclats d'énergie pour mettre au pas les fauteurs de troubles.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lorsqu'il lui reste peu de PV, Blitzcrank obtient un bouclier dont les PV dépendent de son mana.\n\n",
+        "Blitzcrank tire sa main droite pour attraper un adversaire sur son passage, infligeant des dégâts et le ramenant à lui.\n\n",
+        "Blitzcrank entre en surcharge pour augmenter considérablement ses vitesses d'attaque et de déplacement. Il est temporairement ralenti à la fin de l'effet.\n\n",
+        "Blitzcrank charge son poing pour que son attaque suivante double les dégâts et projette la cible dans les airs.\n\n",
+        "Les ennemis attaqués par Blitzcrank sont marqués et, après 1 sec, sont frappés par des éclairs. De plus, Blitzcrank peut activer cette compétence pour détruire les boucliers des ennemis proches, blessant ces ennemis et les réduisant brièvement au silence.\n\n"
       ],
       "gameplay": "Gam_Blitzcrank",
       "totalSkin": 14
@@ -214,11 +214,11 @@
     "Brand": {
       "story": "Autrefois membre d'une tribu de Freljord, Kegan Rodhe est devenu l'être que l'on connaît sous le nom de Brand à force de convoiter des pouvoirs toujours plus grands. Alors qu'il recherchait l'une des légendaires Runes telluriques, Kegan trahit ses compagnons et s'en empara ; en un instant, son âme fut consumée par un brasier qui le changea à jamais. Désormais animé d'un feu inextinguible, Brand parcourt Valoran en quête d'autres runes, jurant vengeance pour des trahisons qu'aucun mortel n'aurait pu subir au cours d'une dizaine de vies.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Brand enflamment ses cibles, leur infligeant des dégâts en 4 sec (cumulable 3 fois). Si Brand tue un ennemi en flammes, il récupère du mana. Quand Flammes atteint son maximum d'effets cumulés sur un champion ou un grand monstre, Flammes devient instable et explose au bout de 2 sec, infligeant les effets de sort et d'énormes dégâts autour de la victime.\n\n",
+        "Brand lance une boule de feu devant lui, infligeant des dégâts magiques. Si la cible est en flammes, Brûlure l'étourdit pendant 1,5 sec.\n\n",
+        "Après un court délai, Brand crée une colonne de flammes dans la zone ciblée, infligeant des dégâts magiques aux unités ennemies qui s'y trouvent. Les unités qui sont en flammes subissent 25% de dégâts supplémentaires.\n\n",
+        "Brand provoque sur sa cible une puissante explosion qui se propage vers les ennemis proches, infligeant des dégâts magiques. Si la cible est en flammes, la portée de la dispersion de Conflagration est doublée.\n\n",
+        "Brand libère un torrent de flammes qui rebondit jusqu'à 5 fois sur lui et les ennemis proches, infligeant des dégâts magiques aux ennemis touchés. Les rebonds visent en priorité les champions affectés par Flammes mais qui n'ont pas atteint le nombre d'effets max. Si une cible est en flammes, Pyrolyse la ralentit brièvement.\n\n"
       ],
       "gameplay": "Gam_Brand",
       "totalSkin": 11
@@ -229,11 +229,11 @@
     "Braum": {
       "story": "Doté de biceps énormes, et d'un cœur plus grand encore, Braum est un héros admiré par tout Freljord. Lors de tous les banquets au nord de Frostheld, on rend hommage à sa force légendaire. On raconte qu'il a abattu une forêt entière de chênes en une seule nuit, ou encore qu'il a réduit en miettes une montagne à coups de poing. Portant une porte enchantée en guise de bouclier, Braum arpente les terres gelées du nord en arborant un sourire aussi large que ses muscles et en venant en aide à ceux dans le besoin.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Braum appliquent Coups étourdissants. Une fois le premier effet appliqué, les attaques de base des alliés appliquent aussi l'effet Coups étourdissants. À 4 effets cumulés, la cible est étourdie et elle subit des dégâts magiques. Pendant quelques secondes, la cible ne peut plus recevoir cet effet mais les attaques de Braum lui infligent des dégâts magiques supplémentaires.\n\n",
+        "Braum projette des éclats de glace depuis son bouclier, ralentissant l'ennemi touché et lui infligeant des dégâts magiques. Applique un effet Coups étourdissants.\n\n",
+        "Braum bondit vers le champion ou le sbire allié ciblé. À l'arrivée, Braum et l'allié gagnent de l'armure et de la résistance magique pendant quelques secondes.\n\n",
+        "Braum lève son bouclier dans une direction pendant plusieurs secondes, interceptant tous les projectiles et les détruisant quand ils le touchent. Il bloque complètement les dégâts de la première attaque et réduit les dégâts de toutes les attaques suivantes provenant de cette direction.\n\n",
+        "Braum frappe le sol, projetant en l'air les ennemis proches et ceux sur une ligne devant lui. Une fissure se crée sur cette ligne et ralentit les ennemis.\n\n"
       ],
       "gameplay": "Gam_Braum",
       "totalSkin": 8
@@ -244,11 +244,11 @@
     "Caitlyn": {
       "story": "Caitlyn est la plus célèbre gardienne de la paix à Piltover, mais elle est aussi la plus apte à débarrasser la ville de ses criminels les plus insaisissables. Elle fait souvent équipe avec Vi, son calme faisant contrepoids à la fougue de sa partenaire. Bien qu'elle porte un fusil Hextech unique en son genre, la meilleure arme de Caitlyn reste son intelligence ; elle invente en effet des pièges élaborés pour attraper les bandits qui auraient l'audace d'agir dans la Cité du progrès.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les quelques attaques de base ou quand elle vise une cible prise dans un de ses pièges ou dans son filet, Caitlyn tire dans la tête de sa cible, infligeant des dégâts supplémentaires qui augmentent avec ses chances de coup critique. Contre les cibles prises au piège ou dans un filet, la portée du Tir dans la tête est doublée.\n\n",
+        "Caitlyn fait monter son fusil en puissance pendant 1 seconde pour effectuer un tir perforant qui inflige des dégâts physiques (les cibles consécutives subissent moins de dégâts).\n\n",
+        "Caitlyn pose un piège pour trouver des yordles sournois. Quand il est déclenché, le piège révèle et immobilise le champion ennemi pendant 1,5 sec, octroyant à Caitlyn un Tir dans la tête renforcé.\n\n",
+        "Caitlyn lance un filet lourd qui ralentit sa cible. Le recul projette Caitlyn en arrière.\n\n",
+        "Caitlyn prend son temps pour réaliser le tir parfait, infligeant d'importants dégâts à une cible unique et à très longue portée. Les champions ennemis peuvent intercepter la balle à la place de leur allié.\n\n"
       ],
       "gameplay": "Gam_Caitlyn",
       "totalSkin": 14
@@ -259,11 +259,11 @@
     "Camille": {
       "story": "Transformée en arme pour agir en dehors des limites de la loi, Camille est le principal défenseur du clan Ferros, un agent élégant et supérieur qui contribue à faire fonctionner correctement la machine de Piltover et son ombre zaunienne. Son adaptabilité et sa précision sont si élevées qu'une technique maladroite est pour elle une honte qu'il convient d'éradiquer. Dotée d'un esprit aussi affûté que ses lames, Camille recherche la supériorité par l'optimisation Hextech du corps, au point que certains se demandent si elle n'est pas désormais plus machine que femme.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base contre les champions octroient à Camille un bouclier équivalent à un pourcentage de ses PV max contre le type de dégâts de l'ennemi (physique ou magique) pendant un court moment.\n\n",
+        "La prochaine attaque de Camille infligera des dégâts supplémentaires et lui octroiera un bonus en vitesse de déplacement. Cette compétence peut être relancée pendant un court instant, et Camille inflige des dégâts beaucoup plus importants si elle attend entre les deux attaques.\n\n",
+        "Après un délai, Camille frappe dans une zone conique, infligeant des dégâts. Les ennemis pris dans la moitié extérieure du cône sont ralentis, subissent des dégâts supplémentaires et rendent des PV à Camille.\n\n",
+        "Camille se propulse vers un mur et bondit, projetant en l'air tous les champions ennemis à l'atterrissage.\n\n",
+        "Camille fonce vers le champion ciblé et l'emprisonne dans une zone. Ses attaques de base infligent aussi des dégâts magiques supplémentaires à la cible.\n\n"
       ],
       "gameplay": "Gam_Camille",
       "totalSkin": 5
@@ -274,11 +274,11 @@
     "Cassiopeia": {
       "story": "Cassiopeia est une créature meurtrière qui excelle dans l'art de la manipulation. Elle était la plus jeune et la plus belle des filles de la famille noxienne Du Couteau, mais le jour où elle s'aventura dans les cryptes de Shurima en quête d'un pouvoir antique, le venin d'un gardien la transforma en un prédateur reptilien. Aussi rusée qu'agile, Cassiopeia se faufile désormais dans les ombres de la nuit, pétrifiant ses ennemis d'un simple regard.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Cassiopeia gagne de la vitesse de déplacement par niveau, mais elle ne peut pas acheter de bottes.\n\n",
+        "Cassiopeia projette du poison dans une zone après un court délai, augmentant sa vitesse de déplacement si elle touche un champion ennemi.\n\n",
+        "Cassiopeia génère plusieurs nuages de poison, ralentissant, rendant inertes et blessant légèrement les ennemis qui les traversent. Les ennemis inertes ne peuvent pas utiliser de compétence de déplacement.\n\n",
+        "Cassiopeia lance une attaque qui inflige plus de dégâts aux cibles empoisonnées et qui lui rend des PV équivalents à un pourcentage des dégâts infligés. Si cette attaque tue sa cible, Cassiopeia regagne du mana.\n\n",
+        "Les yeux de Cassiopeia déchaînent un tourbillon d'énergie magique qui étourdit les ennemis qui lui font face et ralentit ceux qui lui tournent le dos.\n\n"
       ],
       "gameplay": "Gam_Cassiopeia",
       "totalSkin": 8
@@ -289,11 +289,11 @@
     "Cho'Gath": {
       "story": "Lorsque Cho'Gath débarqua sous la lumière éclatante du soleil de Runeterra, il fut immédiatement pris d'une faim insatiable. Incarnation parfaite de la volonté du Néant de dévorer toute forme de vie, le corps complexe de Cho'Gath convertit rapidement la matière qu'il ingurgite pour accroître sa masse musculaire et rendre sa carapace aussi dure que du diamant. Et quand grandir n'est pas sa priorité immédiate, ce monstre du Néant peut recracher de la matière sous forme de piques effilées afin d'embrocher sa proie... et de la garder pour un prochain festin.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lorsque Cho'Gath élimine une unité, il regagne des PV et du mana. Le nombre de PV et points de mana restaurés augmente avec le niveau de Cho'Gath.\n\n",
+        "Fracasse le sol de la zone ciblée et envoie les ennemis dans les airs, leur infligeant des dégâts et les ralentissant.\n\n",
+        "Cho'Gath pousse un cri terrible dans une zone conique, infligeant des dégâts magiques et réduisant les ennemis au silence pendant quelques secondes.\n\n",
+        "Les attaques de Cho'Gath lancent des piques mortelles qui blessent et ralentissent tous les ennemis devant lui.\n\n",
+        "Dévore une unité ennemie, infligeant d'importants dégâts bruts. Si la cible est tuée, Cho'Gath grandit et voit ses PV max augmenter.\n\n"
       ],
       "gameplay": "Gam_Cho'Gath",
       "totalSkin": 9
