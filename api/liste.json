@@ -667,7 +667,7 @@
   {
     "name": "Kindred",
     "Kindred": {
-      "story": "Story_Alistar",
+      "story": "Kindred représente les essences jumelles de la mort, distinctes mais indissociables. La flèche d'Agneau offre une fin rapide à ceux qui acceptent leur destin. Loup pourchasse ceux qui fuient leur dernier soupir et leur arrache brutalement la vie à coups de crocs. Bien que les interprétations de la nature de Kindred varient à travers tout Runeterra, chaque mortel doit choisir le vrai visage de sa mort.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -678,7 +678,7 @@
   {
     "name": "Kled",
     "Kled": {
-      "story": "Story_Alistar",
+      "story": "Guerrier aussi intrépide que grincheux, Kled est la plus pure incarnation de la fureur de Noxus. C'est un symbole que les soldats de l'empire adorent, dont les officiers se méfient et que la noblesse déteste. Beaucoup affirment que Kled a participé à toutes les campagnes des légions, qu'il a obtenu toutes les distinctions militaires et qu'il n'a jamais reculé devant un combat. Si la véracité des détails est souvent douteuse, une partie de sa légende reste indéniable : quand il charge sur le dos de Skaarl, sa monture un peu froussarde, Kled se bat pour protéger ce qui lui appartient... et s'emparer de tout le reste !\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -689,7 +689,7 @@
   {
     "name": "Kog'Maw",
     "Kog'Maw": {
-      "story": "Story_Alistar",
+      "story": "Émanant d'une brèche ouverte vers le Néant, c'est dans les ruines hantées d'Icathia que Kog'Maw, la putride créature à la gueule béante, et son insatiable curiosité firent leur apparition. Cette étrange bête du Néant doit mâchouiller tout ce qui se trouve à portée pour en comprendre la nature. Bien qu'il ne soit pas fondamentalement mauvais, Kog'Maw est dangereux par sa candeur, d'autant qu'elle précède généralement une frénésie insatiable, mue par sa curiosité sans fond.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -700,7 +700,7 @@
   {
     "name": "LeBlanc",
     "LeBlanc": {
-      "story": "Story_Alistar",
+      "story": "Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout le monde, et même à plusieurs endroits en même temps. Les objectifs que poursuit LeBlanc, de même que sa véritable identité, sont à l'image de ses complots : totalement insaisissables.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -711,7 +711,7 @@
   {
     "name": "Lee Sin",
     "Lee Sin": {
-      "story": "Story_Alistar",
+      "story": "Mystérieuse, même aux yeux des autres membres de la Rose noire, LeBlanc n'est que l'un des nombreux noms de la femme pâle qui manipule le destin de Noxus depuis ses premiers jours. Utilisant sa magie pour se cloner, elle peut être partout, devant tout le monde, et même à plusieurs endroits en même temps. Les objectifs que poursuit LeBlanc, de même que sa véritable identité, sont à l'image de ses complots : totalement insaisissables.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -722,7 +722,7 @@
   {
     "name": "Leona",
     "Leona": {
-      "story": "Story_Alistar",
+      "story": "Imprégnée de l'énergie du soleil, Leona est une guerrière sainte des Solaris qui défend le Mont Targon ; elle combat avec sa Lame du zénith et son Bouclier de l'aube. Sa peau brûle d'éclats ardents et ses yeux crépitent au rythme de la Manifestation céleste qui l'habite. Équipée d'une armure d'or et affligée par le terrible fardeau de connaissances antiques, Leona apporte à certains l'illumination, à d'autres la mort.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -733,7 +733,7 @@
   {
     "name": "Lillia",
     "Lillia": {
-      "story": "Story_Alistar",
+      "story": "Profondément timide, Lillia, le faon féérique, parcourt nerveusement les forêts d'Ionia. Échappant toujours au regard des mortels dont la nature a longtemps captivé et intimidé la jeune créature, Lillia espère découvrir la raison pour laquelle les rêves des mortels n'atteignent plus l'Arbre des rêves. Elle sillonne désormais Ionia, sa branche magique en main, afin de retrouver les rêves inassouvis des hommes. Ce n'est qu'alors que Lillia pourra s'épanouir et aider les autres à démêler leurs peurs et trouver l'étincelle qui se cache au fond d'eux. Hii !\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -744,7 +744,7 @@
   {
     "name": "Lissandra",
     "Lissandra": {
-      "story": "Story_Alistar",
+      "story": "La magie de Lissandra est capable de manipuler la pure puissance de la glace en quelque chose d'à la fois obscur et terrible. Avec la force de sa glace noire, elle fait bien plus que glacer... elle empale et écrase ceux qui osent s'opposer à elle. Les habitants du Nord, terrifiés, la connaissent sous le nom de « Sorcière de glace ». La vérité est bien plus sombre : Lissandra complote pour corrompre la Nature et ramener le monde à l'âge de glace.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -755,7 +755,7 @@
   {
     "name": "Lucian",
     "Lucian": {
-      "story": "Story_Alistar",
+      "story": "Jadis une Sentinelle de la lumière, Lucian est aujourd'hui un chasseur de morts-vivants. Il poursuit ses cibles sans répit et les éradique avec ses pistolets jumeaux. Après que Thresh a tué Senna, sa femme, Lucian s'est lancé sur la voie de la vengeance. Mais, alors même que Senna est revenue à la vie, la rage de Lucian reste inextinguible. Impitoyable et déterminé, il est prêt à tout pour protéger les vivants des horreurs indicibles de la Brume noire.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -766,7 +766,7 @@
   {
     "name": "Lulu",
     "Lulu": {
-      "story": "Story_Alistar",
+      "story": "Jadis une Sentinelle de la lumière, Lucian est aujourd'hui un chasseur de morts-vivants. Il poursuit ses cibles sans répit et les éradique avec ses pistolets jumeaux. Après que Thresh a tué Senna, sa femme, Lucian s'est lancé sur la voie de la vengeance. Mais, alors même que Senna est revenue à la vie, la rage de Lucian reste inextinguible. Impitoyable et déterminé, il est prêt à tout pour protéger les vivants des horreurs indicibles de la Brume noire.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
