@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df7cbad-a074-45ca-aaa8-8160b3ae8b6d" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions">
-      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
-    </list>
+    <list default="true" id="7df7cbad-a074-45ca-aaa8-8160b3ae8b6d" name="Changes" comment="ajout fichier js et json, changement de la page html liste des champions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
