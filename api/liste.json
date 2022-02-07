@@ -304,11 +304,11 @@
     "Corki": {
       "story": "Il y a deux choses que Corki, le pilote yordle, aime plus que tout au monde : les sensations de vol et sa fantastique moustache... mais pas nécessairement dans cet ordre. Après avoir quitté Bandle, il s'installa à Piltover, où il tomba amoureux des merveilleuses machines qu'il y trouva. Il consacra tout son temps au développement d'engins volants, tout en menant une unité de défense aérienne composée de pilotes aguerris : les Serpents volants. Serein même sous le feu ennemi, Corki patrouille dans l'espace aérien de sa patrie d'adoption, et il ne rencontre jamais le moindre problème qu'un bon gros missile ne puisse résoudre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Un pourcentage des dégâts des attaques de base de Corki est converti en dégâts magiques. À certains moments, Corki peut récupérer le Paquet dans sa base, ce qui lui octroie un bonus en vitesse de déplacement et une version améliorée de Valkyrie.\n\n",
+        "Corki tire une bombe éclairante à l'endroit visé, infligeant des dégâts magiques aux ennemis dans la zone. Cette attaque révèle pendant un temps les unités dans la zone.\n\n",
+        "Corki franchit une courte distance, lâchant des bombes et créant une traînée de feu qui inflige des dégâts aux ennemis.\n\n",
+        "La mitrailleuse de Corki tire rapidement dans une zone conique face à lui, infligeant des dégâts et réduisant l'armure et la résistance magique de l'ennemi.\n\n",
+        "Corki tire un projectile dans une direction. Il explose à l'impact et inflige des dégâts aux ennemis dans la zone. Corki stocke des projectiles sur la durée, jusqu'à un maximum donné. Un projectile sur 3 est une grosse Bertha qui inflige plus de dégâts.\n\n"
       ],
       "gameplay": "Gam_Corki",
       "totalSkin": 11
@@ -319,11 +319,11 @@
     "Darius": {
       "story": "Il n'est pas de plus grand symbole de la puissance de Noxus que Darius, le commandant le plus craint et le plus endurci de la nation. D'origine modeste, celui qui s'est élevé jusqu'à devenir la Main de Noxus pourfend aujourd'hui les ennemis de l'empire, dont certains sont eux-mêmes des Noxiens. Il ne doute jamais de la justesse de sa cause et ne montre pas la moindre hésitation lorsque sa hache est levée. Ceux qui s'opposent au chef de la Légion Trifarian ne doivent s'attendre à aucune pitié.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de Darius et ses compétences infligeant des dégâts font saigner les ennemis, ce qui leur inflige des dégâts physiques en 5 sec (cumulable 5 fois). Darius enrage et gagne un énorme bonus en dégâts d'attaque quand sa cible atteint le nombre max d'effets cumulés.\n\n",
+        "Darius tend tous ses muscles et donne un coup circulaire avec sa hache. Les ennemis touchés par la lame subissent plus de dégâts que ceux touchés par la hampe. Darius récupère des PV en fonction du nombre de champions ennemis et de grands monstres touchés par la lame.\n\n",
+        "La prochaine attaque de Darius tranche une artère vitale de l'ennemi. Le saignement réduit la vitesse de déplacement de la cible.\n\n",
+        "Darius aiguise sa hache, ce qui permet à ses dégâts physiques d'ignorer passivement un pourcentage de l'armure de la cible. À l'activation, Darius attire ses ennemis avec sa hache.\n\n",
+        "Darius saute sur un champion ennemi et donne un coup fatal, infligeant des dégâts bruts. Plus vous cumulez de Plaies béantes sur la cible, plus les dégâts augmentent. Si Guillotine noxienne tue la cible, son délai de récupération est annulé pendant un court moment.\n\n"
       ],
       "gameplay": "Gam_Darius",
       "totalSkin": 11
@@ -334,11 +334,11 @@
     "Diana": {
       "story": "Armée de son croissant de lune, Diana combat dans les rangs des Lunaris, une foi qui a presque disparu des terres qui entourent le Mont Targon. Portant une armure étincelante évoquant les reflets de la nuit sur un paysage de neige, elle incarne la puissance de la lune. L'essence d'une Manifestation venue d'au-delà des plus hauts sommets de Targon imprègne Diana : plus tout à fait humaine, elle lutte pour comprendre sa puissance et son rôle en ce monde.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Tous les trois coups, frappe les ennemis proches et leur inflige des dégâts magiques supplémentaires. Après avoir lancé une compétence, Diana augmente sa vitesse d'attaque pour ses 3 prochaines attaques.\n\n",
+        "Libère une vague incurvée d'énergie lunaire, infligeant des dégâts magiques. Inflige Clair de lune aux ennemis touchés, les révélant pendant 3 sec s'ils ne sont pas furtifs.\n\n",
+        "Diana crée trois sphères qui explosent au contact des ennemis et infligent des dégâts dans une zone. Elle obtient aussi un bouclier temporaire qui absorbe les dégâts. Si les trois sphères explosent, le bouclier est renforcé.\n\n",
+        "Devient l'incarnation de la lune vengeresse et se rue sur un ennemi, infligeant des dégâts magiques. Rush lunaire n'a pas de délai de récupération s'il permet de se ruer sur un ennemi affecté par Clair de lune. Tous les autres ennemis perdent l'effet Clair de lune, même s'ils n'ont pas été la cible de Rush lunaire.\n\n",
+        "Diana révèle et attire tous les ennemis proches, puis les ralentit. Si Diana attire au moins un champion ennemi, la lumière de la lune s'abat sur elle après un court délai, infligeant des dégâts magiques dans une zone autour d'elle. Les dégâts sont augmentés à chaque cible secondaire attirée.\n\n"
       ],
       "gameplay": "Gam_Diana",
       "totalSkin": 11
@@ -349,11 +349,11 @@
     "Dr.Mundo": {
       "story": "Totalement fou, complètement porté sur l'homicide, horriblement violet, Dr. Mundo est la principale raison pour laquelle les citoyens de Zaun restent calfeutrés chez eux les nuits les plus sombres. Désormais médecin autoproclamé, il fut autrefois un patient de l'asile tristement célèbre de Zaun. Après avoir « soigné » tout le personnel, Dr. Mundo a commencé à exercer dans les mêmes salles où il fut traité et à reproduire les méthodes immorales dont il fut lui-même si souvent victime. Profitant d'une armoire remplie de médicaments et d'aucune connaissance en médecine, il se rend un peu plus monstrueux à chaque injection et terrorise les malheureux « patients » qui passent près de son cabinet.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Dr. Mundo résiste au premier effet immobilisant qui l'affecte. En revanche, il perd des PV et laisse tomber une bonbonne chimique. Dr. Mundo peut la ramasser en marchant dessus, ce qui lui rend des PV et réduit le délai de récupération de cette compétence. Dr. Mundo dispose aussi d'une régénération de PV considérablement accrue.\n\n",
+        "Dr. Mundo lance une scie à os souillée, ralentissant le premier ennemi touché et lui infligeant des dégâts selon ses PV actuels.\n\n",
+        "Dr. Mundo s'électrocute, infligeant des dégâts continus aux ennemis proches et stockant une partie des dégâts subis. À la fin de la durée ou à la réactivation, Dr. Mundo inflige une vague de dégâts aux ennemis proches. Si la vague touche un ennemi, Dr. Mundo récupère des PV équivalents à un pourcentage des dégâts stockés.\n\n",
+        "Passivement, Dr. Mundo gagne des dégâts d'attaque bonus selon ses PV manquants. A l'activation, Dr. Mundo donne un violent coup avec sa sacoche « médicale », infligeant des dégâts supplémentaires selon ses PV manquants. Si la cible meurt sur le coup, elle est repoussée et elle inflige des dégâts aux ennemis qu'elle traverse.\n\n",
+        "Dr. Mundo s'injecte des produits chimiques et récupère instantanément un pourcentage de ses PV manquants. Il gagne ensuite de la vitesse de déplacement et des dégâts d'attaque bonus, et il régénère une partie de ses PV max sur une longue durée.\n\n"
       ],
       "gameplay": "Gam_Dr.Mundo",
       "totalSkin": 11
@@ -364,11 +364,11 @@
     "Draven": {
       "story": "À Noxus, de puissants guerriers, les « arénaires », s'affrontent dans des jeux mortels pour divertir le public. Le sang y coule à foison et leurs forces y sont éprouvées, mais aucun d'entre eux n'a jamais été aussi célèbre que Draven. Cet ancien soldat découvrit que le public appréciait particulièrement son sens du spectacle, sans parler de son habileté avec des haches tournoyantes. Épris de sa propre perfection, Draven terrasse tous ses adversaires pour s'assurer que son nom continue de résonner dans les arènes de l'empire.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Draven obtient l'Adoration de ses fans quand il rattrape une Hache tournoyante, quand il tue un sbire ou un monstre et quand il détruit une tourelle. Quand il tue des champions ennemis, Draven gagne des PO supplémentaires en fonction de l'Adoration cumulée.\n\n",
+        "La prochaine attaque de Draven infligera des dégâts physiques supplémentaires. Cette hache ricochera sur la cible et sera propulsée dans les airs. Si Draven l'attrape, il prépare automatiquement une autre Hache tournoyante. Draven peut avoir deux Haches tournoyantes simultanément.\n\n",
+        "Draven gagne des bonus en vitesse de déplacement et en vitesse d'attaque. Le bonus en vitesse de déplacement diminue rapidement sur la durée. Attraper une Hache tournoyante met fin au délai de récupération de Pulsion sanguinaire.\n\n",
+        "Draven lance ses haches, infligeant des dégâts physiques aux cibles touchées et les repoussant sur le côté. Les cibles touchées sont ralenties.\n\n",
+        "Draven lance deux énormes haches pour infliger des dégâts physiques aux unités touchées. Volée mortelle fait demi-tour et revient vers Draven après avoir frappé un champion ennemi. Draven peut aussi réactiver cette compétence quand les haches sont en vol pour les faire revenir plus tôt. La compétence inflige moins de dégâts par unité touchée et est réinitialisée quand les haches font demi-tour. De plus, elle exécute les ennemis dont les PV sont inférieurs au nombre d'effets Adoration cumulés par Draven.\n\n"
       ],
       "gameplay": "Gam_Draven",
       "totalSkin": 11
@@ -379,11 +379,11 @@
     "Ekko": {
       "story": "Jeune prodige des rues mal famées de Zaun, Ekko manipule le temps pour renverser toute situation dangereuse à son avantage. En utilisant sa propre invention, la clepsydre-zéro, il explore les différents possibles de la réalité pour surmonter les difficultés. Bien qu'il aime sa liberté, lorsque ses amis sont menacés, il est prêt à tout pour les défendre. Pour quiconque ne le connaît pas, Ekko semble toujours accomplir l'impossible, et du premier coup.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les trois attaques ou compétences infligeant des dégâts sur une même cible, Ekko inflige des dégâts magiques supplémentaires. Si la cible est un champion, il gagne en plus un bref bonus en vitesse de déplacement.\n\n",
+        "Ekko lance une grenade temporelle qui crée un champ de distorsion quand elle touche un champion ennemi, ralentissant toutes les unités prises à l'intérieur et leur infligeant des dégâts. Ensuite, la grenade se contracte et revient vers Ekko, infligeant des dégâts sur sa route.\n\n",
+        "Les attaques de base d'Ekko infligent des dégâts magiques supplémentaires aux champions dont les PV sont bas. Ekko peut lancer Convergence parallèle pour fracturer la ligne temporelle, créant après quelques secondes une anomalie qui ralentit les ennemis pris à l'intérieur. Si Ekko entre dans l'anomalie, il obtient un bouclier et étourdit les ennemis en suspendant dans le temps leur existence.\n\n",
+        "Ekko esquive tout en chargeant sa clepsydre-zéro. Sa prochaine attaque infligera des dégâts supplémentaires et le téléportera près de sa cible en distordant la réalité.\n\n",
+        "Ekko fracture sa ligne du temps, ce qui le rend impossible à cibler et lui permet de retourner à un moment qui lui est plus favorable. Il retourne là où il était quelques secondes plus tôt et récupère un pourcentage des PV qu'il a perdus pendant ces quelques secondes. Les ennemis proches de sa zone d'arrivée subissent d'importants dégâts.\n\n"
       ],
       "gameplay": "Gam_Ekko",
       "totalSkin": 9
@@ -394,11 +394,11 @@
     "Elise": {
       "story": "Elise est un prédateur mortel qui vit dans un palais reclus et obscur, au plus profond de la plus vieille ville de Noxus. C'était autrefois une simple femme, maîtresse d'une Maison toute-puissante, mais la morsure d'un maléfique demi-dieu la transforma en un être aussi magnifique qu'inhumain : une créature arachnéenne qui tisse sa toile pour piéger ses proies. Pour maintenir sa jeunesse éternelle, Elise se repaît des innocents et peu sont ceux qui peuvent résister à sa séduction.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Forme humaine : quand les compétences d'Elise touchent un ennemi, elle génère une araignée en sommeil. Forme arachnéenne : les attaques de base infligent des dégâts magiques supplémentaires et rendent des PV à Elise.\n\n",
+        "Forme humaine : inflige des dégâts en fonction des PV actuels de la cible. Forme arachnéenne : fonce sur un ennemi et lui inflige des dégâts en fonction de ses PV manquants.\n\n",
+        "Forme humaine : libère une araignée gorgée de venin qui explose en approchant d'une cible. Forme arachnéenne : Elise et ses araignées voient leur vitesse d'attaque augmentée.\n\n",
+        "Forme humaine : étourdit la première unité ennemie touchée et la révèle si elle n'est pas furtive. Forme arachnéenne : Elise et ses araignées se suspendent dans les airs puis se laissent tomber sur l'ennemi ciblé. Après qu'Elise est retombée sur un ennemi, les dégâts supplémentaires et les soins de Reine araignée sont augmentés.\n\n",
+        "Se transforme en une terrifiante araignée, ce qui réduit sa portée d'attaque mais augmente sa vitesse de déplacement, la dote de nouvelles compétences et lui offre une horde d'araignées qui attaque ses ennemis.\n\n"
       ],
       "gameplay": "Gam_Elise",
       "totalSkin": 8
@@ -409,11 +409,11 @@
     "Evelynn": {
       "story": "Dans les sombres failles de Runeterra, le démon nommé Evelynn cherche sa prochaine victime. Elle attire sa proie en se faisant passer pour une femme voluptueuse, et dès que sa cible succombe à ses charmes, Evelynn révèle sa véritable nature. Elle inflige alors à sa victime des tourments indicibles et se repaît de sa douleur. Pour un démon, ce ne sont que des plaisirs innocents. Aux yeux du reste de Runeterra, ce sont des contes terrifiants, qui rappellent les dangers du désir et de la luxure.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "En dehors des combats, Evelynn se plonge dans une Ombre démoniaque. Ombre démoniaque soigne Evelynn quand ses PV sont bas et lui octroie un camouflage à partir du niveau 6.\n\n",
+        "Evelynn frappe avec son cirre et inflige des dégâts à la première unité touchée. Elle peut ensuite tirer une ligne de piques vers les ennemis proches, jusqu'à 3 fois.\n\n",
+        "Evelynn maudit une cible, ce qui permet à sa prochaine attaque ou à son prochain sort de charmer sa cible et de réduire sa résistance magique.\n\n",
+        "Evelynn donne un coup de fouet à sa cible avec son cirre et lui inflige des dégâts. Elle augmente ensuite sa vitesse de déplacement pendant un court instant.\n\n",
+        "Evelynn devient brièvement impossible à cibler et ravage la zone devant elle avant de se téléporter loin en arrière.\n\n"
       ],
       "gameplay": "Gam_Evelynn",
       "totalSkin": 10
@@ -424,11 +424,11 @@
     "Ezreal": {
       "story": "Aventurier audacieux, doué sans le savoir pour les arts magiques, Ezreal poursuit ses expéditions dans les catacombes oubliées, se bat avec d'antiques malédictions et contourne avec aisance les obstacles les plus impossibles. Son courage et son panache sont sans borne, et il préfère improviser son salut dans les situations critiques, avec pour armes principales sa vivacité d'esprit et son gantelet mystique shurimien, qu'il utilise pour déchaîner de puissants projectiles arcaniques. Une chose est sûre : quand Ezreal est dans les parages, les problèmes ne sont pas loin. Et ils sont partout. Absolument partout.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Ezreal augmente sa vitesse d'attaque chaque fois qu'il touche un ennemi avec une compétence (cumulable jusqu'à 5 fois).\n\n",
+        "Ezreal tire un trait d'énergie blessant qui, s'il touche un ennemi, réduit légèrement tous les délais de récupération d'Ezreal.\n\n",
+        "Ezreal tire un orbe qui se colle au premier champion ou objectif touché. Si Ezreal frappe un ennemi affecté par un orbe, ce dernier explose et inflige des dégâts.\n\n",
+        "Ezreal se téléporte dans une zone ciblée et tire un projectile autoguidé qui frappe l'ennemi le plus proche. Le tir vise en priorité les ennemis affectés par Flux essentiel.\n\n",
+        "Ezreal se concentre avant de tirer une puissante vague d'énergie qui inflige d'importants dégâts à chaque unité traversée (les dégâts sont réduits pour les sbires et les monstres non épiques).\n\n"
       ],
       "gameplay": "Gam_Ezreal",
       "totalSkin": 17
@@ -439,11 +439,11 @@
     "Fiddlesticks": {
       "story": "Quelque chose s'est éveillé à Runeterra. Quelque chose d'ancien. Quelque chose de terrible. L'horreur intemporelle connue sous le nom de Fiddlesticks arpente les frontières des civilisations mortelles, attirée dans les régions en proie à la paranoïa, où elle se repaît de ses victimes terrorisées. Armée d'une faux ébréchée, la créature décharnée moissonne la peur elle-même et fait voler en éclats l'esprit de ceux qui ont eu la malchance de lui survivre. Prenez garde aux cris des corbeaux et aux chuchotements de la silhouette qui vous <i>paraît</i> humaine... car Fiddlesticks est de retour.\n\n ",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "La relique de Fiddlesticks est remplacée par des Effigies d'épouvantail.\n\n",
+        "Si Fiddlesticks blesse un ennemi avec un sort en n'étant pas visible ou s'il cible un ennemi avec la propriété active de Terreur, il terrifie cet ennemi et le fait fuir aussi longtemps que dure l'effet.\n\n",
+        "Fiddlesticks draine l'essence vitale des ennemis proches, infligeant des dégâts d'exécution supplémentaires à la fin de l'effet.\n\n",
+        "Fiddlesticks donne un coup de faux dans une zone, ralentissant tous les ennemis touchés et réduisant au silence ceux touchés au centre de la zone.\n\n",
+        "Une nuée de corbeaux tourbillonne sauvagement autour de Fiddlesticks, infligeant des dégâts par seconde à toutes les unités ennemies dans la zone.\n\n"
       ],
       "gameplay": "Gam_Fiddlestick",
       "totalSkin": 10
