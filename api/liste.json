@@ -1217,7 +1217,7 @@
   {
     "name": "Singed",
     "Singed": {
-      "story": "Story_Alistar",
+      "story": "Singed est un chimiste zaunien d'une intelligence exceptionnelle, prêt à tout pour repousser les limites de la connaissance, y compris y perdre sa santé mentale. Sa folie répond-elle à une logique ? Ses décoctions ont généralement l'effet escompté, mais pour beaucoup, Singed a perdu tout ce qui faisait de lui un être humain, ne laissant dans son sillage qu'une trace nocive et terrifiante.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1228,7 +1228,7 @@
   {
     "name": "Sion",
     "Sion": {
-      "story": "Story_Alistar",
+      "story": "Guerrier sanguinaire d'une époque révolue, Sion était célébré comme un héros à Noxus, pour avoir étouffé un roi de Demacia de ses mains nues. Il était l'objet d'une telle dévotion qu'on lui refusa le repos éternel, en le ramenant à la vie pour continuer à servir son empire. Il massacre sans distinction alliés comme ennemis sur son chemin, prouvant à cette occasion qu'il n'a plus rien d'humain. Son armure rivetée à même la chair, Sion charge sans relâche au combat, luttant entre deux coups de sa puissante hache pour tenter de se remémorer qui il était.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1239,7 +1239,7 @@
   {
     "name": "Sivir",
     "Sivir": {
-      "story": "Story_Alistar",
+      "story": "Sivir est une célèbre chasseuse de trésors et capitaine de mercenaires œuvrant dans le désert de Shurima. Armée de sa légendaire lame en croix, elle a triomphé d'innombrables batailles pour les clients prêts à honorer ses tarifs exorbitants. Connue pour sa détermination et son ambition démesurée, elle tire sa fierté des nombreux trésors qu'elle a déterrés dans les tombes les plus périlleuses de Shurima… et revendus au prix fort. Mais le jour où des forces ancestrales se sont éveillées au plus profond de Shurima, Sivir s'est retrouvée tiraillée entre deux destins conflictuels.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1250,7 +1250,7 @@
   {
     "name": "Skarner",
     "Skarner": {
-      "story": "Story_Alistar",
+      "story": "Skarner est un immense scorpion cristallin venu d'une vallée cachée de Shurima. Issus de l'ancienne race des Brackerns, Skarner et les siens sont connus pour leur grande sagesse et leurs liens profonds avec la terre : leur âme a fusionné avec de puissants cristaux de vie qui contiennent les pensées et les souvenirs de leurs ancêtres. À une époque si reculée que nul ne s'en souvient, les Brackerns sont entrés en hibernation pour échapper à la destruction magique, mais des événements menaçants viennent de réveiller Skarner. Seul Brackern éveillé, il lutte pour protéger les siens contre ceux qui cherchent à les blesser.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1261,7 +1261,7 @@
   {
     "name": "Sona",
     "Sona": {
-      "story": "Story_Alistar",
+      "story": "Sona est la plus grande virtuose de l'etwahl de Demacia, ne s'exprimant que par ses accords vibrants et gracieux. Ses manières distinguées lui valent d'être appréciée par l'aristocratie, bien que beaucoup soupçonnent ses mélodies envoûtantes de s'apparenter à de la magie, tabou à Demacia. Inaudible pour des étrangers, mais comprise par ses compagnons les plus proches, Sona se sert de ses harmonies pour soigner ses alliés blessés, mais également pour frapper ses ennemis par surprise.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1272,7 +1272,7 @@
   {
     "name": "Soraka",
     "Soraka": {
-      "story": "Story_Alistar",
+      "story": "Voyageuse originaire de dimensions célestes d'au-delà du Mont Targon, Soraka a abandonné son immortalité pour protéger les mortels de leurs instincts violents. Elle cherche à pousser tous ceux qu'elle rencontre à embrasser les vertus de la compassion et de la pitié, allant jusqu'à soigner même ceux qui lui veulent du mal. Et, malgré toutes les souffrances dont Soraka a été témoin dans ce monde, elle croit encore que le peuple de Runeterra n'a pas atteint son plein potentiel.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1283,7 +1283,7 @@
   {
     "name": "Swain",
     "Swain": {
-      "story": "Story_Alistar",
+      "story": "Jericho Swain est le chef visionnaire de Noxus, une nation expansionniste qui ne respecte que la force. Bien que déchu et blessé pendant les guerres ioniennes, il a pris le contrôle de l'empire avec une féroce détermination… Et une nouvelle main, démoniaque, a remplacé celle qu'il a perdue au combat. Désormais, Swain dirige ses armées sur la ligne de front, face à des ténèbres qu'il est le seul à percevoir à l'horizon, dans le vol des corbeaux attirés par les cadavres qui l'entourent. Dans un tourbillon de sacrifices et de regrets, le plus grand secret entre tous, c'est que le véritable ennemi est à l'intérieur.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1294,7 +1294,7 @@
   {
     "name": "Sylas",
     "Sylas": {
-      "story": "Story_Alistar",
+      "story": "Élevé dans l'un des quartiers les plus pauvres de Demacia, Sylas de Liebourg est devenu le symbole du côté obscur de la Grande cité. Enfant, sa capacité à déceler la sorcellerie cachée attira l'attention des tristement célèbres traqueurs de mages, qui finirent par l'emprisonner pour avoir retourné ses pouvoirs contre eux. Désormais libéré de ses chaînes, Sylas est un révolutionnaire convaincu, employant la magie de ceux qui l'entourent pour ravager le royaume qu'il a autrefois servi… Et son groupe de mages exilés semble grandir chaque jour un peu plus.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1305,7 +1305,7 @@
   {
     "name": "Syndra",
     "Syndra": {
-      "story": "Story_Alistar",
+      "story": "Syndra est une effrayante magicienne originaire d'Ionia, aux pouvoirs impressionnants. Enfant, elle perturba les anciens de son village avec sa magie sauvage et incontrôlée. Elle fut confiée à un maître dans l'espoir qu'elle apprendrait à se contrôler, mais elle finit par découvrir que son prétendu mentor limitait ses capacités. Créant des sphères d'énergie noire avec ses sentiments de douleur et de trahison, Syndra jura de détruire quiconque tenterait de la contrôler.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
@@ -1316,7 +1316,7 @@
   {
     "name": "Tahm Kench",
     "Tahm Kench": {
-      "story": "Story_Alistar",
+      "story": "Au fil du temps, on lui a donné de nombreux noms. Le démon Tahm Kench voyage dans les cours d'eau de Runeterra, nourrissant son insatiable appétit de la misère des autres. Bien qu'il puisse sembler particulièrement charmant et fier, il rôde dans le monde tel un vagabond à la recherche d'une proie sans méfiance. Sa langue extensible peut étourdir un guerrier en armure à plusieurs mètres de distance, avant de l'attirer dans son estomac gargouillant vers un abysse dont il n'a que peu de chances de revenir.\n\n",
       "skills": [
         "Comp_Alistar"
       ],
