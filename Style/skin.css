@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
-@import "../../Style/headerAndFooter.css";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;700&display=swap');
+@import "headerAndFooter.css";
 
 * {
     margin: 0
@@ -33,38 +34,56 @@ body {
     height: 10px;
 }
 
-.noselect {
+.button {
     display: flex;
-    margin: -1% auto 2% auto;
-    justify-content: space-evenly;
-    align-items: center;
-    text-transform: uppercase;
-    color: #585858;
-    font-family: 'Roboto', sans-serif;
+    margin: 5vh;
+    justify-content: space-around;
+    font-size: 2em;
 }
 
-button {
-    width: 150px;
-    height: 50px;
-    cursor: pointer;
-    font-size: 20px;
-    font-weight: bold;
-    color: black;
-    background: white;
-    border: 2px solid black;
-    box-shadow: 5px 5px 0 black,
-    -5px -5px 0 black,
-    -5px 5px 0 black,
-    5px -5px 0 black;
-    transition: 500ms ease-in-out;
+.btn {
+    text-decoration: none;
+    color: #FFF;
+    transition: all 0.5s;
+    position: relative;
+    font-size: 1.1em;
+    font-family: 'Bebas Neue', cursive;
 }
 
-button:hover {
-    box-shadow: 20px 5px 0 black, -20px -5px 0 black;
+.btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s;
 }
 
-button:focus {
-    outline: none;
+.btn:hover::before {
+    opacity: 0.5;
+    transform: scale(1.5, 1.5);
+}
+
+.btn::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border: 1px solid rgb(173, 127, 47);
+    transform: scale(1.5, 1.5);
+}
+
+.btn:hover::after {
+    opacity: 1;
+    transform: scale(1.5, 1.5);
 }
 
 #myCarousel {
