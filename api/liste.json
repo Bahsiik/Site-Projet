@@ -1505,11 +1505,11 @@
     "Rumble": {
       "story": "Rumble est un jeune inventeur soupe au lait. Ne disposant que de ses deux mains et d'une pile de ferraille, le yordle au tempérament de feu se fabriqua une colossale armure mécanique, dotée d'un arsenal de harpons électrifiés et de roquettes incendiaires. Si certains pouffent devant ses créations sorties tout droit d'une décharge, Rumble n'en a que faire : après tout, c'est lui qui est doté d'un lance-flammes.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Chaque sort lancé par Rumble augmente sa Vapeur. Quand Rumble atteint 50% de Vapeur, il entre dans la Zone rouge, ce qui confère des effets bonus à ses compétences de base. Quand il atteint 100% de Vapeur, il entre en Surchauffe, ce qui lui octroie de la vitesse d'attaque bonus et lui permet d'infliger des dégâts supplémentaires avec ses attaques de base, mais l'empêche d'utiliser ses compétences pendant quelques secondes.\n\n",
+        "Rumble enflamme les adversaires devant lui, infligeant des dégâts magiques dans une zone conique pendant 3 sec. Dans la Zone rouge, les dégâts augmentent.\n\n",
+        "Rumble crée un bouclier qui le protège des dégâts et lui donne un bonus de rapidité. Dans la Zone rouge, les PV du bouclier et le bonus de vitesse sont augmentés.\n\n",
+        "Rumble tire un harpon qui électrocute sa cible, lui infligeant des dégâts magiques et réduisant sa vitesse de déplacement et sa résistance magique. Rumble peut porter 2 harpons en même temps. Dans la Zone rouge, les dégâts et le pourcentage de ralentissement sont augmentés.\n\n",
+        "Rumble tire une bordée de roquettes, créant un mur de flammes qui blesse et ralentit les ennemis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1520,11 +1520,11 @@
     "Ryze": {
       "story": "Largement considéré comme l'un des plus puissants sorciers de Runeterra, Ryze est un archimage endurci par les ans qui porte un fardeau incommensurable sur ses épaules. Armé d'une constitution à toute épreuve et d'un vaste arsenal de connaissances mystiques, il consacre sa vie à rassembler les Runes telluriques, les fragments de magie brute qui ont jadis servi à façonner le monde. Ryze doit récupérer ces reliques avant qu'elles ne tombent entre de mauvaises mains, car il sait quel genre d'horreurs elles pourraient déchaîner sur Runeterra.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les sorts de Ryze infligent des dégâts supplémentaires en fonction de son mana supplémentaire, et son mana max est augmenté d'un pourcentage en fonction de sa puissance.\n\n",
+        "Passivement, les autres sorts de base de Ryze réinitialisent le délai de récupération de Court-circuit et chargent une rune. Lorsque Ryze lance Court-circuit avec deux runes chargées, il gagne un bref bonus en vitesse de déplacement. À l'activation, Ryze tire une décharge de pure énergie en ligne droite, infligeant des dégâts au premier ennemi touché. Si la cible est marquée par Flux, Court-circuit inflige des dégâts supplémentaires et rebondit vers les ennemis proches marqués par Flux.\n\n",
+        "Ryze piège une cible dans une prison de runes, lui infligeant des dégâts et ralentissant ses déplacements. Si la cible est marquée par Flux, elle est immobilisée au lieu d'être ralentie.\n\n",
+        "Ryze projette un orbe de pure énergie magique qui blesse une cible et marque les ennemis proches de sa cible. Les sorts de Ryze ont des effets supplémentaires sur les ennemis marqués.\n\n",
+        "Passivement, Court-circuit inflige des dégâts supplémentaires aux cibles marquées par Flux. À l'incantation, Ryze ouvre un portail menant à un endroit proche. Quelques secondes plus tard, tous les alliés près du portail sont transportés à l'endroit ciblé.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1535,11 +1535,11 @@
     "Samira": {
       "story": "Toujours en quête de sensations fortes, Samira regarde la mort dans les yeux avec une confiance inébranlable. Après la destruction qui a frappé son foyer shurimien lorsqu'elle était enfant, Samira a trouvé sa véritable vocation à Noxus, où elle s'est forgé une réputation de tête brûlée extrêmement classe qui accepte les missions les plus dangereuses. Munie de deux pistolets à poudre noire et d'une épée personnalisée, Samira s'épanouit lorsque sa vie est en danger et élimine spectaculairement tous ceux qui se mettent en travers de sa route.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Samira fait des combos en enchaînant des attaques ou compétences différentes de la précédente. En mêlée, les attaques de Samira infligent des dégâts magiques supplémentaires. Les attaques de Samira contre les ennemis affectés par des effets immobilisants la font se ruer à portée d'attaque. Si l'ennemi est projeté dans les airs, elle le maintient brièvement dans les airs.\n\n",
+        "Samira tire une balle ou donne un coup d'épée, infligeant des dégâts. Si cette compétence est lancée pendant Charge sauvage, Samira frappe tous les ennemis sur son chemin à la fin de la ruée.\n\n",
+        "Samira donne un coup d'épée tourbillonnant, ce qui blesse les ennemis et détruit les projectiles ennemis.\n\n",
+        "Samira se rue à travers un ennemi (bâtiments inclus), tailladant les ennemis qu'elle traverse et gagnant de la vitesse d'attaque. Tuer un champion ennemi réinitialise le délai de récupération de cette compétence.\n\n",
+        "Samira tire une pluie de balles sur tous les ennemis qui l'entourent.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 3
@@ -1550,11 +1550,11 @@
     "Sejuani": {
       "story": "Sejuani est l'impitoyable chef de guerre sublimée de la Griffe hivernale, l'une des tribus les plus redoutées de Freljord. La survie de son peuple est une lutte constante et désespérée contre les éléments. Pour résister aux rigueurs de l'hiver, il doit lancer des assauts contre les Noxiens, les Demaciens et les Avarosans. Sejuani mène elle-même la charge des plus dangereux de ces assauts en chevauchant son sanglier drüvask, Bristle, et en agitant son fléau de glace pure pour congeler et réduire en miettes ses ennemis.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "En dehors des combats, Sejuani gagne Armure de glace, qui augmente son armure et sa résistance magique et l'immunise contre les ralentissements. Armure de glace persiste un court instant après que Sejuani a subi des dégâts. Sejuani peut blesser un ennemi étourdi pour le fracasser, infligeant d'énormes dégâts magiques.\n\n",
+        "Sejuani charge droit devant elle, projetant les ennemis dans les airs. La charge s'arrête si elle touche un champion ennemi.\n\n",
+        "Sejuani donne deux coups de masse, infligeant des dégâts, ralentissant les ennemis et appliquant des effets Givre.\n\n",
+        "Sejuani gèle et étourdit un champion ennemi qui porte le nombre max d'effets Givre.\n\n",
+        "Sejuani projette des bolas qui gèlent et étourdissent le premier champion touché, en plus de créer une tempête de glace qui ralentit les autres ennemis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1565,11 +1565,11 @@
     "Senna": {
       "story": "Condamnée dès l'enfance à être hantée par la mystérieuse Brume noire, Senna rejoignit un ordre sacré connu sous le nom des Sentinelles de la lumière. Elle combattit vaillamment, avant de périr sous les coups du cruel spectre Thresh et de voir son âme emprisonnée dans sa lanterne. Refusant de perdre espoir, Senna apprit à utiliser la Brume à l'intérieur de la lanterne et revint à la vie, changée à jamais. Brandissant désormais la puissance des ténèbres comme de la lumière, Senna cherche à mettre fin à la Brume noire en la retournant contre elle-même, chaque tir de son arme permettant de libérer les âmes qui y sont perdues.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lorsque des unités meurent près de Senna, leurs âmes sont parfois prises au piège dans la Brume noire. Senna peut attaquer ces âmes pour les libérer et absorber la Brume qui les retenait. La Brume renforce son canon en pierre-relique en augmentant ses dégâts d'attaque, sa portée d'attaque et ses chances de coup critique. Les attaques du canon en pierre-relique de Senna tirent plus lentement, infligent des dégâts supplémentaires et lui confèrent brièvement une partie de la vitesse de déplacement de sa cible.\n\n",
+        "Le canon en pierre-relique de Senna tire un rayon de lumière et d'ombre à travers sa cible. Ce rayon soigne les alliés et blesse les ennemis.\n\n",
+        "Senna projette une vague de Brume noire. Si elle touche un ennemi, la Brume s'accroche à lui. La cible ainsi que tous les ennemis proches sont immobilisés après un court délai.\n\n",
+        "Senna relâche la Brume accumulée dans son arme pour créer une tempête autour d'elle, ce qui la transforme en spectre. Les alliés qui entrent dans cette zone sont camouflés et prennent l'apparence d'un spectre. Les spectres ne peuvent pas être identifiés, ne peuvent pas être sélectionnés et profitent d'un bonus en vitesse de déplacement.\n\n",
+        "Senna invoque les pierres-reliques de Sentinelles déchues, ouvrant son canon en pierre-relique pour former un éventail sacré d'ombre et de lumière. Elle tire alors un rayon à portée illimitée qui octroie un bouclier aux alliés touchés et inflige des dégâts aux ennemis pris dans son centre.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -1580,11 +1580,11 @@
     "Seraphine": {
       "story": "Née à Piltover de parents zauniens, Séraphine peut entendre les âmes des autres. Le monde chante pour elle et elle chante pour le monde. Alors que ces sons l'accablaient dans sa jeunesse, elle s'en inspire aujourd'hui et transforme le chaos en symphonie. Elle chante pour les cités sœurs, afin de rappeler à leurs citoyens qu'ils ne sont pas seuls, qu'ils sont plus forts ensemble et que, pour elle, leur potentiel est infini.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les trois compétences de base, Séraphine lance deux fois la compétence de base choisie. De plus, lancer des compétences près d'alliés permet à sa prochaine attaque de base d'avoir une plus grande portée et d'infliger des dégâts magiques supplémentaires.\n\n",
+        "Séraphine inflige des dégâts dans une zone.\n\n",
+        "Séraphine octroie un effet de hâte et un bouclier aux alliés proches. Si elle dispose déjà d'un bouclier, elle soigne également les alliés proches.\n\n",
+        "Séraphine inflige des dégâts aux ennemis placés sur une ligne et restreint leurs déplacements.\n\n",
+        "Séraphine inflige des dégâts et charme les ennemis touchés. La portée est étendue à chaque champion allié ou ennemi touché.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -1595,11 +1595,11 @@
     "Sett": {
       "story": "Sett s'est imposé en tant que chef du monde criminel florissant d'Ionia après la guerre contre Noxus. Bien qu'il ait fait ses débuts de manière modeste dans les arènes de combat de Navori, il s'est rapidement fait une réputation pour sa force sauvage et sa capacité à encaisser tous les coups sans broncher. Après s'être battu pour se faire une place parmi les combattants locaux, Sett s'est hissé au sommet à la force de ses poings pour finalement prendre le contrôle des arènes dans lesquelles il se battait autrefois.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lors de ses attaques de base, Sett alterne son direct du gauche et son direct du droit. Le direct du droit est un peu plus puissant et rapide. De plus, Sett déteste perdre, ce qui augmente la régénération de ses PV selon ses PV manquants.\n\n",
+        "Les deux prochaines attaques de Sett infligent des dégâts supplémentaires en fonction des PV max de la cible. De plus, Sett augmente sa vitesse de déplacement quand il se dirige vers des champions ennemis.\n\n",
+        "Passivement, Sett stocke une partie des dégâts qu'il subit sous forme d'agressivité. À l'activation, Sett dépense toute l'agressivité stockée pour gagner un bouclier et donner un coup de poing à effet de zone qui inflige des dégâts bruts au centre et des dégâts physiques sur les côtés.\n\n",
+        "Sett attire les ennemis venant de deux directions opposées pour leur infliger des dégâts et les étourdir. S'il n'y avait des ennemis que dans une direction, ces ennemis sont ralentis au lieu d'être étourdis.\n\n",
+        "Sett saisit un champion ennemi et l'emporte dans les airs avant de l'écraser au sol, infligeant des dégâts et ralentissant tous les ennemis près de son point d'atterrissage.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1610,11 +1610,11 @@
     "Shaco": {
       "story": "Fabriqué il y a longtemps pour servir de jouet à un prince qui se sentait seul, Shaco est une marionnette enchantée qui se repaît désormais de meurtres et de chaos. Corrompu par la magie noire et la perte de sa chère mission, le pantin autrefois gentil ne se réjouit plus que du malheur des âmes qu'il tourmente. Il utilise ses jouets et ses mauvais tours pour répandre la mort et le sang, ce qui le fait follement rire. Tous ceux qui, la nuit venue, entendent un odieux ricanement savent qu'ils sont la prochaine cible du Bouffon des ténèbres.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base et la compétence Poison double de Shaco infligent des dégâts supplémentaires lorsqu'elles frappent dans le dos d'un ennemi.\n\n",
+        "Shaco devient invisible et se téléporte vers la position ciblée. Sa première attaque en étant invisible est renforcée : elle inflige des dégâts supplémentaires et, si Shaco frappe dans le dos d'un ennemi, un coup critique.\n\n",
+        "Shaco pose une boîte cachée. Quand elle est déclenchée, elle effraie puis attaque les ennemis proches.\n\n",
+        "Passivement, Shaco empoisonne les cibles qu'il touche, réduisant leur vitesse de déplacement. Shaco peut lancer son arme pour infliger des dégâts et empoisonner sa cible. Le poignard lancé inflige des dégâts supplémentaires si la cible a moins de 30% de ses PV.\n\n",
+        "Shaco crée un double de lui-même à ses côtés qui peut attaquer les ennemis proches (inflige des dégâts réduits aux tourelles). En mourant, il explose, faisant apparaître trois mini-boîtes surprises et blessant les ennemis à portée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1625,11 +1625,11 @@
     "Shen": {
       "story": "Shen, l'Œil du crépuscule, est le chef d'un groupe secret de guerriers ioniens connu sous le nom de Kinkou. Désireux d'échapper aux méfaits des émotions, des préjugés et de l'ego, il porte un regard désintéressé sur les choses en arpentant le chemin invisible entre le royaume des esprits et le monde physique. Ayant pour mission d'assurer leur équilibre, Shen emploie ses lames d'acier et son énergie arcanique contre ceux qui voudraient le menacer.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir lancé une compétence, Shen gagne un bouclier. Affecter d'autres champions réduit le délai de récupération de cet effet.\n\n",
+        "Shen rappelle sa lame spirituelle pour attaquer avec elle, infligeant des dégâts basés sur les PV max de sa cible. Les attaques sont grandement renforcées si la lame touche un champion ennemi. Tous les ennemis touchés par la lame sont ralentis quand ils s'éloignent de Shen.\n\n",
+        "Les attaques qui ciblent Shen ou ses alliés sont bloquées quand ils sont près de la lame spirituelle.\n\n",
+        "Shen fonce dans une direction en provoquant les ennemis sur son passage.\n\n",
+        "Shen offre un bouclier absorbant les dégâts à un champion allié, puis se téléporte jusqu'à lui.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1640,11 +1640,11 @@
     "Shyvana": {
       "story": "Shyvana est une créature dont le cœur palpite au rythme brûlant d'un éclat de rune magique. Bien qu'elle paraisse souvent humanoïde, elle peut se transformer à volonté en un terrifiant dragon, crachant des flammes sur ses ennemis. Après avoir sauvé la vie du prince héritier Jarvan IV, Shyvana sert au sein de sa garde royale, luttant pour être acceptée par le peuple suspicieux de Demacia.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Shyvana inflige des dégâts supplémentaires aux dragons et augmente son armure et sa résistance magique. Plus Shyvana et ses alliés tuent de dragons, plus elle augmente son armure et sa résistance magique.\n\n",
+        "Shyvana frappe deux fois à sa prochaine attaque. Les attaques de base réduisent le délai de récupération de Morsure double de 0,5 sec. Forme de dragon : Morsure double blesse toutes les unités devant Shyvana.\n\n",
+        "Shyvana s'enveloppe de feu, infligeant des dégâts magiques chaque seconde aux ennemis proches et se déplaçant plus vite pendant 3 sec. Tant que dure Combustion, les attaques de base de Shyvana infligent de nouveau une partie de ces dégâts. Le bonus de vitesse de déplacement diminue progressivement. Les attaques de base prolongent la durée de Combustion. Forme de dragon : la taille de Combustion augmente.\n\n",
+        "Shyvana lance une boule de feu qui blesse tous les ennemis touchés et laisse des cendres sur les cibles, les marquant pendant 5 sec. À l'impact, les attaques de base de Shyvana contre une cible marquée infligent des dégâts équivalents à un pourcentage des PV max de la cible. Forme de dragon : Souffle de flammes explose à l'impact ou à l'endroit ciblé, infligeant des dégâts supplémentaires et brûlant le sol pendant un court instant.\n\n  ",
+        "Shyvana se transforme en dragon et s'envole vers l'endroit ciblé. Les ennemis sur sa route subissent des dégâts et sont repoussés vers la zone cible. Shyvana gagne passivement de la Fureur chaque seconde, plus 2 pts de Fureur par attaque de base.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
