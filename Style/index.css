@@ -42,9 +42,31 @@ body{
     font-size: 2em;
     color: white;
 }
-
+#glossaire div a{
+    margin-right: 2%;
+}
+button{
+    font-size: 1.5em;
+    background: linear-gradient(#7a5b1b, #CD9734, black);
+    width: 4%;
+}
 h1{
     margin: 5% 0 5% -25%;
     width: 150%;
     background-color:  #CD9734;
+    color: black;
+}
+
+#retour_haut{
+    position: fixed;
+    left: 1%;
+    top : 90%;
+    height: 7%;
+}
+#retour_haut a{
+    text-decoration: none;
+}
+
+strong{
+    color: firebrick;
 }
