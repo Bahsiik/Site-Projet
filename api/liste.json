@@ -1655,11 +1655,11 @@
     "Singed": {
       "story": "Singed est un chimiste zaunien d'une intelligence exceptionnelle, prêt à tout pour repousser les limites de la connaissance, y compris y perdre sa santé mentale. Sa folie répond-elle à une logique ? Ses décoctions ont généralement l'effet escompté, mais pour beaucoup, Singed a perdu tout ce qui faisait de lui un être humain, ne laissant dans son sillage qu'une trace nocive et terrifiante.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Singed bénéficie de l'aspiration des champions proches, gagnant un bref bonus en vitesse de déplacement quand il les dépasse.\n\n",
+        "Singed laisse une piste empoisonnée derrière lui, infligeant des dégâts aux ennemis sur la route.\n\n",
+        "Lance au sol une fiole contenant un puissant adhésif qui ralentit et rend inertes tous les ennemis passant dans la zone d'effet.\n\n",
+        "Blesse l'ennemi et le projette derrière Singed. Si la cible projetée par Singed atterrit dans Attrape-mouche, elle est aussi immobilisée.\n\n",
+        "Singed voit plusieurs de ses statistiques largement améliorées grâce à des produits chimiques, et Piste empoisonnée se met à appliquer un effet Hémorragie.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1670,11 +1670,11 @@
     "Sion": {
       "story": "Guerrier sanguinaire d'une époque révolue, Sion était célébré comme un héros à Noxus, pour avoir étouffé un roi de Demacia de ses mains nues. Il était l'objet d'une telle dévotion qu'on lui refusa le repos éternel, en le ramenant à la vie pour continuer à servir son empire. Il massacre sans distinction alliés comme ennemis sur son chemin, prouvant à cette occasion qu'il n'a plus rien d'humain. Son armure rivetée à même la chair, Sion charge sans relâche au combat, luttant entre deux coups de sa puissante hache pour tenter de se remémorer qui il était.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir été tué, Sion revient temporairement à la vie, mais ses PV diminuent rapidement. Ses attaques deviennent très rapides, soignent Sion et infligent des dégâts supplémentaires en fonction des PV max de la cible.\n\n",
+        "Sion charge un coup puissant qui s'abattra dans une zone devant lui, infligeant des dégâts aux ennemis quand il relâche l'attaque. S'il charge assez longtemps, il projettera en l'air et étourdira les ennemis touchés.\n\n",
+        "Sion s'entoure d'un bouclier et peut réactiver le sort au bout de 3 sec pour infliger des dégâts magiques aux ennemis proches. Quand Sion tue des ennemis, ses PV max sont passivement augmentés.\n\n",
+        "Sion envoie une courte onde de choc qui blesse et ralentit le premier ennemi touché tout en réduisant son armure. Si l'onde de choc atteint un sbire ou un monstre, celui-ci est projeté vers l'arrière : tous les ennemis qu'il touche subissent des dégâts, sont ralentis et perdent de l'armure.\n\n",
+        "Sion charge dans une direction, accélérant peu à peu. Il peut légèrement changer de trajectoire en déplaçant le curseur de la souris. Quand il percute un ennemi, il lui inflige des dégâts et le projette en l'air en fonction de la distance parcourue par sa charge.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -1685,11 +1685,11 @@
     "Sivir": {
       "story": "Sivir est une célèbre chasseuse de trésors et capitaine de mercenaires œuvrant dans le désert de Shurima. Armée de sa légendaire lame en croix, elle a triomphé d'innombrables batailles pour les clients prêts à honorer ses tarifs exorbitants. Connue pour sa détermination et son ambition démesurée, elle tire sa fierté des nombreux trésors qu'elle a déterrés dans les tombes les plus périlleuses de Shurima… et revendus au prix fort. Mais le jour où des forces ancestrales se sont éveillées au plus profond de Shurima, Sivir s'est retrouvée tiraillée entre deux destins conflictuels.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Sivir gagne un bref bonus en vitesse de déplacement quand elle attaque un champion ennemi.\n\n",
+        "Sivir lance sa lame comme un boomerang, infligeant des dégâts à l'aller comme au retour.\n\n ",
+        "Les prochaines attaques de base de Sivir rebondiront vers les cibles proches, infligeant des dégâts réduits aux cibles secondaires.\n\n",
+        "Crée une barrière magique qui bloque une compétence ennemie lancée contre Sivir. Celle-ci regagne du mana si un sort est bloqué.\n\n",
+        "Sivir mène ses alliés au combat, augmentant temporairement leur vitesse de déplacement. Passivement, cette compétence augmente également la vitesse d'attaque de Sivir quand Ricochet est actif.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -1700,11 +1700,11 @@
     "Skarner": {
       "story": "Skarner est un immense scorpion cristallin venu d'une vallée cachée de Shurima. Issus de l'ancienne race des Brackerns, Skarner et les siens sont connus pour leur grande sagesse et leurs liens profonds avec la terre : leur âme a fusionné avec de puissants cristaux de vie qui contiennent les pensées et les souvenirs de leurs ancêtres. À une époque si reculée que nul ne s'en souvient, les Brackerns sont entrés en hibernation pour échapper à la destruction magique, mais des événements menaçants viennent de réveiller Skarner. Seul Brackern éveillé, il lutte pour protéger les siens contre ceux qui cherchent à les blesser.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "La présence de Skarner fait apparaître des cristaux à des endroits précis de la carte. Ces cristaux peuvent être capturés par les deux équipes, en se tenant à proximité. Près d'un cristal contrôlé par son équipe, Skarner augmente sa vitesse de déplacement, sa vitesse d'attaque et la régénération de son mana.\n\n",
+        "Skarner attaque violemment avec ses pinces, infligeant des dégâts physiques à tous les ennemis proches et se chargeant en Énergie cristalline pendant quelques secondes si une unité est touchée. S'il lance de nouveau Taillade de cristal en étant chargé en Énergie cristalline, il inflige des dégâts magiques supplémentaires.\n\n",
+        "Skarner obtient un bouclier et, tant que le bouclier est actif, sa vitesse de déplacement est augmentée.\n\n",
+        "Skarner tire un projectile d'énergie cristalline, infligeant des dégâts aux ennemis touchés et les ralentissant. Lancer des attaques de base contre ces ennemis dans un délai restreint permet de les étourdir.\n\n",
+        "Skarner neutralise un champion ennemi et lui inflige des dégâts. Pendant ce temps, Skarner peut se déplacer librement et traîner la victime. Quand l'effet prend fin, la cible de Skarner subit des dégâts supplémentaires.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1715,11 +1715,11 @@
     "Sona": {
       "story": "Sona est la plus grande virtuose de l'etwahl de Demacia, ne s'exprimant que par ses accords vibrants et gracieux. Ses manières distinguées lui valent d'être appréciée par l'aristocratie, bien que beaucoup soupçonnent ses mélodies envoûtantes de s'apparenter à de la magie, tabou à Demacia. Inaudible pour des étrangers, mais comprise par ses compagnons les plus proches, Sona se sert de ses harmonies pour soigner ses alliés blessés, mais également pour frapper ses ennemis par surprise.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Accelerando : les compétences de base de Sona octroient une accélération de compétence (hors ultime) lorsqu'elles sont correctement utilisées, jusqu'à un maximum. Au-delà de celui-ci, bien utiliser une compétence réduit le délai de récupération de l'ultime de Sona. Accord de puissance : après avoir lancé quelques compétences, la prochaine attaque de Sona inflige des dégâts magiques bonus et applique un effet supplémentaire selon la dernière compétence de base lancée.\n\n",
+        "Sona joue l'Hymne à la bravoure, dont les ondes sonores infligent des dégâts magiques à deux ennemis proches (priorité aux champions et aux monstres). Sona reçoit un halo temporaire qui confère aux alliés touchés par la zone un bonus aux dégâts de leur prochaine attaque contre un ennemi.\n\n",
+        "Sona joue l'Aria de persévérance. Sa mélodie protectrice la soigne, ainsi qu'un allié blessé proche. Sona reçoit un halo temporaire qui confère aux alliés touchés par la zone un bouclier temporaire.\n\n ",
+        "Sona joue la Mélodie de vélocité, ce qui confère aux alliés proches un bonus en vitesse de déplacement. Sona reçoit un halo temporaire qui permet aux champions alliés touchés par la zone d'augmenter leur vitesse de déplacement.\n\n",
+        "Sona joue son accord ultime, étourdissant les champions ennemis, les forçant à danser et leur infligeant des dégâts magiques. Chaque rang réduit le délai de récupération de base des compétences de base de Sona.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1730,11 +1730,11 @@
     "Soraka": {
       "story": "Voyageuse originaire de dimensions célestes d'au-delà du Mont Targon, Soraka a abandonné son immortalité pour protéger les mortels de leurs instincts violents. Elle cherche à pousser tous ceux qu'elle rencontre à embrasser les vertus de la compassion et de la pitié, allant jusqu'à soigner même ceux qui lui veulent du mal. Et, malgré toutes les souffrances dont Soraka a été témoin dans ce monde, elle croit encore que le peuple de Runeterra n'a pas atteint son plein potentiel.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Soraka court plus vite en direction des alliés affaiblis à proximité.\n\n",
+        "Une étoile s'abat à l'endroit ciblé, infligeant des dégâts magiques et ralentissant les ennemis. Si un champion ennemi est touché par Appel de l'étoile, Soraka récupère des PV.\n\n",
+        "Soraka sacrifie une partie de ses PV pour soigner un autre champion allié.\n\n",
+        "Crée une zone qui réduit au silence tous les ennemis s'y trouvant. Quand la zone disparaît, tous les ennemis qui s'y trouvent encore sont immobilisés.\n\n",
+        "Soraka remplit ses alliés d'espoir, ce qui rend immédiatement des PV à tous les champions alliés et à elle-même.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -1745,11 +1745,11 @@
     "Swain": {
       "story": "Jericho Swain est le chef visionnaire de Noxus, une nation expansionniste qui ne respecte que la force. Bien que déchu et blessé pendant les guerres ioniennes, il a pris le contrôle de l'empire avec une féroce détermination… Et une nouvelle main, démoniaque, a remplacé celle qu'il a perdue au combat. Désormais, Swain dirige ses armées sur la ligne de front, face à des ténèbres qu'il est le seul à percevoir à l'horizon, dans le vol des corbeaux attirés par les cadavres qui l'entourent. Dans un tourbillon de sacrifices et de regrets, le plus grand secret entre tous, c'est que le véritable ennemi est à l'intérieur.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les corbeaux de Swain collectent des Fragments d'âme qui lui rendent des PV et augmentent définitivement ses PV max. Swain peut faire un clic droit sur un champion ennemi immobilisé pour l'attirer vers lui, lui infligeant des dégâts et lui arrachant un Fragment d'âme.\n\n",
+        "Swain tire plusieurs projectiles surnaturels qui traversent les ennemis. Les dégâts que subissent les ennemis augmentent avec le nombre de projectiles qui les touchent.\n\n",
+        "Swain ouvre un œil démoniaque qui blesse et ralentit les ennemis. Les champions touchés sont révélés et octroient un Fragment d'âme à Swain.\n\n",
+        "Swain tire une vague d'énergie démoniaque. Celle-ci revient ensuite vers lui et immobilise les ennemis touchés.\n\n",
+        "Swain se transforme en démon et draine les PV des champions ennemis, sbires ennemis et monstres neutres proches. Swain peut lancer Éruption démoniaque pour provoquer une explosion de feu spirituel qui décime les ennemis proches, infligeant des dégâts équivalents à une partie des PV drainés et mettant fin à sa transformation.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -1760,11 +1760,11 @@
     "Sylas": {
       "story": "Élevé dans l'un des quartiers les plus pauvres de Demacia, Sylas de Liebourg est devenu le symbole du côté obscur de la Grande cité. Enfant, sa capacité à déceler la sorcellerie cachée attira l'attention des tristement célèbres traqueurs de mages, qui finirent par l'emprisonner pour avoir retourné ses pouvoirs contre eux. Désormais libéré de ses chaînes, Sylas est un révolutionnaire convaincu, employant la magie de ceux qui l'entourent pour ravager le royaume qu'il a autrefois servi… Et son groupe de mages exilés semble grandir chaque jour un peu plus.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir lancé un sort, Sylas stocke une charge de Volée de pétricite. Les attaques de base de Sylas dépensent une charge pour donner un coup de chaînes énergisé autour de lui, infligeant des dégâts magiques supplémentaires aux ennemis touchés. Tant que Sylas possède une charge de Volée de pétricite, sa vitesse d'attaque est augmentée.\n\n",
+        "Sylas donne un coup en croisant ses chaînes, infligeant des dégâts magiques à l'endroit ciblé et ralentissant les ennemis. Après un délai, une explosion d'énergie magique se produit à l'intersection des chaînes, infligeant des dégâts.\n\n",
+        "Sylas se jette sur un ennemi pour infliger des dégâts et, contre des champions, récupérer des PV.\n\n",
+        "Sylas se rue dans une direction. Sylas peut réactiver cette compétence pour lancer ses chaînes et se rapprocher de l'ennemi touché.\n\n",
+        "Sylas vole la compétence ultime de l'ennemi et peut la lancer librement.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -1775,11 +1775,11 @@
     "Syndra": {
       "story": "Syndra est une effrayante magicienne originaire d'Ionia, aux pouvoirs impressionnants. Enfant, elle perturba les anciens de son village avec sa magie sauvage et incontrôlée. Elle fut confiée à un maître dans l'espoir qu'elle apprendrait à se contrôler, mais elle finit par découvrir que son prétendu mentor limitait ses capacités. Créant des sphères d'énergie noire avec ses sentiments de douleur et de trahison, Syndra jura de détruire quiconque tenterait de la contrôler.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Syndra gagnent des effets supplémentaires au rang max. Sphère noire : dégâts supplémentaires contre les champions. Force de la volonté : dégâts bruts supplémentaires. Dispersion des faibles : largeur augmentée. Déchaînement de puissance : portée augmentée.\n\n",
+        "Syndra invoque une sphère noire, infligeant des dégâts magiques. La sphère dure quelques secondes et peut être manipulée grâce aux autres compétences de Syndra.\n\n",
+        "Syndra saisit et lance une sphère noire ou un sbire ennemi, infligeant des dégâts magiques et réduisant la vitesse de déplacement des ennemis.\n\n",
+        "Syndra repousse les ennemis et les sphères noires, infligeant des dégâts magiques. Les ennemis frappés par les sphères noires sont étourdis.\n\n",
+        "Syndra bombarde un champion ennemi avec toutes ses sphères noires.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -1790,11 +1790,11 @@
     "Tahm Kench": {
       "story": "Au fil du temps, on lui a donné de nombreux noms. Le démon Tahm Kench voyage dans les cours d'eau de Runeterra, nourrissant son insatiable appétit de la misère des autres. Bien qu'il puisse sembler particulièrement charmant et fier, il rôde dans le monde tel un vagabond à la recherche d'une proie sans méfiance. Sa langue extensible peut étourdir un guerrier en armure à plusieurs mètres de distance, avant de l'attirer dans son estomac gargouillant vers un abysse dont il n'a que peu de chances de revenir.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Tahm Kench met tout son poids dans ses attaques, permettant à ses PV totaux d'augmenter ses dégâts. Blesser des champions ennemis leur applique des effets Goût acquis. À 3 effets cumulés, Tahm Kench peut utiliser Dévoration sur un champion ennemi.\n\n",
+        "Tahm Kench donne un coup de fouet avec sa langue, blessant et ralentissant la première unité touchée et récupérant des PV s'il touche un champion ennemi. Cette compétence applique un effet Goût acquis sur les champions ennemis. Si le champion portait déjà 3 effets Goût acquis, il est étourdi et les effets sont consommés.\n\n",
+        "Tahm Kench plonge, puis réapparaît à l'endroit ciblé, blessant et projetant dans les airs tous les ennemis dans la zone.\n\n",
+        "Passive : Tahm Kench stocke un pourcentage des dégâts qu'il subit. En dehors des combats, il récupère des PV équivalents à une partie des dégâts stockés. Active : Tahm Kench convertit tous les dégâts stockés en bouclier temporaire.\n\n",
+        "Tahm Kench dévore un champion pendant quelques secondes, lui infligeant des dégâts magiques s'il s'agit d'un ennemi ou lui octroyant un bouclier s'il s'agit d'un allié.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
