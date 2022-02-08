@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;700&display=swap');
+
+@import "fixedHeaderAndFooter.css";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(80deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background-size: 400%;
+    animation: glowing 30s linear infinite;
+}
+
+@keyframes glowing {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: 400% 0;
+    }
+}
+
+.separationHaut {
+    background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
+    height: 10px;
+}
+
+.separation {
+    background: linear-gradient(#7a5b1b, #CD9734, #7a5b1b);
+    height: 10px;
+    filter: blur(1px);
+}
+
+.separationBas {
+    background: linear-gradient(#7a5b1b, #CD9734, black);
+    height: 10px;
+}
+
+#glossaire {
+    margin: 10% auto;
+    justify-content: center;
+    text-align: center;
+    width: 95%;
+    font-size: 1em;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#glossaire div a {
+}
+
+.som {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-size: 1.5em;
+    background: linear-gradient(#7a5b1b, #CD9734, black);
+    width: 1.5em;
+    font-family: Teko;
+}
+
+button:hover {
+    background: linear-gradient(black, #CD9734,  #7a5b1b);
+}
+
+h1 {
+    margin: 5% 0 2% 0;
+    width: 100%;
+    background: linear-gradient(#7a5b1b, #CD9734, #7a5b1b);
+    color: black;
+    border-radius: 4px;
+}
+
+#retour_haut {
+    position: fixed;
+    left: 1%;
+    top: 90%;
+    height: 7%;
+}
+
+#retour_haut a {
+    text-decoration: none;
+}
+
+strong {
+    font-size: 1.3em;
+    color: firebrick;
+}

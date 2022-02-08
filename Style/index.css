@@ -34,39 +34,86 @@ body{
     height: 10px;
 }
 
-#glossaire{
-    margin : 10% auto;
-    justify-content: center;
-    text-align: center;
-    width: 80%;
-    font-size: 2em;
-    color: white;
-}
-#glossaire div a{
-    margin-right: 2%;
-}
-button{
-    font-size: 1.5em;
-    background: linear-gradient(#7a5b1b, #CD9734, black);
-    width: 4%;
-}
-h1{
-    margin: 5% 0 5% -25%;
-    width: 150%;
-    background-color:  #CD9734;
-    color: black;
+.container {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 50px 0 50px 0;
 }
 
-#retour_haut{
-    position: fixed;
-    left: 1%;
-    top : 90%;
-    height: 7%;
+/* Make the image responsive */
+.container img {
+    width: 55%;
+    display: block;
+    margin: auto;
+    border: #CD9734 solid 3px;
+    border-radius: 1%;
+    transition: transform 0.2s ease-in-out 0.05s, box-shadow 0.2s ease-out 0.05s;
 }
-#retour_haut a{
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: Teko;
+    z-index: 1;
+    font-size: 4em;
+    transform: translate(-50%, -50%) scale(1);
+    -ms-transform: translate(-50%, -50%);
+    padding: 12px 24px;
+    cursor: pointer;
+    color: white;
+    -webkit-text-stroke: 1px black;
+    transition: transform 0.2s ease-in-out 0.05s;
     text-decoration: none;
 }
 
-strong{
-    color: firebrick;
+.container .btn:hover + .fond {
+    transform: scale(1.1);
+    box-shadow: #CD9734 0 0 40px;
+    text-decoration: none;
 }
+
+.container .btn:hover {
+    transition: color 0.2s ease-out 0.05s, transform 0.2s ease-in-out 0.05s, text-shadow 0.2s ease-out 0.05s;
+    transform: translate(-50%, -50%) scale(1.1);
+    -ms-transform: translate(-50%, -50%);
+    color: #CD9734;
+    text-shadow: #CD9734 0 0 15px;
+    text-decoration: none;
+}
+
+
+
+/*
+.bandeau .btn:before {
+    content: '';
+    background: linear-gradient(45deg,#01454a, #01454a, #1DA8B1, #1DA8B1, #01454a, #01454a);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 15s linear infinite;
+}*/
+
+/*.btn:not(:hover) + .fond {
+    transition: transform 0.3s ease-in-out 0.1s;
+    transform: scale(1);
+}*/
+/*.container .btn:not(:hover) {
+    transition: color 0.3s ease-out, transform 0.3s ease-in-out;
+    transform: translate(-50%, -50%) scale(1);
+    -ms-transform: translate(-50%, -50%);
+    color: white
+}*/
+/*.container .btn:hover {*/
+/*    transform: scale(1.1) translate(-45%, -45%);*/
+/*    -ms-transform: translate(-50%, -50%);*/
+/*    transition: all 0.2s;*/
+/*}*/
+
