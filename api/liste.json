@@ -1205,11 +1205,11 @@
     "Nautilus": {
       "story": "Nautilus, une légende plus ancienne encore que la première jetée de Bilgewater, est un titan en armure qui sillonne les eaux sombres au large des Îles de la Flamme Bleue. Trahi il y a bien longtemps de cela, il frappe désormais sans prévenir, se servant de son ancre gigantesque pour sauver les malheureux et couler les avares. On raconte qu'il vient chercher ceux qui oublient de payer le « tribut de Bilgewater » et qu'il les emmène avec lui au fond des mers, d'où nul ne peut s'échapper.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "La première attaque de Nautilus contre une cible inflige des dégâts physiques supplémentaires et l'immobilise brièvement.\n\n",
+        "Nautilus lance son ancre devant lui. S'il touche un ennemi, Nautilus et la cible sont tirés l'un vers l'autre et Nautilus lui inflige des dégâts magiques. S'il touche un élément de terrain, Nautilus est tiré vers lui.\n\n",
+        "Nautilus profite d'un bouclier temporaire. Tant que le bouclier persiste, les attaques de Nautilus infligent des dégâts sur la durée à ses cibles et aux ennemis proches.\n\n",
+        "Nautilus crée trois vagues explosives autour de lui. Chaque explosion blesse et ralentit les ennemis.\n\n",
+        "Nautilus lance une onde de choc qui poursuit un ennemi. L'onde de choc transperce le sol et projette les ennemis en l'air. Quand elle atteint l'ennemi, l'onde de choc éclate, projetant la cible en l'air en l'étourdissant.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -1220,11 +1220,11 @@
     "Neeko": {
       "story": "Originaire d'une tribu disparue de Vastayas, Neeko est capable de se fondre dans n'importe quelle foule en empruntant l'apparence des autres, allant même jusqu'à absorber un soupçon de leur état émotionnel pour différencier un instant les amis des ennemis. Personne ne sait réellement où – ni qui – peut bien être Neeko, mais ceux qui chercheront à lui faire du mal découvriront bien vite sa véritable nature… et goûteront à toute la force primordiale de son pouvoir spirituel.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Neeko peut prendre l'apparence d'un champion allié. Se faire blesser par un champion ennemi ou lancer un sort infligeant des dégâts met fin au déguisement.\n\n",
+        "Neeko lance une graine qui inflige des dégâts magiques. La graine éclot une nouvelle fois si elle touche des champions ou si elle tue des ennemis.\n\n",
+        "Passivement, Neeko inflige des dégâts magiques supplémentaires toutes les 3 attaques. Elle peut activer la compétence pour envoyer un clone dans une direction.\n\n",
+        "Neeko tire un projectile qui blesse et qui immobilise tous les ennemis traversés. Si le projectile tue un ennemi ou traverse un champion, il augmente sa taille, sa vitesse et la durée de son immobilisation.\n\n&",
+        "Après une courte préparation, Neeko bondit dans les airs et s'entoure d'un bouclier. Quand elle atterrit, les ennemis proches sont blessés et étourdis. La préparation ne se voit pas si Neeko est déguisée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -1235,11 +1235,11 @@
     "Nidalee": {
       "story": "Élevée au plus profond de la jungle, Nidalee est une pisteuse d'exception qui peut se transformer à volonté en couguar. Ni totalement femme, ni totalement bête, elle défend férocement son territoire contre tous ceux qui veulent y pénétrer avec ses pièges judicieusement placés et sa lance. Elle estropie sa proie avant de se jeter sur elle sous sa forme de félin. Ceux qui survivent sont rares, et tous la décrivent comme une femme aux griffes aussi aiguisées que ses instincts...\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Dans les herbes hautes, la vitesse de déplacement de Nidalee augmente de 10% pendant 2 sec. Le bonus passe à 30% si Nidalee va vers des champions ennemis visibles à moins de 1400 unités de distance. Quand elle touche des champions ou des monstres avec Javelot ou Guérilla, Nidalee se met à les chasser et obtient une vision pure de ces cibles pendant 4 sec. Pendant ce temps, la vitesse de déplacement de Nidalee augmente de 10% (30% vers les cibles chassées) et, contre ces cibles, Mise à terre et Bond sont renforcés.\n\n",
+        "Dans sa forme humaine, Nidalee lance un javelot qui inflige de plus en plus de dégâts selon la distance parcourue. Sous la forme d'un Couguar, sa prochaine attaque tente d'égorger sa cible, et plus celle-ci a déjà perdu de PV, plus les dégâts sont importants.\n\n",
+        "Dans sa forme humaine, Nidalee place un piège qui blesse et révèle la cible qui le déclenche. Sous la forme d'un Couguar, elle bondit dans une direction et inflige des dégâts de zone en atterrissant.\n\n",
+        "Dans sa forme humaine, Nidalee canalise l'esprit du Couguar pour soigner ses alliés et leur conférer temporairement un bonus en vitesse d'attaque. Sous la forme d'un Couguar, elle donne un coup de griffes aux ennemis devant elle.\n\n",
+        "Nidalee prend la forme d'un Couguar, ce qui lui confère de nouvelles compétences.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1250,11 +1250,11 @@
     "Nocturne": {
       "story": "Expression démoniaque des cauchemars qui hantent tous les êtres doués d'intelligence, la chose que l'on nomme Nocturne est devenue une force primordiale du mal. D'aspect liquide, c'est une ombre sans visage, au regard glacial, armée de lames effrayantes. Après s'être affranchi du royaume des esprits, Nocturne est parvenu jusqu'au monde éveillé, pour se nourrir d'une terreur qui ne prospère que dans les véritables ténèbres.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les quelques secondes, la prochaine attaque de Nocturne frappe les ennemis proches, infligeant des dégâts physiques supplémentaires et lui rendant des PV. Les attaques de base de Nocturne réduisent ce délai.\n\n",
+        "Nocturne projette une lame noire qui inflige des dégâts et laisse une Lueur crépusculaire derrière elle. Les champions ennemis touchés émettent également une Lueur crépusculaire. Quand il est dans la lueur, Nocturne peut traverser les unités et profite d'un bonus en vitesse de déplacement et en dégâts d'attaque.\n\n",
+        "Nocturne renforce ses lames, ce qui augmente passivement sa vitesse d'attaque. En lançant Linceul des ténèbres, Nocturne se fond dans l'obscurité, ce qui crée une barrière magique capable de bloquer une compétence ennemie et de doubler le bonus passif en vitesse d'attaque en cas de blocage.\n\n",
+        "Nocturne implante un cauchemar dans l'esprit de sa cible, infligeant des dégâts chaque seconde et terrifiant la cible si elle reste à portée pendant toute la durée du sort.\n\n",
+        "Nocturne réduit le champ de vision de tous les champions ennemis et supprime la vision qu'ils ont de leurs alliés. Il peut ensuite se projeter vers un champion ennemi proche.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -1265,11 +1265,11 @@
     "Nunu & Willump": {
       "story": "Il était une fois un jeune garçon qui voulait prouver qu'il était un héros en tuant un monstre effrayant, mais il découvrit que la créature, un yéti solitaire, avait seulement besoin d'un ami. Rapprochés par une puissance ancienne et un amour partagé des boules de neige, Nunu et Willump courent maintenant librement dans tout Freljord en donnant vie à des aventures rêvées. Ils espèrent un jour retrouver la mère disparue de l'enfant. S'ils peuvent la sauver, peut-être seront-ils vraiment des héros, finalement…\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Nunu augmente les vitesses d'attaque et de déplacement de Willump et d'un allié proche, et les attaques de base de Willump infligent des dégâts aux ennemis proches de la cible.\n\n",
+        "Willump mord un sbire, un monstre ou un champion ennemi, lui infligeant d'importants dégâts et récupérant des PV.\n\n",
+        "Willump crée une boule de neige qui grossit et accélère à mesure qu'il la fait rouler. La boule de neige blesse et projette en l'air les ennemis.\n\n",
+        "Nunu lance plusieurs boules de neige qui blessent les ennemis. Ensuite, Willump immobilise les champions et les grands monstres qui ont été touchés par une boule de neige.\n\n",
+        "Nunu et Willump créent un puissant blizzard dans une zone, ce qui ralentit les ennemis et inflige d'importants dégâts à la fin du sort.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -1280,11 +1280,11 @@
     "Olaf": {
       "story": "Olaf, avec sa hache et son extraordinaire force de destruction, ne souhaite que mourir au combat. Venu de l'âpre péninsule freljordienne de Lokfar, il a été choqué par une prophétie qui lui prédisait une mort paisible : dans l'esprit de son peuple, une ignoble fin de lâche. Cherchant la mort et animé par la rage, il ravage une région après l'autre, éliminant des hordes de grands guerriers et de bêtes légendaires dans sa recherche d'un ennemi capable de l'arrêter. Aujourd'hui un brutal combattant de la Griffe hivernale, il espère mourir glorieusement dans les grandes guerres à venir.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Olaf gagne de la vitesse d'attaque selon ses PV manquants.\n\n",
+        "Olaf lance sa hache à l'endroit ciblé, infligeant des dégâts aux ennemis traversés et réduisant leur vitesse de déplacement. Si Olaf ramasse sa hache, le délai de récupération de cette compétence est réduit de 4,5 sec.\n\n",
+        "La vitesse d'attaque et le Vol de vie d'Olaf sont augmentés. Tous les soins qu'il reçoit sont également augmentés en fonction de ses PV manquants.\n\n",
+        "Olaf attaque avec tant de force qu'il inflige des dégâts physiques bruts non seulement à sa cible, mais aussi à lui-même. Il récupère le coût en PV s'il tue sa cible.\n\n",
+        "Olaf devient temporairement insensible aux entraves.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1295,11 +1295,11 @@
     "Orianna": {
       "story": "Autrefois une jeune fille curieuse, de chair et d'os, Orianna est aujourd'hui une merveille de technologie entièrement mécanisée. Elle est tombée gravement malade à la suite d'un accident dans les quartiers inférieurs de Zaun, et son corps défaillant a été remplacé petit à petit par des prothèses perfectionnées. Accompagnée par une sphère extraordinaire qu'elle a elle-même créée pour lui servir de compagnon et de protectrice, Orianna est désormais libre d'explorer la merveilleuse ville de Piltover et ce qui se trouve au-delà.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques d'Orianna infligent des dégâts magiques supplémentaires. Plus Orianna attaque la même cible, plus les dégâts sont importants.\n\n",
+        "Orianna ordonne à sa sphère de voler vers une zone cible, infligeant des dégâts magiques aux cibles sur son passage (les dégâts diminuent à chaque cible supplémentaire). La sphère reste ensuite dans la zone cible.\n\n",
+        "Orianna ordonne à sa sphère d'émettre une impulsion énergétique, infligeant des dégâts magiques autour de la sphère. Cela crée une zone qui accélère les alliés et ralentit les ennemis.\n\n",
+        "Orianna ordonne à sa sphère d'aller se fixer sur un champion allié pour lui octroyer un bouclier, infligeant des dégâts magiques aux ennemis sur son passage. La sphère augmente aussi l'armure et la résistance magique du champion sur lequel elle est fixée.\n\n",
+        "Orianna ordonne à sa sphère d'émettre une onde de choc, infligeant des dégâts magiques et projetant les ennemis proches vers la sphère après un bref délai.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -1310,11 +1310,11 @@
     "Ornn": {
       "story": "Ornn est le demi-dieu de la forge et de l'artisanat à Freljord. Avec comme seule compagne la solitude, il travaille dans sa forge enfouie au plus profond des cavernes de lave de l'Âtre-foyer. C'est là qu'il fond et purifie les métaux nécessaires à la création d'objets de qualité inimitable. Tandis que d'autres divinités – Volibear avant tout – s'immiscent dans les affaires des mortels, Ornn ne sort de son antre que pour remettre ces déités à leur place, avec son fidèle marteau ou les pouvoirs du volcan lui-même.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Ornn augmente tous ses bonus d'armure et de résistance magique. Ornn peut dépenser des PO pour forger des objets non consommables n'importe où sur la carte. De plus, il peut créer des chefs-d'œuvre pour ses alliés ou lui-même.\n\n",
+        "Ornn frappe le sol, créant une fissure qui blesse et ralentit les ennemis touchés. Après un court délai, une colonne de lave se forme au bout de la fissure.\n\n",
+        "Ornn avance en crachant des flammes. Les ennemis touchés par la dernière flamme deviennent fragiles.\n\n",
+        "Ornn fonce dans une direction en infligeant des dégâts aux ennemis qu'il traverse. Si Ornn percute un terrain pendant la ruée, l'impact crée une onde de choc autour de lui qui blesse et projette en l'air les ennemis.\n\n",
+        "Ornn invoque un énorme élémentaire à l'endroit ciblé. Cet élémentaire se déplace ensuite vers Ornn, de plus en plus vite. Les ennemis écrasés par l'élémentaire subissent des dégâts, sont ralentis et deviennent fragiles. Ornn peut relancer cette compétence pour se ruer vers l'élémentaire, le réorientant selon la direction de la collision. L'élémentaire redirigé projette en l'air les ennemis qu'il touche, en infligeant les mêmes dégâts qu'avant et en appliquant de nouveau l'effet Fragilité.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 3
@@ -1325,11 +1325,11 @@
     "Pantheon": {
       "story": "Autrefois l'hôte réticent de la Manifestation de la Guerre, Atreus a survécu à la mort de la puissance céleste qui l'habitait, refusant de succomber au coup qui arracha les étoiles mêmes des cieux. Avec le temps, il apprit à accepter le pouvoir de sa mortalité, et la résistance bornée qui y est associée. Atreus s'oppose désormais aux entités divines en tant que Pantheon, ressuscité parmi les mortels, et manie les armes de la Manifestation animées par sa volonté inébranlable sur le champ de bataille.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après un certain nombre de sorts ou d'attaques, le prochain sort de Pantheon est renforcé.\n\n",
+        "Pantheon donne un coup de lance ou jette sa lance dans la direction choisie.\n\n",
+        "Pantheon se rue sur une cible, l'étourdissant et lui infligeant des dégâts.\n\n",
+        "Pantheon lève son bouclier, devenant invulnérable aux attaques auxquelles il fait face, et donne des coups de lance en succession rapide.\n\n",
+        "Pantheon rassemble ses forces pour sauter dans les airs, puis il atterrit tel un météore à l'endroit choisi.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
@@ -1340,11 +1340,11 @@
     "Poppy": {
       "story": "Runeterra ne manque pas de braves champions, mais peu peuvent se targuer d'être aussi tenaces que Poppy. Armée du légendaire marteau d'Orlon, faisant deux fois sa taille, cette yordle déterminée cherche depuis d'innombrables années le « héros de Demacia », qui serait le dépositaire légitime de cette arme. En attendant, elle part inlassablement au combat, repoussant les ennemis du royaume à grands coups de marteau.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Poppy lance son écu et le fait rebondir sur sa cible. Poppy peut le ramasser pour obtenir un bouclier temporaire.\n\n",
+        "Poppy balance son marteau, infligeant des dégâts et créant une zone qui ralentira les ennemis et explosera après un délai.\n\n",
+        "Poppy obtient passivement de l'armure et de la résistance magique. Ce bonus augmente quand il lui reste peu de PV. Poppy peut activer Présence immuable pour augmenter sa vitesse de déplacement et arrêter les ruées ennemies autour d'elle. Si elle arrête une ruée, l'ennemi est ralenti et inerte.\n\n",
+        "Poppy charge la cible et la repousse. Si la cible est repoussée contre un mur, elle est étourdie.\n\n",
+        "Poppy canalise un coup de marteau qui projette les ennemis très loin.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12

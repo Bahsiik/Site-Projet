@@ -4,106 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df7cbad-a074-45ca-aaa8-8160b3ae8b6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Images/Icones/ChampionList_aphelios.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/Icones/ChampionList_aphelios.jpg" afterDir="false" />
+    <list default="true" id="09586285-f89c-40d7-9992-9caf41d24c4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ProjetSite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/liste.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/liste.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Sass File" />
-        <option value="package.json" />
-        <option value="JavaScript File" />
-        <option value="CSS File" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="4" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="23dVEnAFPh35IgwUx1HoCFTV2jm" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="24nKZCY3IG8OdhO7q2z4SmazgTW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Images" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (42)" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (41)" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Champions\Nouveau dossier - Copie (40)" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Images\Skin" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Images" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet" />
-      <recent name="C:\Users\davym\Downloads\Ynov\Hangman\SiteProjet\Utilitaire\page_vierge" />
-      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\api" />
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite" />
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\Html" />
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a27fb443-343c-453c-a7ff-df668c71eb8c" name="Changes" comment="" />
-      <created>1642063843364</created>
+      <changelist id="09586285-f89c-40d7-9992-9caf41d24c4c" name="Changes" comment="" />
+      <created>1644260966173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642063843364</updated>
-      <workItem from="1642063846495" duration="5858000" />
-      <workItem from="1643617077736" duration="2000" />
-      <workItem from="1643617478433" duration="8000" />
-      <workItem from="1643654442080" duration="12410000" />
-      <workItem from="1643675356399" duration="21327000" />
-      <workItem from="1643755971750" duration="23103000" />
-      <workItem from="1643783371078" duration="7566000" />
-      <workItem from="1643808287471" duration="17303000" />
-      <workItem from="1643841355063" duration="1378000" />
-      <workItem from="1643870449356" duration="1671000" />
-      <workItem from="1643875201060" duration="318000" />
-      <workItem from="1643875591760" duration="4322000" />
-      <workItem from="1644031369164" duration="634000" />
-      <workItem from="1644033405375" duration="727000" />
-      <workItem from="1644075961308" duration="765000" />
-      <workItem from="1644219678733" duration="6457000" />
+      <updated>1644260966173</updated>
+      <workItem from="1644260969678" duration="9646000" />
+      <workItem from="1644325509953" duration="724000" />
     </task>
     <servers />
   </component>
@@ -120,9 +73,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
