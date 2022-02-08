@@ -1805,11 +1805,11 @@
     "Taliyah": {
       "story": "Taliyah est une mage issue des tribus nomades de Shurima, déchirée entre l'émerveillement de la jeunesse et les responsabilités des adultes. Elle a déjà traversé pratiquement tout Valoran pour découvrir la véritable nature de ses pouvoirs toujours plus puissants, avant d'être récemment retournée dans sa tribu pour la protéger. Certains se méprennent sur sa compassion et paient leur erreur au prix fort : sous son attitude joviale, Taliyah dissimule une volonté de fer capable de déplacer les montagnes et un esprit assez féroce pour faire trembler la terre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Taliyah augmente sa vitesse de déplacement lorsqu'elle est près des murs.\n\n",
+        "Taliyah lance une rafale de projectiles dans une direction ciblée, tout en se déplaçant librement. Cela crée un sol ouvragé sous ses pieds. Si Taliyah lance Rafale filée en se trouvant sur un sol ouvragé, elle ne lance qu'un seul projectile.\n\n",
+        "Taliyah provoque l'éruption d'une zone du sol, ce qui projette les ennemis dans la direction de son choix.\n\n",
+        "Taliyah crée un champ de mines ralentissant qui explose si des ennemis effectuent une ruée, sont poussés ou sont tirés par-dessus.\n\n",
+        "Taliyah crée un très long mur et surfe ensuite dessus.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -1820,11 +1820,11 @@
     "Talon": {
       "story": "Talon est la dague cachée dans l'ombre, un assassin impitoyable, capable de frapper sans prévenir et de fuir avant que l'alerte ne soit donnée. Il a acquis une dangereuse réputation dans les brutales rues de Noxus, où il a été contraint de se battre, de tuer et de voler pour survivre. Adopté par la tristement célèbre famille Du Couteau, il use maintenant de ses talents au service de l'empire, assassinant les chefs, capitaines et héros ennemis... mais aussi tout Noxien qui aurait attiré l'ire de ses maîtres.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Talon blessent les champions et les grands monstres (cumulable 3 fois). Quand Talon lance une attaque de base sur un champion portant 3 effets Blessure, ce champion se met à saigner et subit d'importants dégâts sur la durée.\n\n",
+        "Talon poignarde l'unité ciblée. S'il est en mêlée, cette attaque inflige des dégâts critiques. S'il est à distance, Talon saute sur la cible avant de la poignarder. Talon regagne des PV et le délai de récupération est réduit si la compétence tue la cible.\n\n",
+        "Talon projette une volée de lames qui reviennent ensuite vers lui, infligeant des dégâts physiques à chaque fois qu'elles transpercent un ennemi. En revenant, les lames infligent des dégâts supplémentaires et ralentissent les unités touchées.\n\n",
+        "Talon saute par-dessus n'importe quel terrain ou bâtiment, jusqu'à une distance maximale. Cette compétence a un court délai de récupération, mais le terrain franchi a un long délai de récupération.\n\n",
+        "Talon projette des lames autour de lui et devient invisible, augmentant sa vitesse de déplacement. Quand Talon redevient visible, les lames reviennent vers lui. Chaque fois que les lames se déplacent, Assaut ténébreux inflige des dégâts physiques aux ennemis touchés par au moins une lame.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -1835,11 +1835,11 @@
     "Taric": {
       "story": "Taric est la Manifestation du Protecteur, doté d'un incroyable pouvoir en tant que gardien de la vie, de l'amour et de la beauté sur Runeterra. Couvert d'opprobre pour avoir abandonné son devoir et exilé de sa terre natale de Demacia, Taric a entrepris l'ascension du Mont Targon en quête de rédemption et s'est découvert une mission supérieure au sein des étoiles. Imprégné de la force antique de Targon, le Bouclier de Valoran monte désormais constamment la garde contre la corruption insidieuse du Néant.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Lancer des sorts renforce les 2 prochaines attaques de base de Taric, leur permettant d'infliger des dégâts magiques supplémentaires, de réduire les délais de récupération de ses sorts et de s'enchaîner rapidement.\n\n",
+        "Rend des PV aux champions alliés proches en fonction du nombre de charges stockées. Les attaques renforcées par Plastronneur octroient une charge de Bénédiction stellaire.\n\n",
+        "Augmente passivement l'armure de Taric et de tout champion allié affecté par Bastion. À l'activation, offre un bouclier à un allié et ce dernier bénéficie de l'effet Bastion aussi longtemps qu'il reste près de Taric. Les sorts de Taric se lancent également depuis l'allié affecté par Bastion.\n\n",
+        "Taric prépare un rayon de lumière stellaire qui, après un bref délai, inflige des dégâts magiques et étourdit les ennemis.\n\n",
+        "Après un délai, nimbe les champions alliés proches d'énergie cosmique, les rendant invulnérables pendant un court instant.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1850,11 +1850,11 @@
     "Teemo": {
       "story": "N'ayant pas peur de braver les obstacles les plus dangereux, Teemo explore le monde avec un enthousiasme débordant et une bonne humeur contagieuse. Yordle au sens moral inflexible, il suit fièrement les préceptes du Code des éclaireurs de Bandle, parfois avec tant d'empressement qu'il en oublie les conséquences néfastes de ses actions. Pour certains, l'existence même des éclaireurs est à remettre en cause. Mais ce qu'il ne faut surtout pas remettre en cause, ce sont les convictions de Teemo !\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Si Teemo reste immobile et sans agir pendant un court instant, il devient invisible indéfiniment. Dans les herbes hautes, Teemo peut activer et maintenir son invisibilité tout en se déplaçant. Quand il quitte son invisibilité, Teemo profite de l'Effet de surprise, augmentant sa vitesse d'attaque pendant quelques secondes.\n\n",
+        "Un puissant venin obscurcit la vue de l'ennemi, infligeant des dégâts à la cible et l'aveuglant pendant la durée de l'effet.\n\n",
+        "La vitesse de déplacement de Teemo est passivement augmentée jusqu'à ce qu'il soit frappé par un champion ennemi ou une tourelle ennemie. Teemo peut sprinter pour gagner un bonus temporaire en vitesse de déplacement qui n'est pas annulé si Teemo est touché.\n\n",
+        "Toutes les attaques de Teemo empoisonnent la cible, infligeant des dégâts à l'impact puis chaque seconde pendant 4 secondes.\n\n",
+        "Teemo se sert d'un des champignons stockés dans son sac à dos pour lancer un piège explosif. Si un ennemi marche sur le piège, un nuage empoisonné s'en échappe, ralentit les ennemis et leur inflige des dégâts sur la durée. Les champignons lancés sur d'autres champignons rebondissent et ont ainsi une plus grande portée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -1865,11 +1865,11 @@
     "Thresh": {
       "story": "Sadique mais rusé, Thresh est un ambitieux esprit des Îles obscures. Autrefois le gardien d'innombrables secrets des arcanes, il fut terrassé par un pouvoir plus grand que la vie ou la mort, et il s'alimente maintenant des souffrances et des tourments qu'il inflige à d'autres avec une inventivité cruelle. Les souffrances de ses victimes ne se limitent pas à leur enveloppe mortelle, car Thresh fait agoniser leurs âmes, les emprisonnant pour l'éternité dans sa lanterne impie.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Thresh peut collecter les âmes des ennemis qui meurent près de lui, augmentant définitivement son armure et sa puissance.\n\n",
+        "Thresh ligote un ennemi dans ses chaînes et l'attire vers lui. Activer cette compétence une deuxième fois attire Thresh vers l'ennemi.\n\n",
+        "Thresh lance une lanterne qui protège les champions alliés proches contre les dégâts. Les alliés peuvent cliquer sur la lanterne pour se ruer vers Thresh.\n\n",
+        "Les attaques de Thresh se chargent, infligeant davantage de dégâts s'il attend plus entre les attaques. À l'activation, Thresh effectue un fauchage avec sa chaîne, envoyant tous les ennemis touchés dans la direction du coup.\n\n",
+        "Une prison dont les murs ralentissent et blessent les ennemis qui les brisent.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1880,11 +1880,11 @@
     "Tristana": {
       "story": "Si bon nombre d'autres yordles utilisent leur énergie débordante pour explorer, découvrir, inventer ou plus simplement jouer de mauvais tours, Tristana a toujours puisé son inspiration dans les récits des grands guerriers. Elle avait beaucoup entendu parler de Runeterra, de ses factions et de ses guerres, et elle pensait que les yordles aussi avaient l'étoffe des légendes. Dès son arrivée dans ce monde, elle s'équipa de son fidèle canon Boomer pour se jeter au combat avec un courage et un optimisme sans bornes.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Augmente la portée d'attaque de Tristana quand elle gagne un niveau.\n\n",
+        "Tristana tire plus rapidement avec son arme ; sa vitesse d'attaque est augmentée temporairement.\n\n",
+        "Tristana pointe son arme vers le sol et tire pour se propulser jusqu'à une destination éloignée, infligeant des dégâts aux unités proches et les ralentissant pendant un court instant à l'atterrissage.\n\n",
+        "Lorsque Tristana élimine une unité, ses projectiles explosent et infligent des dégâts aux ennemis proches. Peut être activé pour placer sur une cible ennemie une bombe qui explose après un court moment, infligeant des dégâts aux unités proches.\n\n",
+        "Tristana charge un énorme boulet de canon dans son arme et tire sur une unité ennemie, ce qui inflige des dégâts magiques et repousse la cible. Si la cible porte une Charge explosive, le rayon de déflagration de la charge est doublé.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -1895,11 +1895,11 @@
     "Trundle": {
       "story": "Trundle est un troll massif, sournois et malicieux. Il n'y a rien qu'il ne puisse soumettre à sa volonté avec son gourdin, pas même Freljord. Extrêmement territorial, Trundle traque tous ceux qui sont assez fous pour pénétrer sur ses terres. Ensuite, armé de son imposante massue en glace pure, il fait trembler ses ennemis avant de leur planter des éclats de glace dans le corps et de se moquer d'eux tandis que la toundra absorbe leur sang.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand une unité ennemie meurt près de Trundle, il récupère un pourcentage des PV max de celle-ci.\n\n",
+        "Trundle mord un ennemi, lui infligeant des dégâts, le ralentissant un court instant et drainant ses dégâts d'attaque.\n\n",
+        "Trundle s'approprie la zone cible, augmentant sa vitesse d'attaque, sa vitesse de déplacement et les soins qu'il reçoit de toutes les sources.\n\n",
+        "Trundle crée une montagne de glace sur la zone cible, ce qui bloque le passage et ralentit les unités ennemies proches.\n\n",
+        "Trundle vole immédiatement un pourcentage des PV, de l'armure et de la résistance magique de sa cible. Ensuite, le nombre de PV, de points d'armure et de résistance magique volés double en 4 sec.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -1910,11 +1910,11 @@
     "Tryndamere": {
       "story": "Poussé par une rage infinie, Tryndamere traverse Freljord et parfait sa maîtrise du combat en défiant les plus grands guerriers du nord, pour se préparer aux jours sombres qui s'annoncent. Longtemps dominé par sa haine, il cherchait à se venger de l'annihilation de son clan, mais il a depuis rencontré Ashe et trouvé un nouveau foyer auprès des Avarosans. Sa force est pratiquement surhumaine et son courage légendaire, et cela lui a permis de remporter avec ses nouveaux alliés d'innombrables victoires plus qu'improbables.\n\n ",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Tryndamere gagne de la Fureur à chaque attaque, coup critique et coup de grâce qu'il inflige. La Fureur augmente passivement ses chances de coup critique et elle peut être utilisée par sa compétence Soif de sang.\n\n",
+        "Tryndamere s'épanouit lors des combats, ce qui accroît ses dégâts d'attaque au fur et à mesure qu'il subit des blessures. Il peut lancer Soif de sang pour consommer sa Fureur et se soigner.\n\n",
+        "Tryndamere lance un hurlement, réduisant les dégâts d'attaque des champions proches. De plus, les ennemis ayant le dos tourné voient leur vitesse de déplacement être réduite.\n\n",
+        "Tryndamere lance un coup de taille vers une unité ciblée, infligeant des dégâts aux ennemis sur son chemin.\n\n",
+        "La soif de combattre de Tryndamere devient si puissante qu'il ne peut pas mourir, quelles que soient les blessures qu'il subit.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
@@ -1925,11 +1925,11 @@
     "Twisted Fate": {
       "story": "Twisted Fate est un virtuose des cartes à la réputation ambiguë qui a parcouru le monde entier pour l'éblouir de son charme et de ses talents, s'attirant l'admiration et la haine des riches comme des pigeons. Il prend rarement les choses au sérieux, salue chaque nouveau jour avec un sourire moqueur et insouciant. Twisted a toujours un atout dans sa manche, au propre comme au figuré.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand il tue une unité, Twisted Fate lance son dé ''porte-bonheur'' et reçoit entre 1 et 6 PO supplémentaires.\n\n",
+        "Twisted Fate tire trois cartes qui infligent des dégâts à toutes les unités qu'elles transpercent.\n\n",
+        "Twisted Fate choisit une carte dans son paquet et l'utilise pour l'attaque suivante, gagnant des effets supplémentaires.\n\n",
+        "Twisted Fate inflige des dégâts supplémentaires toutes les 4 attaques. En outre, sa vitesse d'attaque est augmentée.\n\n",
+        "Twisted Fate prédit le destin de ses ennemis, révélant les champions ennemis et permettant d'utiliser Portail, ce qui téléporte Twisted Fate à un endroit de la carte en 1,5 sec.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 15
@@ -1940,11 +1940,11 @@
     "Twitch": {
       "story": "Rat de Zaun, pesteux de naissance, connaisseur en saleté par passion, Twitch n'a pas peur de se salir les pattes. Armé d'une arbalète chimique qu'il pointe droit sur le cœur de Piltover, Twitch s'est juré de montrer aux gens de la surface à quel point ils sont vraiment sales. Toujours furtif et insaisissable, quand il ne traîne pas dans le Puisard, il fouille dans les déchets à la recherche de trésors qu'il est le seul à apprécier... ou d'un morceau de sandwich.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Twitch contaminent sa cible, lui infligeant des dégâts bruts chaque seconde.\n\n",
+        "Twitch se camoufle pendant un court instant et sa vitesse de déplacement est augmentée. Quand il quitte son camouflage, sa vitesse d'attaque est augmentée pendant un court instant. Quand un champion ennemi affecté par Venin mortel meurt, le délai de récupération d'Embuscade prend fin.\n\n",
+        "Twitch projette une dose de venin qui explose sur une zone, ralentissant les cibles et leur infligeant Venin mortel.\n\n",
+        "Twitch contamine encore plus les ennemis empoisonnés avec de terribles maladies.\n\n",
+        "Twitch libère toute la puissance de son arbalète, tirant des carreaux à longue portée qui transpercent tous les ennemis touchés.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
