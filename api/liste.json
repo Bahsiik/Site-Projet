@@ -1355,11 +1355,11 @@
     "Pyke": {
       "story": "Harponneur renommé des quais-abattoirs de Bilgewater, Pyke aurait dû trouver la mort dans le ventre d'une énorme créature marine… et pourtant, il est revenu. À présent, il écume les ruelles sombres de son ancien port d'attache, utilisant ses dons surnaturels pour assassiner brutalement les riches exploiteurs du peuple. Bilgewater, la ville des chasseurs de monstres, est devenue le terrain de chasse d'un monstre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Pyke n'est pas vu par les ennemis, il régénère les dégâts que les champions lui ont récemment infligés. Par ailleurs, Pyke ne peut pas augmenter ses PV max ; tous ses PV supplémentaires sont convertis en dégâts d'attaque.\n\n",
+        "Pyke poignarde un ennemi devant lui ou attire un ennemi vers lui.\n\n",
+        "Pyke se camoufle et obtient un important bonus en vitesse de déplacement qui diminue sur la durée.\n\n",
+        "Pyke fonce dans une direction et laisse derrière lui un fantôme de noyé qui reviendra vers lui en étourdissant les champions ennemis sur son passage.\n\n",
+        "Pyke fonce sur les ennemis qui ont peu de PV et les exécute, ce qui lui permet de relancer ce sort et d'octroyer des PO supplémentaires à un allié qui l'assiste.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1370,11 +1370,11 @@
     "Qiyana": {
       "story": "Dans la ville d'Ixaocan, perdue dans la jungle, Qiyana complote pour obtenir au prix du sang le siège révéré des Yun Tal. Dernière dans l'ordre de la succession, elle affronte ceux qui sont sur son chemin avec une absolue confiance en elle et une maîtrise exceptionnelle de la magie élémentaire. La terre elle-même obéit à ses ordres et Qiyana se considère comme la plus grande élémentaliste de l'histoire d'Ixaocan. À ce titre, elle pense mériter, non une ville, mais un empire.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "La première compétence ou attaque de base de Qiyana contre un ennemi inflige des dégâts supplémentaires.\n\n",
+        "Qiyana frappe avec son arme, infligeant des dégâts et un effet supplémentaire selon son élément.\n\n",
+        "Qiyana se rue vers la zone ciblée et enchante son arme avec un élément. Ses attaques et ses compétences infligent des dégâts supplémentaires quand son arme est enchantée.\n\n",
+        "Qiyana se rue sur un ennemi et lui inflige des dégâts.\n\n",
+        "Qiyana envoie une onde de choc qui provoque une explosion en touchant un élément, ce qui étourdit et blesse les ennemis proches.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1385,11 +1385,11 @@
     "Quinn": {
       "story": "Quinn est un chevalier-éclaireur d'élite de Demacia qui se spécialise dans les missions d'infiltration en territoire ennemi. Avec son aigle de légende, Valor, elle forme un duo inséparable dont les proies rendent souvent l'âme avant même de comprendre qu'elles affrontaient non pas un, mais deux héros demaciens. D'une grande agilité quand la situation l'impose, Quinn pointe son arbalète sur l'ennemi pendant que Valor survole le terrain et marque les cibles évasives, pour une efficacité meurtrière sur le champ de bataille.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Valor, l'aigle demacien de Quinn, marque périodiquement des ennemis, les rendant vulnérables. La première attaque de base de Quinn contre une cible vulnérable inflige des dégâts physiques supplémentaires.\n\n",
+        "Quinn fait appel à Valor pour marquer un ennemi et limiter sa vision avant de blesser tous les ennemis proches.\n\n",
+        "Confère passivement de plus grandes vitesses d'attaque et de déplacement à Quinn lorsqu'elle a attaqué un ennemi vulnérable. Activer pour que Valor révèle une large zone proche.\n\n",
+        "Quinn charge un ennemi, lui infligeant des dégâts physiques et réduisant sa vitesse de déplacement. Après avoir atteint sa cible, elle prend appui sur celle-ci, l'interrompt brièvement et se projette en arrière sur une distance équivalente à sa portée d'attaque max.\n\n",
+        "Quinn et Valor s'unissent pour voler à grande vitesse. Mettre fin à la compétence lance Volée fatale, qui inflige des dégâts aux ennemis proches et rend les champions vulnérables.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1400,11 +1400,11 @@
     "Rakan": {
       "story": "Aussi lunatique qu'il est charmeur, Rakan est un trublion vastaya tristement célèbre, et le plus grand danseur guerrier de l'histoire de la tribu Lhotla. Pour les humains qui vivent dans les hautes terres d'Ionia, son nom est depuis longtemps synonyme de festivals endiablés, de fêtes déraisonnables et de musique anarchique. Peu de gens savent cependant que cet histrion ambulant est également le partenaire de Xayah, la rebelle, dont il défend avec ferveur la cause.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Rakan gagne périodiquement un bouclier.\n\n",
+        "Rakan tire une plume magique qui inflige des dégâts magiques. Frapper un champion ou un monstre épique permet à Rakan de soigner ses alliés.\n\n",
+        "Rakan fonce vers l'endroit ciblé, projetant en l'air les ennemis proches de son point d'arrivée.\n\n",
+        "Rakan s'envole vers un champion allié en lui octroyant un bouclier. La compétence peut être relancée sans coût pendant un court instant.\n\n",
+        "Rakan augmente sa vitesse de déplacement, charme les ennemis touchés et leur inflige des dégâts magiques.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -1415,11 +1415,11 @@
     "Rammus": {
       "story": "Beaucoup l'idolâtrent, certains le méprisent, mais tous restent perplexes devant l'énigmatique Rammus. Protégé par une carapace cloutée, il inspire des théories de plus en plus variées sur ses origines : demi-dieu, oracle, simple bête transformée par la magie... Quelle que soit la vérité, Rammus n'est pas très bavard et ne s'arrête pour personne tandis qu'il parcourt le désert de Shurima.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Rammus infligent des dégâts magiques supplémentaires qui augmentent avec son armure.\n\n",
+        "Rammus fonce comme une balle vers les ennemis, infligeant des dégâts et ralentissant les cibles touchées.\n\n",
+        "Rammus prend une posture défensive. Son armure et sa résistance magique sont grandement augmentées, les dégâts de Carapace cloutée sont augmentés et Rammus renvoie des dégâts aux ennemis qui lui lancent des attaques de base, mais il est ralenti.\n\n",
+        "Rammus provoque un champion ennemi ou un monstre, l'obligeant à s'acharner contre sa carapace. Il augmente aussi sa vitesse d'attaque pendant un court instant, mais ce bonus est prolongé quand n'importe quel autre de ses sorts est actif.\n\n",
+        "Rammus bondit dans les airs et retombe violemment à l'endroit ciblé, ce qui inflige des dégâts magiques et ralentit les ennemis. Si Frappe ascendante est lancée alors que Démolisseur est actif, les ennemis près du centre de la zone sont également projetés dans les airs.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -1430,11 +1430,11 @@
     "Rek'Sai": {
       "story": "Rek'Sai est une créature prédatrice – la plus imposante et la plus féroce de son espèce – qui se déplace sous terre pour surprendre ses proies. Sa faim insatiable a ravagé des régions entières de Shurima à l'époque où cet empire était encore florissant. Les marchands et les caravanes armées faisaient des détours de plusieurs kilomètres pour rester loin de ses terres. Dès lors que Rek'Sai vous a repéré, votre sort est scellé. Nul ne peut lui échapper ; elle est la mort qui surgit du sable.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Rek'Sai génère de la Fureur avec ses attaques et quand elle frappe un ennemi avec une compétence de base. Quand elle est enfouie, elle consomme sa Fureur pour récupérer ses PV.\n\n",
+        "Les 3 prochaines attaques de base de Rek'Sai infligent des dégâts physiques supplémentaires aux ennemis proches. Enfouie, Rek'Sai tire un projectile chargé en énergie du Néant qui inflige des dégâts physiques aux ennemis touchés, en plus de les révéler.\n\n",
+        "Rek'Sai plonge sous terre, gagnant de nouvelles compétences et augmentant sa vitesse de déplacement. La portée de sa vision est réduite et elle ne peut plus lancer d'attaque de base. Enfouie, Rek'Sai peut utiliser Jaillissement pour projeter en l'air et blesser les ennemis proches.\n\n",
+        "Rek'Sai mord sa cible, infligeant le double de dégâts et des dégâts bruts si sa jauge de Fureur est pleine. Enfouie, Rek'Sai crée un tunnel durable et réutilisable. Les ennemis peuvent le détruire en se tenant sur l'une des entrées.\n\n",
+        "Rek'Sai marque passivement ses cibles en leur infligeant des dégâts. Elle peut activer cette compétence pour devenir brièvement impossible à cibler et bondir sur une cible marquée, infligeant d'importants dégâts selon les PV manquants de cette cible.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -1445,11 +1445,11 @@
     "Rell": {
       "story": "Changée en arme vivante par les expériences brutales de l'académie de la Rose noire, Rell est aujourd'hui déterminée à détruire Noxus. Son enfance a été particulièrement horrible ; on lui a fait subir des choses atroces afin de perfectionner ses capacités magiques de manipulation du métal... jusqu'à ce qu'elle réussisse à s'échapper en tuant beaucoup de ses ravisseurs au passage. Désormais considérée comme une criminelle, Rell s'attaque aux soldats noxiens tout en recherchant les survivants de son ancienne « académie ». Bien qu'elle défende les faibles, elle tuera sans pitié ses anciens tortionnaires.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Rell attaque lentement, mais elle vole une partie de l'armure et de la résistance magique de sa cible à l'impact et elle inflige des dégâts supplémentaires selon le montant volé.\n\n",
+        "Rell donne un coup d'estoc pour infliger des dégâts magiques aux unités sur une ligne et briser leurs boucliers. La première unité touchée subit également le vol de défense de Mise en pièces. Si Rell est liée à un allié avec Magnétisme, tous deux récupèrent des PV pour chaque champion ennemi touché par cette compétence.\n\n",
+        "Passive : quand elle est à cheval, Rell gagne de la vitesse de déplacement bonus. Quand elle est en armure, elle gagne de l'armure et de la résistance magique bonus. Active : Rell change de forme et lance une compétence différente selon sa forme actuelle. À cheval : Rell s'abat au sol dans son armure, projetant dans les airs les ennemis et gagnant un solide bouclier. En armure : Rell recrée son destrier, gagnant un bref bonus de vitesse et projetant derrière elle le prochain ennemi qu'elle attaque.\n\n",
+        "Rell lie un élément de son armure à un champion allié pour lui offrir de l'armure et de la résistance magique tant qu'il est proche d'elle. Tant que Rell est liée de cette manière à un allié, elle peut réactiver cette compétence sans cibler de champion allié pour casser le lien, ce qui étourdit les ennemis pris dans la zone d'effet.\n\n",
+        "Rell explose en une fureur magnétique, attirant violemment les ennemis proches. Elle attire ensuite continuellement les ennemis proches pendant un bref instant, leur infligeant des dégâts magiques sur la durée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 2
@@ -1460,11 +1460,11 @@
     "Renekton": {
       "story": "Originaire du désert brûlant de Shurima, Renekton est un Transfiguré terrifiant animé par la rage. Il était autrefois le guerrier le plus respecté de l'empire de Shurima, dont il avait mené les armées vers la victoire à maintes reprises. Cependant, après la chute de l'empire, Renekton fut enseveli sous les sables. Petit à petit, alors que le monde changeait, il sombra dans la démence. Désormais libre, son unique souhait est de retrouver et de tuer son frère Nasus qui, croit-il dans sa folie, est responsable des siècles qu'il a passés dans les ténèbres.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de Renekton génèrent de la Fureur, et encore plus quand il lui reste peu de PV. Cette Fureur peut renforcer ses compétences en leur conférant des effets supplémentaires.\n\n",
+        "Renekton lance une attaque circulaire, infligeant des dégâts physiques modérés à tous les ennemis qui l'entourent et se soignant d'un montant égal à une petite portion des dégâts infligés. S'il a plus de 50 pts de Fureur, les dégâts et les soins augmentent.\n\n",
+        "Renekton frappe deux fois la cible en infligeant des dégâts physiques modérés et en l'étourdissant pendant 0,75 sec. Si Renekton a plus de 50 pts de Fureur, il frappe la cible trois fois, détruisant instantanément tout bouclier anti-dégâts se trouvant sur elle, lui infligeant de lourds dégâts physiques et l'étourdissant pendant 1,5 sec.\n\n",
+        "Renekton charge et inflige des dégâts à toutes les unités sur son chemin. S'il a plus de 50 pts de Fureur, Renekton inflige des dégâts supplémentaires et réduit l'armure des unités touchées.\n\n",
+        "Renekton prend sa Forme de tyran et profite de PV supplémentaires ; il inflige également des dégâts à tous les ennemis qui l'entourent. Tant qu'il est en Forme de tyran, Renekton gagne périodiquement de la Fureur.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -1475,11 +1475,11 @@
     "Rengar": {
       "story": "Rengar est un féroce Vastaya chasseur de trophées qui ne vit que pour le frisson de la traque et de l'élimination des proies les plus dangereuses. Il parcourt le monde à la recherche des bêtes les plus féroces, et surtout de Kha'Zix, la créature du Néant qui lui a fait perdre un œil. Rengar ne piste ses proies ni pour la nourriture ni pour la gloire, mais pour la beauté de la poursuite en elle-même.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Rengar est dans les hautes herbes, son attaque de base le fait bondir sur un ennemi. Bondir en ayant 0 pt de Férocité génère de la Férocité. Au maximum de Férocité, sa prochaine compétence est renforcée. Lancer une compétence renforcée augmente la vitesse de déplacement de Rengar pendant quelques secondes. Tuer des champions ennemis ajoute des trophées au Collier de dents de Rengar, ce qui augmente ses dégâts d'attaque.\n\n",
+        "La prochaine attaque de Rengar poignarde brutalement sa cible pour lui infliger des dégâts supplémentaires. Férocité : inflige encore plus de dégâts et augmente la vitesse d'attaque de Rengar.\n\n",
+        "Rengar émet un rugissement qui inflige des dégâts aux ennemis et lui permet de récupérer des PV équivalents à une partie des dégâts qu'il a subis récemment. Férocité : brise également les effets de contrôle de foule.\n\n",
+        "Rengar lance des bolas, ralentissant la première cible touchée pendant un court instant. Férocité : immobilise la cible.\n\n",
+        "Rengar fait appel à tous ses sens de prédateur. Il se camoufle et révèle le champion ennemi le plus proche à une très longue distance. Pendant Chasseur-né, Rengar gagne de la vitesse de déplacement, peut bondir sur l'ennemi traqué sans avoir à être dans les hautes herbes et réduit l'armure de sa cible.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -1490,11 +1490,11 @@
     "Riven": {
       "story": "Autrefois soldat d'un régiment de Noxus, Riven est désormais expatriée dans un pays qu'elle avait elle-même tenté d'envahir. Elle s'est naguère élevée dans la hiérarchie grâce à sa force de conviction et à son efficacité brutale : sa récompense fut de commander ses propres troupes, armée d'une épée runique légendaire. Cependant, sur le front ionien, la foi de Riven en sa terre natale a vacillé avant de rompre. Ayant tranché tous ses liens avec l'empire, elle cherche désormais sa place dans un monde blessé, alors même que, d'après les rumeurs, Noxus a retrouvé sa vigueur d'antan…\n\n ",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Riven chargent sa lame, ce qui permet à ses attaques de base d'infliger des dégâts supplémentaires en consommant des charges.\n\n",
+        "Riven se déchaîne et lance une série de coups. Cette compétence peut être réactivée trois fois pendant une courte période et le troisième coup repousse les ennemis proches.\n\n",
+        "Riven lance une décharge de ki, blessant et étourdissant les ennemis proches.\n\n",
+        "Riven avance sur une courte distance et bloque des dégâts.\n\n",
+        "Riven renforce son arme avec de l'énergie, augmentant ses dégâts d'attaque et sa portée. Pendant la durée de cet effet, Riven peut utiliser une fois Taillade du vent, une puissante attaque à distance.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
