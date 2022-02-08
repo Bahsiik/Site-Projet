@@ -1955,11 +1955,11 @@
     "Udyr": {
       "story": "Plus qu'un simple mortel, Udyr est le réceptacle de la puissance sauvage de quatre esprits animaux primitifs. Quand Udyr cherche en lui les esprits féroces de la nature, il libère leur force exceptionnelle : la vitesse et la férocité du tigre, la résistance de la tortue, la force de l'ours et la flamme éternelle du phénix. En unissant ces esprits, Udyr est capable de défaire quiconque s'opposerait aux forces de la nature.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Udyr gagne des bonus cumulables en vitesse de déplacement et en vitesse d'attaque après avoir utilisé une compétence. Udyr possède quatre compétences de base qu'il peut utiliser pour changer de posture. Changer de posture met immédiatement fin aux propriétés passives et à l'impact de la posture.\n\n",
+        "Posture du tigre : Activation - La vitesse d'attaque d'Udyr est augmentée pendant quelques secondes. Effet persistant - Lors de sa première attaque puis toutes les trois attaques, Udyr inflige des dégâts importants en 2 sec.\n\n",
+        "Posture de la tortue : Activation - Udyr profite d'un bouclier temporaire qui absorbe les dégâts. Effet persistant - Lors de sa première attaque puis toutes les trois attaques, Udyr récupère 2,5% de ses PV max.\n\n",
+        "Posture de l'ours : Activation - La vitesse de déplacement d'Udyr augmente pendant un court instant. Effet persistant - Les attaques de base d'Udyr étourdissent la cible pendant 1 sec. Cet effet ne peut pas être infligé à la même cible pendant quelques secondes.\n\n",
+        "Posture du phénix : Activation - Udyr envoie des vagues de feu infligeant des dégâts aux ennemis proches. Effet persistant - Lors de sa première attaque puis toutes les trois attaques, Udyr projette des flammes sur les ennemis en face de lui.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1970,11 +1970,11 @@
     "Urgot": {
       "story": "Autrefois, Urgot était un puissant bourreau noxien. Il fut trahi par l'empire pour lequel il avait tant tué. Ceint de chaînes de fer, il fut contraint d'apprendre le vrai sens de la force dans les Oubliettes, une mine de forçats située dans les profondeurs de Zaun. Il put émerger à l'occasion d'un désastre qui jeta toute la ville dans le chaos. À présent, son ombre imposante s'étend dans son empire criminel souterrain. Levant sur ses victimes les chaînes qui le maintenaient naguère en esclavage, il veut purger son nouveau foyer, nouvelle croisée des douleurs, de tous ceux qu'il en estime indignes.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base et Géhenne d'Urgot font jaillir des jets de flammes de ses jambes, infligeant des dégâts physiques.\n\n",
+        "Tire une torpille dans la zone ciblée. L'explosion inflige des dégâts physiques aux ennemis et les ralentit.\n\n",
+        "Urgot ralentit tout en déchargeant son arme sur les ennemis proches. Il vise en priorité les champions ennemis qu'il a récemment frappés avec d'autres compétences et il déclenche Flammes purificatrices.\n\n",
+        "Urgot fonce dans une direction, s'entoure d'un bouclier et piétine les ennemis sur son passage (hors champions). S'il percute un champion ennemi, il s'arrête et le projette hors de son chemin.\n\n",
+        "Urgot tire un trépan qui empale le premier champion ennemi touché. Si ce champion tombe sous un certain seuil de PV, Urgot considère qu'il est trop faible et peut l'exécuter.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -1985,11 +1985,11 @@
     "Varus": {
       "story": "Membre de la race antique des Darkin, Varus était en son temps un assassin cruel qui aimait torturer ses ennemis, les conduisant jusqu'aux portes de la folie avant de les achever d'une flèche. À la fin de la Guerre des Darkin, il fut emprisonné. Des siècles plus tard, il s'évada en utilisant la chair recomposée de deux chasseurs d'Ionia : l'ayant relâché par imprudence, ils furent condamnés à porter l'arc lié à l'essence de Varus. Varus traque désormais ceux qui l'ont enfermé pour se venger, mais les âmes des mortels à l'intérieur de lui s'opposent à ses desseins de toutes leurs forces.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand il tue un ennemi ou quand il réussit une assistance, Varus augmente temporairement sa vitesse d'attaque. Ce bonus est plus important si l'ennemi tué est un champion.\n\n",
+        "Varus effectue un tir puissant dont les dégâts et la portée augmentent avec la durée de la charge.\n\n",
+        "Passive : les attaques de base de Varus infligent des dégâts magiques supplémentaires ainsi que Meurtrissure. Les autres compétences de Varus déclenchent Meurtrissure, infligeant des dégâts magiques en fonction des PV max de la cible. Active : Varus renforce sa prochaine Flèche perforante.\n\n",
+        "Varus tire une pluie de flèches qui inflige des dégâts physiques et souille le sol. Le sol souillé réduit la vitesse de déplacement des ennemis et réduit les soins qu'ils reçoivent et leur régénération.\n\n",
+        "Varus lance une vrille de corruption qui blesse et immobilise le premier champion ennemi touché et qui se propage ensuite vers les champions non infectés proches, les immobilisant eux aussi en les touchant.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -2000,11 +2000,11 @@
     "Vayne": {
       "story": "Shauna Vayne est une chasseuse de monstres mortelle et sans scrupule. Originaire de Demacia, elle voue sa vie à la destruction du démon qui a assassiné sa famille. Armée d'une arbalète montée sur son poignet et dotée d'un cœur rongé par le désir de vengeance, elle n'est heureuse que quand elle assassine les praticiens ou les créations des arts obscurs en les frappant depuis l'ombre avec une volée de carreaux d'argent.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Vayne traque sans relâche les êtres malfaisants, gagnant +30 vitesse de déplacement vers les champions ennemis proches.\n\n",
+        "Vayne fait une roulade et se positionne pour mieux viser. Sa prochaine attaque inflige des dégâts supplémentaires.\n\n",
+        "Vayne trempe ses carreaux dans de l'argent, un métal nocif pour les êtres maléfiques. La troisième attaque ou compétence consécutive contre une même cible inflige un pourcentage des PV max de la cible sous forme de dégâts bruts supplémentaires.\n\n",
+        "Vayne prend l'arbalète qu'elle porte sur le dos et tire un carreau gigantesque sur sa cible, lui infligeant des dégâts et la projetant en arrière. Si la cible percute le décor, elle est empalée, ce qui lui inflige des dégâts supplémentaires et l'étourdit.\n\n",
+        "Vayne se prépare à un combat épique ; ses dégâts d'attaque augmentent, elle devient invisible pendant Roulade, le délai de récupération de Roulade est réduit et le bonus de vitesse de Chasseur nocturne est augmenté.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 14
@@ -2015,11 +2015,11 @@
     "Veigar": {
       "story": "Maître enthousiaste de la magie noire, Veigar s'est approprié des pouvoirs que peu de mortels osent approcher. Habitant de Bandle à l'esprit libre, il veut repousser les limites de la magie yordle et se tourner vers les textes arcaniques qui sont restés cachés des millénaires. Fasciné jusqu'à l'obstination par les mystères de l'univers, Veigar est souvent sous-estimé par les gens qui l'entourent. Bien qu'il se croie fondamentalement maléfique, il possède une moralité qui le mène à s'interroger sur ses motivations.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Veigar est le plus grand mal qui ait jamais frappé Runeterra, et son pouvoir est encore en pleine croissance ! Frapper un champion ennemi avec un sort, tuer un champion ou effectuer une assistance octroie à Veigar un bonus permanent en puissance.\n\n",
+        "Veigar lance une boule d'énergie des ténèbres, infligeant des dégâts magiques aux deux premiers ennemis touchés. Les unités tuées par ce sort confèrent à Veigar un gain de puissance permanent.\n\n",
+        "Veigar fait tomber de la matière noire pour infliger des dégâts magiques à ses adversaires. Les effets Pouvoir maléfique phénoménal cumulés réduisent le délai de récupération de Matière noire.\n\n",
+        "Veigar distord l'espace dans la zone ciblée, créant une cage qui étourdit les ennemis qui la traversent.\n\n",
+        "Lance de l'énergie explosive sur le champion ennemi ciblé, infligeant d'importants dégâts magiques qui augmentent avec les PV manquants de la cible.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -2030,11 +2030,11 @@
     "Vel'Koz": {
       "story": "On ne sait pas trop si Vel'Koz fut le premier monstre du Néant à émerger à Runeterra, mais il est certain qu'aucun autre n'a jamais égalé la froideur calculatrice de sa cruauté. Alors que ses semblables dévorent ou profanent tout ce qui les entoure, il cherche à étudier le royaume physique et les étranges êtres belliqueux qui l'habitent. Selon lui, c'est ainsi que le Néant trouvera comment exploiter leurs faiblesses. Mais Vel'Koz n'est pas qu'un observateur passif. Il répond à toute menace avec des éruptions mortelles de plasma ou en déchirant le tissu même du monde.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les compétences de Vel'Koz appliquent des effets Décomposition organique aux ennemis touchés. À 3 effets cumulés, l'ennemi subit une explosion de dégâts bruts.\n\n",
+        "Vel'Koz tire un projectile de plasma qui se divise en deux quand il touche un ennemi ou quand le sort est réactivé. Le projectile ralentit et blesse à l'impact.\n\n",
+        "Vel'Koz ouvre une faille vers le Néant, infligeant des dégâts initiaux. Après un court délai, la faille explose et inflige des dégâts secondaires.\n\n",
+        "Vel'Koz provoque une explosion dans une zone, projetant les ennemis dans les airs et repoussant légèrement les ennemis proches.\n\n",
+        "Vel'Koz tire un rayon canalisé qui suit le curseur pendant 2,5 sec et inflige des dégâts magiques. Les champions ennemis qui sont des sujets d'étude (affectés par Décomposition organique) subissent à la place des dégâts bruts.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -2045,11 +2045,11 @@
     "Vex": {
       "story": "Au cœur des terribles Îles obscures et de leur brume spectrale, une yordle solitaire se complaît dans son malheur. Vex se protège de la gaieté, de l'excitation et des gens « normaux » dont le monde extérieur regorge grâce à une dose inépuisable d'apitoiement et à une ombre puissante. Même si l'ambition lui fait défaut, on peut compter sur elle pour ternir le bonheur des autres et éloigner tous ceux qui voudraient l'approcher avec sa morosité magique.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Vex est régulièrement renforcée, ce qui permet à sa prochaine compétence de base d'effrayer les ennemis et d'interrompre les ruées. Chaque fois qu'un ennemi proche fait une ruée, Vex applique une marque qui, si elle est consommée, inflige des dégâts supplémentaires et réduit le délai de récupération du renforcement.\n\n",
+        "Vex lance un projectile qui inflige des dégâts et qui accélère pendant son vol.\n\n",
+        "Vex gagne un bouclier et blesse les ennemis proches.\n\n",
+        "Vex invoque une zone qui blesse et ralentit les ennemis en plus d'appliquer Désespoir sur eux.\n\n",
+        "Vex tire un projectile qui marque un champion ennemi. Elle peut réactiver cette compétence pour se ruer sur cet ennemi et lui infliger des dégâts.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 2
@@ -2060,11 +2060,11 @@
     "Vi": {
       "story": "Autrefois criminelle des quartiers louches de Zaun, Vi est une femme sans peur, mais pas sans reproche, au tempérament bouillant, impulsive, qui n'a qu'un respect mesuré pour les représentants de l'autorité. Vi a grandi seule et a développé d'excellents instincts de survie ainsi qu'un sens de l'humour assez caustique. Aujourd'hui, elle travaille avec les gendarmes de Piltover pour maintenir l'ordre et se sert pour cela de puissants gantelets Hextech qui n'ont peur de frapper ni les plus épais murs de briques ni les suspects.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Vi charge un bouclier sur la durée. Le bouclier peut être activé en frappant un ennemi avec une compétence.\n\n",
+        "Vi charge ses gants et balance un coup de poing destructeur qui l'entraîne vers l'avant. Les ennemis touchés sont repoussés et subissent un effet Coups fracassants.\n\n",
+        "Les coups de poing de Vi brisent l'armure de son adversaire, infligeant des dégâts supplémentaires et augmentant sa vitesse d'attaque.\n\n",
+        "La prochaine attaque de Vi traversera sa cible, infligeant des dégâts aux ennemis qui se trouvent derrière.\n\n",
+        "Vi fonce sur un ennemi, écartant ceux qui sont sur son passage. Quand elle atteint sa cible, elle la projette dans les airs, saute par-dessus et la renvoie au sol.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -2075,11 +2075,11 @@
     "Viego": {
       "story": "Autrefois souverain d'un royaume perdu depuis longtemps, Viego mourut il y a plus de mille ans lorsqu'il tenta de ramener sa femme d'entre les morts. Cela causa la catastrophe magique connue sous le nom de la Ruine. Devenu un puissant spectre torturé par le désir obsessionnel de retrouver sa reine morte depuis des siècles, Viego est désormais le Roi déchu. Il contrôle la Nuit de l'horreur et parcourt Runeterra pour trouver un moyen de ramener sa bien-aimée, détruisant tout sur son passage avec la Brume noire qui se répand inlassablement depuis son cœur brisé et cruel.\n\n  ",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les ennemis qui meurent devant Viego deviennent des spectres. Quand il attaque un spectre, Viego prend temporairement le contrôle du corps de l'ennemi mort, récupérant un pourcentage des PV max de la cible et gagnant l'accès à ses compétences de base et à ses objets. Viego ne gagne pas l'accès à l'ultime de la cible, mais peut lancer son propre ultime gratuitement.\n\n",
+        "La lame spectrale de Viego inflige passivement un pourcentage des PV actuels de la cible en dégâts supplémentaires à l'impact et frappe deux fois les ennemis qu'il a récemment touchés avec une compétence, leur volant au passage des PV. Viego peut activer cette compétence pour donner un coup d'estoc, empalant ainsi les ennemis devant lui.\n\n",
+        "Viego charge son attaque avant de se ruer vers l'avant, projetant une boule de Brume noire concentrée qui étourdit le premier ennemi touché.\n\n",
+        "Viego ordonne à la Brume noire de hanter et entourer un élément de terrain. Viego peut se cacher dans la Brume sous forme de spectre, ce qui le camoufle et augmente ses vitesses de déplacement et d'attaque.\n\n",
+        "Viego se téléporte à un endroit proche et exécute un champion ennemi à l'arrivée, lui transperçant le cœur et provoquant une onde de choc destructrice qui repousse les alliés de cet ennemi.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 3
@@ -2090,11 +2090,11 @@
     "Viktor": {
       "story": "Héraut d'un nouvel âge de technologie, Viktor a consacré sa vie aux progrès de l'humanité. Idéaliste cherchant à hisser le peuple de Zaun à de nouveaux sommets de compréhension, il pense que le potentiel de l'humanité ne pourra être réalisé que par le grand pas en avant d'une glorieuse évolution technologique. Doté d'un corps optimisé par l'acier et la science, Viktor poursuit fanatiquement son idéal d'un meilleur avenir.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Viktor peut faire évoluer ses compétences de base quand il tue des champions ennemis.\n\n",
+        "Viktor inflige des dégâts magiques à une unité ennemie, obtient un bouclier et renforce sa prochaine attaque de base. Amélioration : le bouclier de Siphonnage est augmenté de 60% et Viktor augmente sa vitesse de déplacement après avoir lancé le sort.\n\n",
+        "Viktor crée un champ gravitationnel qui ralentit les ennemis dans son rayon d'action. Les ennemis qui restent trop longtemps dans le champ sont étourdis. Amélioration : les compétences non périodiques de Viktor ralentissent les ennemis touchés.\n\n",
+        "Viktor utilise son bras robotique pour tirer un rayon chaotique en ligne droite, infligeant des dégâts à tous les ennemis sur son passage. Amélioration : le rayon provoque une explosion dans son sillage, infligeant des dégâts magiques.\n\n",
+        "Viktor crée une anomalie dans une zone, infligeant des dégâts magiques et interrompant les canalisations ennemies. L'anomalie inflige ensuite périodiquement des dégâts magiques à tous les ennemis proches. Viktor peut déplacer l'anomalie. Amélioration : Tempête du chaos se déplace 25% plus vite.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
