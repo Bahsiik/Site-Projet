@@ -2105,11 +2105,11 @@
     "Vladimir": {
       "story": "Héraut d'un nouvel âge de technologie, Viktor a consacré sa vie aux progrès de l'humanité. Idéaliste cherchant à hisser le peuple de Zaun à de nouveaux sommets de compréhension, il pense que le potentiel de l'humanité ne pourra être réalisé que par le grand pas en avant d'une glorieuse évolution technologique. Doté d'un corps optimisé par l'acier et la science, Viktor poursuit fanatiquement son idéal d'un meilleur avenir.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Vladimir gagne 1 pt de puissance tous les 30 PV bonus, et 1,6 PV bonus tous les 1 pt de puissance (ces effets ne se cumulent pas entre eux).\n\n",
+        "Vladimir vole les PV de l'ennemi ciblé. Quand la jauge de ressource de Vladimir est pleine, Transfusion infligera beaucoup plus de dégâts et rendra beaucoup plus de PV pendant un court instant.\n\n",
+        "Vladimir plonge dans une flaque de sang, devenant impossible à cibler pendant 2 sec. Les ennemis dans la flaque sont ralentis et Vladimir peut aspirer leur vie.\n\n",
+        "Vladimir dépense ses propres PV pour charger un orbe de sang qui, une fois lâché, infligera des dégâts de zone autour de lui. Les Vagues de sang peuvent être bloquées par les unités ennemies.\n\n",
+        "Vladimir contamine une zone avec une peste virulente. Les ennemis infectés subissent plus de dégâts pendant la durée du sort. Après quelques secondes, Peste sanguine inflige des dégâts magiques aux ennemis infectés et rend des PV à Vladimir pour chaque champion ennemi touché.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
@@ -2120,11 +2120,11 @@
     "Volibear": {
       "story": "Pour ceux qui le vénèrent encore, Volibear est l'incarnation de la tempête. Destructeur, sauvage et déterminé, il existait bien avant que les mortels n'arpentent la toundra de Freljord ; désormais, il défend férocement les terres qu'il a créées avec sa famille de demi-dieux. Habité d'une haine profonde envers la civilisation et la faiblesse qu'elle a engendrée, il se bat à coups de crocs et de griffes pour restaurer les traditions d'autrefois, celles du temps où la terre était sauvage et où le sang coulait librement.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques et les compétences de Volibear augmentent sa vitesse d'attaque. Au bout d'un moment, ses attaques infligent des dégâts magiques supplémentaires aux ennemis proches.\n\n",
+        "Volibear gagne de la vitesse en direction des ennemis, étourdissant et blessant le premier qu'il attaque.\n\n",
+        "Volibear blesse grièvement un ennemi, appliquant ses effets à l'impact et le marquant. Relancer cette compétence sur la même cible inflige des dégâts supplémentaires et soigne Volibear.\n\n",
+        "Volibear fait tomber la foudre à l'endroit ciblé, blessant et ralentissant les ennemis tout en obtenant un bouclier s'il est dans le rayon de l'explosion.\n\n",
+        "Volibear bondit vers l'endroit ciblé, ralentissant et blessant les ennemis sous lui tout en gagnant des PV supplémentaires. Les tourelles ennemies proches de son point d'atterrissage sont temporairement désactivées.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
@@ -2135,11 +2135,11 @@
     "Warwick": {
       "story": "Warwick est un monstre qui chasse dans les rues grisâtres de Zaun. Transformé par des expériences horribles, son corps est désormais muni d'un système intriqué de chambres et de pompes qui injecte une rage alchimique dans ses veines. Surgissant des ombres, il traque les criminels qui terrorisent les profondeurs de la ville. Warwick est attiré par le sang, dont l'odeur le rend fou. Si sa proie saigne, elle n'a aucune chance de lui échapper.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Warwick infligent des dégâts magiques supplémentaires. Si Warwick a moins de 50% de ses PV, il récupère des PV équivalents à ces dégâts. Si Warwick a moins de 25% de ses PV, le montant rendu est triplé.\n\n",
+        "Warwick se jette en avant et mord sa cible, infligeant des dégâts en fonction des PV max de cette cible et récupérant des PV équivalents à une partie des dégâts infligés.\n\n",
+        "Warwick repère les ennemis qui ont moins de 50% de leurs PV et obtient contre eux des bonus en vitesse de déplacement et en vitesse d'attaque. Contre les ennemis qui ont moins de 20% de leurs PV, ces bonus sont triplés.\n\n",
+        "Warwick gagne de la réduction des dégâts pendant 2,5 sec. À la fin, ou si la compétence est réactivée, il hurle, ce qui fait fuir les ennemis proches pendant 1 sec.\n\n",
+        "Warwick bondit dans une direction (la distance augmente avec sa vitesse de déplacement bonus), neutralisant le premier champion touché pendant 1,5 sec.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 13
@@ -2150,11 +2150,11 @@
     "Wukong": {
       "story": "Wukong est un Vastaya qui utilise sa force, son agilité et son intelligence pour semer la confusion parmi ses adversaires et prendre sur eux l'avantage. Après s'être fait un ami en la personne d'un guerrier nommé Maître Yi, Wukong est devenu le dernier tenant d'un art martial antique connu sous le nom de Wuju. Armé de son bâton enchanté, Wukong veut empêcher Ionia de devenir ruines et décombres.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Wukong augmente son armure et la régénération de ses PV lorsqu'il est en combat avec des champions ou des monstres (effet cumulable).\n\n",
+        "La prochaine attaque de Wukong a une plus longue portée, inflige des dégâts supplémentaires et réduit l'armure de la cible pendant quelques secondes.\n\n",
+        "Wukong devient invisible et se rue dans une direction, laissant derrière lui un clone qui attaquera les ennemis proches.\n\n",
+        "Wukong se rue sur l'ennemi ciblé et envoie des images qui attaquent les ennemis proches de sa cible, infligeant des dégâts à chaque ennemi frappé.\n\n",
+        "Wukong agrandit son bâton et le fait tournoyer, ce qui augmente sa vitesse de déplacement. Les ennemis touchés subissent des dégâts et sont projetés en l'air.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -2165,11 +2165,11 @@
     "Xayah": {
       "story": "Précise et meurtrière, Xayah est une révolutionnaire vastaya menant une guerre personnelle dans le but de sauver son peuple. Elle se sert de sa célérité, de sa ruse et de ses plumes tranchantes comme des rasoirs pour terrasser tous ceux qui se dressent sur sa route. Xayah se bat aux côtés de son partenaire et amant, Rakan, pour défendre leur tribu dépérissante et rendre à leur race ce qu'elle considère être sa gloire d'antan.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir utilisé une compétence, les prochaines attaques de base de Xayah frapperont toutes les cibles sur leur passage et laisseront une plume.\n\n",
+        "Xayah jette deux dagues qui infligent des dégâts et qui laissent des plumes qu'elle peut rappeler.\n\n",
+        "Xayah crée une tempête de lames qui augmente sa vitesse d'attaque et ses dégâts, tout en augmentant sa vitesse de déplacement si elle attaque un champion.\n\n",
+        "Xayah rappelle toutes les plumes qu'elle a posées, infligeant des dégâts et immobilisant les ennemis.\n\n",
+        "Xayah bondit dans les airs, devenant impossible à cibler et lançant des dagues qui laissent des plumes qu'elle peut rappeler.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 8
@@ -2180,11 +2180,11 @@
     "Xerath": {
       "story": "Xerath est un mage transfiguré de la Shurima antique, un être d'énergie arcanique habitant les fragments détruits d'un sarcophage magique. Pendant des millénaires, il est resté prisonnier des sables du désert, mais le retour de Shurima l'a libéré de sa prison ancestrale. Devenu ivre de pouvoir, il cherche désormais à reprendre ce qu'il croit lui être dû et à remplacer les civilisations arrivistes qui ont pris possession du monde par une nouvelle, façonnée à son image.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Xerath restaurent régulièrement du mana.\n\n",
+        "Tire un rayon d'énergie à longue portée, infligeant des dégâts magiques à toutes les cibles touchées.\n\n",
+        "Fait tomber un barrage d'énergie arcanique, infligeant des dégâts magiques et ralentissant tous les ennemis dans la zone. Les cibles au centre de la zone d'effet subissent des dégâts supplémentaires et sont ralenties davantage.\n\n",
+        "Étourdit un ennemi et lui inflige des dégâts magiques.\n\n",
+        "Xerath s'immobilise et obtient plusieurs tirs de barrage à longue portée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -2195,11 +2195,11 @@
     "Xin Zhao": {
       "story": "Xin Zhao est un guerrier résolu qui sert fidèlement la dynastie régnante des Lightshield. Naguère condamné à se battre dans les arènes de combat de Noxus, il survécut à d'innombrables rencontres de gladiateurs. Mais après avoir été libéré par les forces de Demacia, il jura allégeance à ses braves libérateurs. Armé de sa lance à trois pointes, Xin Zhao combat désormais pour son royaume, défiant ses ennemis avec audace, quelles que soient ses chances de succès.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Toutes les 3 attaques, Xin Zhao inflige des dégâts supplémentaires et récupère des PV.\n\n",
+        "Les 3 prochaines attaques de base de Xin Zhao infligeront plus de dégâts et la 3e attaque projettera la cible dans les airs.\n\n",
+        "Xin Zhao donne un coup de taille devant lui avec sa lance, puis donne un coup d'estoc, ralentissant les ennemis affectés et les marquant comme défiés.\n\n",
+        "Xin Zhao charge un ennemi, augmentant sa vitesse d'attaque, infligeant des dégâts à tous les ennemis dans la zone et les ralentissant brièvement. La portée de Charge audacieuse est augmentée contre les ennemis défiés.\n\n",
+        "Xin Zhao défie un ennemi qu'il a récemment blessé. Xin Zhao inflige des dégâts aux ennemis proches en fonction de leurs PV actuels et repousse les cibles non défiées. Il est ensuite immunisé contre les dégâts infligés par les champions hors du cercle créé.\n\n "
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 11
@@ -2210,11 +2210,11 @@
     "Yasuo": {
       "story": "L'Ionien Yasuo est un épéiste agile et résolu, capable de déchaîner contre ses ennemis la puissance de l'air. Alors qu'il était encore un jeune homme fier, il fut accusé à tort d'avoir assassiné son maître. Incapable de prouver son innocence, il dut fuir et fut finalement contraint de tuer son frère pour se défendre. Même après la découverte du véritable meurtrier de son maître, Yasuo ne parvint pas à faire la paix avec sa conscience. Il erre désormais dans son pays natal, et seul le vent guide sa lame.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les chances de coup critique de Yasuo sont augmentées. De plus, Yasuo génère un bouclier quand il se déplace. Le bouclier se déclenche quand un champion ou un monstre lui inflige des dégâts.\n\n",
+        "Donne un coup d'estoc, blessant tous les ennemis sur une ligne. À l'impact, octroie un effet Tempête menaçante pendant quelques secondes. Après avoir cumulé 2 effets, Tempête d'acier crée une tornade qui projette dans les airs. Tempête d'acier est considérée comme une attaque de base et est donc renforcée par les mêmes choses.\n\n",
+        "Crée un mur mobile qui bloque tous les projectiles ennemis pendant 4 sec.\n\n",
+        "Traverse l'ennemi ciblé, infligeant des dégâts magiques. Chaque utilisation augmente les dégâts de base de votre prochaine charge jusqu'à un montant max. Ne peut pas être réutilisé sur le même ennemi pendant quelques secondes. Si Tempête d'acier est lancée pendant une charge, elle donne un coup circulaire.\n\n",
+        "Bondit sur un champion ennemi projeté dans les airs et lui inflige des dégâts physiques. En outre, tous les ennemis qui étaient projetés dans les airs dans la zone sont maintenus en l'air. Remplit totalement l'Impulsion mais réinitialise tous les effets cumulés de Tempête menaçante. Ensuite, pendant une durée modérée, les coups critiques de Yasuo ont une pénétration du bonus d'armure significativement augmentée.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 12
@@ -2225,11 +2225,11 @@
     "Yone": {
       "story": "Au cours de sa vie, Yone fut le demi-frère de Yasuo et un disciple renommé de l'école d'armes de son village. Mais après avoir été tué par son propre frère, il se retrouva hanté par une entité malveillante dans le royaume spirituel. Il dut la tuer avec sa propre épée. Désormais maudit et forcé de porter le masque de l'azakana, Yone chasse inlassablement ces créatures démoniaques afin de comprendre ce qu'il est devenu.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Une attaque de Yone sur deux inflige des dégâts magiques. De plus, ses chances de coup critique sont augmentées.\n\n",
+        "Donne un coup d'estoc, blessant tous les ennemis sur une ligne. À l'impact, octroie un effet Tempête menaçante pendant quelques secondes. À 2 effets cumulés, Acier mortel permet à Yone de se ruer vers l'avant dans une rafale de vent qui projette les ennemis dans les airs. Acier mortel est considéré comme une attaque de base et est donc renforcé par les mêmes choses.\n\n",
+        "Yone frappe devant lui en blessant tous les ennemis dans une zone conique. Yone obtient un bouclier dont les PV augmentent avec le nombre de champions touchés. Les délais de récupération et d'incantation de Fendoir spirituel sont réduits par la vitesse d'attaque.\n\n",
+        "L'esprit de Yone quitte son corps et gagne en vitesse de déplacement. Quand cette compétence prend fin, Yone est renvoyé de force dans son corps et une partie des dégâts qu'il a infligés sous forme d'esprit est répétée.\n\n",
+        "Yone se téléporte derrière le dernier champion sur une ligne en donnant un coup si puissant qu'il attire vers lui tous les ennemis touchés.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 4
@@ -2240,11 +2240,11 @@
     "Yorick": {
       "story": "Yorick est le dernier survivant d'un ordre religieux disparu depuis longtemps et son pouvoir sur les morts est à la fois une bénédiction et une malédiction. Prisonnier des Îles obscures, il n'a pour compagnons que les cadavres pourrissants et les esprits hurlants qu'il rassemble. Les actes monstrueux de Yorick trahissent son noble objectif : libérer sa terre natale de la malédiction de la Ruine.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Horde maudite : Yorick peut invoquer des Goules de Brume pour attaquer les ennemis proches.\n\n",
+        "La prochaine attaque de Yorick infligera des dégâts supplémentaires et le soignera. Si la cible meurt, cela crée une tombe.\n\n",
+        "Yorick invoque à l'endroit ciblé un mur destructible qui bloque les déplacements des ennemis.\n\n",
+        "Yorick lance un globe de Brume noire qui blesse, ralentit et marque les ennemis.\n\n",
+        "Yorick invoque la Vierge de la Brume. Les attaques de Yorick contre la cible de la Vierge infligent des dégâts supplémentaires. La Vierge transforme automatiquement les ennemis morts en Goules de Brume.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
