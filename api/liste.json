@@ -2255,11 +2255,11 @@
     "Yuumi": {
       "story": "Originaire de Bandle, Yuumi est un familier magique dont la maîtresse, une enchanteresse yordle du nom de Norra, a mystérieusement disparu. Yuumi est désormais la gardienne du Grimoire des Seuils que possédait Norra, un livre permettant de franchir des portails. Partie à la recherche de sa maîtresse, Yuumi s'est fait de nouveaux amis durant son périple, et elle les protège tous avec la même détermination. Même si Grimoire aimerait que Yuumi se concentre davantage sur sa mission, sa comparse aime prendre le temps de faire la sieste et de pêcher des poissons. Malgré cela, elle finit toujours par repartir en quête de sa maîtresse.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Quand Yuumi attaque un champion, elle récupère périodiquement du mana et crée un bouclier qui la suit, se protégeant elle-même ainsi que l'allié auquel elle est attachée.\n\n",
+        "Yuumi lance un projectile qui inflige des dégâts au premier ennemi touché. Si le projectile vole au moins 1 sec avant d'atteindre un ennemi, il inflige des dégâts supplémentaires et un ralentissement. Si Yuumi est attachée à un allié, le projectile peut être dirigé avec votre curseur.\n\n",
+        "Passivement, Yuumi augmente la force adaptative de son allié et la sienne. À l'activation, Yuumi se rue vers l'allié ciblé. Dans cet état, seules les tourelles peuvent la cibler.\n\n",
+        "Yuumi se soigne et augmente ses vitesses de déplacement et d'attaque. Si elle est attachée à un allié, seul cet allié bénéficie des effets du sort.\n\n",
+        "Yuumi canalise sept vagues de dégâts, immobilisant tout ennemi touché par au moins trois vagues. Pendant la canalisation, Yuumi peut se déplacer, s'attacher aux champions alliés et lancer Zouuu !\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -2270,11 +2270,11 @@
     "Zac": {
       "story": "Zac est le produit d'une fuite toxique qui, dégoulinant par une veine techno-chimique, se transforma en bassin dans une profonde caverne du Puisard de Zaun. En dépit de ses humbles origines, Zac a évolué pour passer du stade de dépôt primordial à celui d'être pensant qui se faufile dans les canalisations de la ville. De temps en temps, il émerge pour aider ceux qui ne s'en sortent pas seuls ou pour reconstruire les infrastructures en mauvais état de Zaun.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "À chaque fois que Zac frappe un ennemi avec une compétence, il perd un bout de lui-même qu'il peut absorber pour récupérer des PV. S'il subit des dégâts mortels, Zac se divise en 4 blobs qui tentent de se recombiner. S'il reste des blobs, Zac revient à la vie avec un nombre de PV qui dépend des PV des blobs survivants. Chaque blob a un pourcentage des PV max, de l'armure et de la résistance magique de Zac. Cette compétence a un délai de récupération de 5 minutes.\n\n",
+        "Zac étend un bras et attrape un ennemi. S'il attaque ensuite un ennemi différent, il envoie les deux cibles l'une contre l'autre.\n\n",
+        "Zac explose en direction des ennemis proches, leur infligeant des dégâts magiques équivalents à un pourcentage de leurs PV max.\n\n",
+        "Zac fixe ses bras au sol et prend de l'élan pour se projeter vers l'avant.\n\n",
+        "Zac rebondit quatre fois, projetant en l'air les ennemis touchés et les ralentissant.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 5
@@ -2285,11 +2285,11 @@
     "Zed": {
       "story": "L'impitoyable Zed est le maître de l'Ordre de l'ombre, une organisation qu'il a créée dans l'intention de militariser la tradition des arts martiaux d'Ionia et de chasser enfin les envahisseurs noxiens. Pendant la guerre, le désespoir le conduisit à déchaîner la Forme secrète de l'ombre, un puissant esprit maléfique aussi dangereux que corrompu. Si Zed maîtrise ces techniques interdites, c'est pour détruire tout ce qu'il considère comme une menace contre sa nation ou son ordre.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Les attaques de base de Zed infligent des dégâts magiques supplémentaires aux cibles dont les PV sont faibles. Cet effet ne peut se déclencher sur un même champion ennemi qu'une fois toutes les quelques secondes.\n\n",
+        "Zed et ses ombres lancent leurs shurikens. Chaque shuriken blesse tous les ennemis touchés.\n\n",
+        "Passive : Zed regagne de l'énergie quand ses ombres et lui frappent un ennemi avec la même compétence. L'énergie ne peut être récupérée qu'une fois par utilisation d'une compétence. Active : l'ombre de Zed fonce vers l'avant et reste sur place pendant quelques secondes. Réactiver Ombre vivante permet à Zed de changer de position avec cette ombre.\n\n",
+        "Zed et ses ombres donnent un coup de taille et blessent les ennemis proches.\n\n",
+        "Zed devient impossible à cibler et fonce sur un champion ennemi pour le marquer. Au bout de 3 sec, la marque explose, infligeant de nouveau un pourcentage de tous les dégâts infligés par Zed pendant la durée de la marque.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -2300,11 +2300,11 @@
     "Zeri": {
       "story": "Zeri est une jeune femme vive et téméraire originaire des quartiers défavorisés de Zaun. Elle canalise son électricité intérieure afin de la charger dans un fusil conçu spécialement pour elle. Son pouvoir magique est le reflet de ses émotions, et ses étincelles sont aussi fulgurantes que son caractère. Résolument tournée vers les autres, Zeri se sert de son amour pour sa famille et son quartier durant chaque combat. Malgré toute sa bonne volonté, cependant, les événements ne se passent pas toujours comme prévu. Cela dit, Zeri est sûre d'une chose : si vous vous battez pour votre communauté, elle se battra avec vous.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Zeri gagne de la vitesse de déplacement quand elle reçoit un bouclier. Quand elle endommage un bouclier ennemi, elle absorbe son énergie pour s'entourer d'un bouclier.\n\n",
+        "Les attaques de Zeri sont traitées comme des compétences et Rafale est traitée comme une attaque. Se déplacer et lancer Rafale stocke de l'énergie dans le Paquetage ionique de Zeri. Lorsqu'elle est chargée à bloc, sa prochaine attaque ralentit la cible et inflige des dégâts supplémentaires. Rafale tire 7 balles qui infligent les dégâts d'attaque de Zeri au premier ennemi touché.\n\n",
+        "Zeri lance une impulsion électrique qui ralentit et blesse le premier ennemi touché. Si l'impulsion touche un mur, elle se transforme en laser à longue portée.\n\n",
+        "Zeri effectue une courte ruée et renforce ses 3 prochaines Rafales, qui deviennent perforantes. Elle bondit par-dessus tous les obstacles qu'elle touche.\n\n",
+        "Zeri provoque une nova d'électricité et se surcharge : elle inflige plus de dégâts et gagne un bonus cumulable en vitesse d'attaque qui s'actualise et augmente à chaque fois qu'elle touche un champion ennemi. Lorsque Zeri est surchargée, Rafale devient un triple tir plus rapide qui crée une chaîne d'éclairs entre les ennemis.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 2
@@ -2315,11 +2315,11 @@
     "Ziggs": {
       "story": "Amoureux des grosses bombes et des mèches courtes, le yordle Ziggs est une force de la nature explosive. Assistant d'un inventeur de Piltover, il finit par se lasser de sa vie routinière et devint l'ami d'une jeune fille imprévisible et portée sur les explosifs, Jinx. Après une folle nuit en ville, Ziggs suivit les conseils de Jinx et s'installa à Zaun, où il se livre désormais à sa passion plus librement, terrorisant les Barons de la chimie comme les simples citoyens dans sa quête éternelle pour faire sauter tout ce qui traverse son champ de vision.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Périodiquement, la prochaine attaque de base de Ziggs inflige des dégâts magiques supplémentaires. Ce délai est réduit quand Ziggs utilise une compétence.\n\n",
+        "Ziggs lance une bombe rebondissante qui inflige des dégâts magiques.\n\n",
+        "Ziggs jette une charge explosive qui explose au bout de 4 sec ou quand vous réactivez cette compétence. L'explosion inflige des dégâts magiques aux ennemis et les repousse. Ziggs aussi est repoussé mais il ne subit aucun dégât. Ziggs peut utiliser cette charge pour hexploser les tourelles ennemies vulnérables.\n\n",
+        "Ziggs disperse des mines de proximité qui explosent au contact des ennemis, leur infligeant des dégâts magiques et les ralentissant. Quand un ennemi déclenche une mine, les mines supplémentaires lui infligent des dégâts réduits.\n\n",
+        "Ziggs déploie sa création ultime, la Méga bombe infernale, et la lance de très loin. Les ennemis dans la zone d'impact principale subissent plus de dégâts que les ennemis plus éloignés.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 10
@@ -2330,11 +2330,11 @@
     "Zilean": {
       "story": "Naguère puissant mage d'Icathia, Zilean devint obsédé par le passage du temps après avoir assisté à la destruction de sa terre natale par le Néant. Refusant de perdre une minute à pleurer sur les décombres, il fit appel à une antique force magique capable de prédire tous les avenirs possibles. Devenu techniquement immortel, Zilean erre désormais entre passé, présent et futur, distordant autour de lui le flux du temps, toujours à la recherche du moment exact qui lui permettra de changer le passé et d'empêcher la destruction d'Icathia.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Zilean stocke du temps sous forme d'expérience et peut l'offrir à ses alliés. Quand il a suffisamment d'expérience pour augmenter le niveau d'un allié, il peut la lui offrir en lui cliquant dessus avec le bouton droit. Zilean reçoit autant d'expérience qu'il en donne.\n\n",
+        "Lance une bombe dans une zone. La bombe se colle sur une unité qui s'en approche (en priorité les champions) et explose après 3 secondes, infligeant des dégâts de zone. Si une Bombe à retardement explose prématurément à cause d'une autre Bombe à retardement, les ennemis sont également étourdis.\n\n",
+        "Zilean se prépare à de futures confrontations, réduisant le délai de récupération de ses autres compétences.\n\n",
+        "Zilean distord le temps autour d'une unité, réduisant la vitesse de déplacement d'un ennemi ou augmentant celle d'un allié pendant un court moment.\n\n",
+        "Zilean place une rune temporelle sur un champion allié, le renvoyant dans le passé s'il subit des dégâts mortels.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 7
@@ -2345,11 +2345,11 @@
     "Zoe": {
       "story": "Incarnation de l'espièglerie, de l'imagination et de l'inconstance, Zoé est une messagère cosmique de Targon, annonciatrice des grands événements qui chamboulent les mondes. Sa simple présence distord les règles mathématiques qui gouvernent dans l'ombre les réalités et, sans pour autant le vouloir, peut même provoquer des cataclysmes. Cela explique peut-être la nonchalance désinvolte avec laquelle Zoé traite ses tâches, préférant consacrer le plus clair de son temps à s'amuser, à jouer des tours aux mortels, bref, à faire tout ce qui lui plaît. Une rencontre avec Zoé peut se révéler joyeuse et porteuse d'optimisme, mais ce n'est souvent qu'une apparence, cachant une vérité extrêmement dangereuse.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Après avoir lancé une compétence, la prochaine attaque de base de Zoé inflige des dégâts magiques supplémentaires.\n\n",
+        "Zoé lance un projectile qu'elle peut rediriger en vol. Les dégâts augmentent avec la distance parcourue en ligne droite.\n\n",
+        "Zoé peut ramasser les vestiges des sorts d'invocateur et des propriétés actives d'objets utilisés par les ennemis, puis les utiliser elle-même. Quand Zoé utilise un sort d'invocateur, elle tire aussi trois projectiles sur l'ennemi le plus proche.\n\n",
+        "La cible devient somnolente, puis s'endort. La première attaque qui réveille la cible inflige deux fois plus de dégâts, jusqu'à un montant max.\n\n",
+        "Téléporte Zoé à un endroit proche pendant 1 sec, avant de la faire revenir à son point de départ.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 6
@@ -2360,11 +2360,11 @@
     "Zyra": {
       "story": "Née au cours d'une ancienne catastrophe magique, Zyra est la colère de la nature incarnée : mélange de plante et d'humain, faisant émerger de nouvelles pousses à chaque pas. Elle considère les nombreux mortels de Valoran comme de simples proies pour sa progéniture végétale, et les éliminer avec ses gerbes d'épines ne lui pose aucun problème. Bien que nul ne connaisse ses vrais objectifs, Zyra erre de par le monde, suivant son instinct qui est de coloniser toujours plus de terres et d'en exterminer toutes les autres formes de vie.\n\n",
       "skills": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Des graines apparaissent régulièrement autour de Zyra, de plus en plus souvent au fur et à mesure qu'elle gagne des niveaux. Zyra peut lancer Épines funestes ou Racines fixatrices près des graines pour faire pousser des plantes qui combattront pour elle.\n\n",
+        "Des ronces se répandent dans le sol et provoquent une explosion d'épines, infligeant des dégâts magiques aux ennemis dans la zone. Si le sort est lancé près d'une graine, Épines funestes fait pousser une Cracheuse de ronces qui tire sur les ennemis de loin.\n\n",
+        "Zyra plante une graine qui dure jusqu'à 60 sec. Lancer Épines funestes ou Racines fixatrices près des graines les change en plantes qui combattront pour Zyra. Zyra peut stocker plusieurs graines. Tuer des ennemis réduit le délai de rechargement de Croissance incontrôlée.\n\n",
+        "Zyra lance des racines à travers le sol pour capturer sa cible, infligeant des dégâts et immobilisant les ennemis qu'elles touchent. Si le sort est lancé près d'une graine, Racines fixatrices fait pousser une Plante flagellante dont les attaques à courte portée réduisent la vitesse de déplacement des ennemis.\n\n",
+        "Zyra invoque des ronces malfaisantes dans la zone ciblée, infligeant des dégâts aux ennemis en s'étendant avant de les projeter en l'air. Les plantes dans les ronces deviennent enragées.\n\n"
       ],
       "gameplay": "Gam_Alistar",
       "totalSkin": 9
