@@ -6,16 +6,23 @@
     margin: 0;
 }
 
-body{
-    background: linear-gradient(45deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+body {
+    background: linear-gradient(45deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
     animation: glowing 30s linear infinite;
+    height: 100vh;
 }
 
 @keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 200% 0; }
-    100% { background-position: 400% 0; }
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: 400% 0;
+    }
 }
 
 .separationHaut {
@@ -32,6 +39,8 @@ body{
 .separationBas {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
+    width: 100%;
+
 }
 
 .container {
@@ -84,6 +93,32 @@ body{
     text-decoration: none;
 }
 
+@media (orientation: portrait) {
+    body {
+        background: linear-gradient(90deg, #01454a, #01454a, #1DA8B1, #01454a, #01454a);
+        background-size: 400%;
+        animation: glowing 30s linear infinite;
+    }
+
+    .container {
+        margin: 4vh 0 4vh 0;
+    }
+
+    .container .btn {
+        font-size: 6em;
+    }
+
+    .separationBas {
+        position: fixed;
+        bottom: 140px;
+    }
+
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
 
 
 /*

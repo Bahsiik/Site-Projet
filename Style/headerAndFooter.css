@@ -53,3 +53,9 @@
     display: flex;
     justify-content: center;
 }
+
+@media (orientation: portrait) {
+    .bandeau .btn {
+        font-size: 3em;
+    }
+}

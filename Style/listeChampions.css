@@ -5,16 +5,22 @@
     box-sizing: revert;
 }
 
-body{
-    background: linear-gradient(80deg,#01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+body {
+    background: linear-gradient(80deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
     animation: glowing 30s linear infinite;
 }
 
 @keyframes glowing {
-    0% { background-position: 0 0; }
-    50% { background-position: 200% 0; }
-    100% { background-position: 400% 0; }
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: 400% 0;
+    }
 }
 
 .separationHaut {
@@ -67,4 +73,17 @@ body{
 .champion:hover {
     transform: scale(1.1);
     box-shadow: #CD9734 0 0 10px;
+}
+
+@media (orientation: portrait) {
+    body {
+        background: linear-gradient(90deg, #01454a, #01454a, #1DA8B1, #01454a, #01454a);
+        background-size: 400%;
+        animation: glowing 30s linear infinite;
+    }
+
+
+    .champion a {
+        font-size: 4em;
+    }
 }
