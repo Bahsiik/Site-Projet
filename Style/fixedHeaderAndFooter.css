@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-.bandeau {
+.header {
     position: fixed;
     left: 0;
     right: 0;
@@ -20,7 +20,7 @@
     margin-right: 50px;
 }
 
-.bandeau .btn {
+.header .btn {
     font-family: Teko;
     font-size: 2em;
     color: white;
@@ -31,13 +31,13 @@
     text-decoration: none;
 }
 
-.bandeau .btn:hover {
+.header .btn:hover {
     transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
     transform: scale(1.05);
     color: #CD9734
 }
 
-.bandeau .btn:not(:hover) {
+.header .btn:not(:hover) {
     transition: color 0.2s ease-out, transform 0.2s ease-in-out 0.1s;
     transform: scale(1);
     color: white
@@ -65,7 +65,7 @@
 
 
 @media (orientation: portrait) {
-    .bandeau .btn {
+    .header .btn {
         font-size: 3em;
     }
 }

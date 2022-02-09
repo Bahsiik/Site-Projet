@@ -23,18 +23,18 @@ body {
     }
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
 }
 
 
-.listes {
+.list {
     padding-top: 50px;
     padding-bottom: 50px;
     margin: auto;

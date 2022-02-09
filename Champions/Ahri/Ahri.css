@@ -11,13 +11,13 @@ body{
     background: linear-gradient(black, #7a5b1b, black);
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
 }
 
 
-.onglet{
+.tab{
     z-index: 1;
     font-size: 2em;
     display: flex;
@@ -29,7 +29,7 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
 }

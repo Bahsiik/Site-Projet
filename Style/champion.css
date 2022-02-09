@@ -27,14 +27,14 @@ body {
     }
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
     width: 100%;
 }
 
 
-.onglet {
+.tab {
     z-index: 1;
     font-size: 2em;
     display: flex;
@@ -47,7 +47,7 @@ body {
         color: #ad7f2f;
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
     width: 100%;
@@ -399,7 +399,7 @@ body {
         font-size: 1.6em;
     }
 
-    .separationBas {
+    .separationBottom {
         position: fixed;
         bottom: 140px;
     }
