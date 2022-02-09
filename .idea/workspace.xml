@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18706ad6-5db0-4cb7-8b03-b0b9fae39d3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProjetSite.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cahier des charges de merde.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gestion de projet/Charte graphique.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gestion de projet/ConsignesProjetWeb.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gestion de projet/WireFrame.bmpr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/headerAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/headerAndFooter.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_document_technique.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_document_technique.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/champ_base.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24rrIUoplStqQdGgjorCD2eGXFj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,6 +64,7 @@
       <updated>1644399470716</updated>
       <workItem from="1644399473733" duration="11518000" />
       <workItem from="1644418990399" duration="2327000" />
+      <workItem from="1644423438916" duration="4348000" />
     </task>
     <servers />
   </component>
@@ -86,5 +81,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -43,7 +43,7 @@ const fetchApiDone = (json) => {
             pR.textContent = champion[champion.name].skills[4];
             pGameplay.textContent = champion[champion.name].gameplay;
             // imgObjets.src="Images/Gameplay/"+champion.name+"_objets.png"
-            imgRunes.src="Images/Gameplay/"+champion.name+"_runes.jpg"
+            imgRunes.src="Images/Gameplay/"+champion.name+"_runes.png"
             // imgSorts.src="Images/Gameplay/"+champion.name+"_skills.png"
             // imgSkills.src="Images/Gameplay/"+champion.name+"_sorts.png"
         }
