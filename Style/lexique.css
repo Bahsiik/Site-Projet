@@ -58,20 +58,22 @@ body {
     justify-content: space-around;
 }
 
-button {
+.sum {
     font-size: 1.5em;
     background: linear-gradient(#7a5b1b, #CD9734, black);
     width: 1.5em;
     font-family: Teko;
     border-radius: 35%;
+    text-decoration: none;
+    color: black;
 }
 
-button:hover {
+.sum:hover {
     background: linear-gradient(black, #CD9734, #7a5b1b);
     cursor: pointer;
 }
 
-button:active {
+.sum:active {
     background: linear-gradient(black, #CD9734, #7a5b1b);
     border-radius: 50%;
 }
@@ -89,6 +91,7 @@ h1 {
     left: 1%;
     top: 87.5%;
     height: 5%;
+    text-align: center;
 }
 
 #retour_haut a {
