@@ -88,7 +88,7 @@ h1 {
     position: fixed;
     left: 1%;
     top: 87.5%;
-    height: 7%;
+    height: 5%;
 }
 
 #retour_haut a {
@@ -98,4 +98,13 @@ h1 {
 strong {
     font-size: 1.3em;
     color: #5f430b;
+}
+
+@media (orientation: portrait) {
+    #retour_haut {
+        width: 7%;
+        height: 4%;
+        font-size: 3em;
+        border-radius: 50%;
+    }
 }
