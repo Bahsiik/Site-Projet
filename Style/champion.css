@@ -13,6 +13,8 @@ body {
     animation: glowing 30s linear infinite;
 }
 
+
+
 @keyframes glowing {
     0% {
         background-position: 0 0;
@@ -28,6 +30,7 @@ body {
 .separationHaut {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
+    width: 100%;
 }
 
 
@@ -47,6 +50,7 @@ body {
 .separationBas {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
+    width: 100%;
 }
 
 /*A modifier pour Modal Histoire*/
@@ -207,6 +211,7 @@ body {
     position: relative;
     font-size: 1.1em
 }
+
 .wrapper a::before {
     content: '';
     position: absolute;
@@ -215,13 +220,15 @@ body {
     width: 100%;
     height: 100%;
     z-index: 1;
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255, 255, 255, 0.1);
     transition: all 0.3s;
 }
+
 .wrapper a:hover::before {
     opacity: 0.5;
-    transform: scale(1.5,1.5);
+    transform: scale(1.5, 1.5);
 }
+
 .wrapper a::after {
     content: '';
     position: absolute;
@@ -233,11 +240,12 @@ body {
     opacity: 0;
     transition: all 0.3s;
     border: 1px solid rgb(173, 127, 47);
-    transform: scale(1.5,1.5);
+    transform: scale(1.5, 1.5);
 }
+
 .wrapper a:hover::after {
     opacity: 1;
-    transform: scale(1.5,1.5);
+    transform: scale(1.5, 1.5);
 }
 
 .modal {
@@ -284,7 +292,6 @@ body {
     border: 5px solid #ad7f2f;
     transform: translate(-50%, -200%);
     transition: all .01s ease-in-out;
-    perspective: 1000;
     outline: 1px solid transparent;
     opacity: 0;
     padding: 1em 2em;
@@ -380,5 +387,27 @@ body {
     left: 12.5%;
     position: absolute;
     height: 150px;
-    perspective: 1000;
+}
+
+@media (orientation: portrait) {
+    body {
+        background: linear-gradient(90deg, #01454a, #01454a, #1DA8B1, #01454a, #01454a);
+        background-size: 400%;
+        animation: glowing 30s linear infinite;
+    }
+
+    .wrapper a {
+        font-size: 1.6em;
+    }
+
+    .separationBas {
+        position: fixed;
+        bottom: 140px;
+    }
+
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }

@@ -6,9 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="18706ad6-5db0-4cb7-8b03-b0b9fae39d3e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/lexique.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/lexique.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/champion.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/champion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/fixedHeaderAndFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/headerAndFooter.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/headerAndFooter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/listeChampions.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/listeChampions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/region.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/region.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/champ_base.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/champ_base.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/champion.html" beforeDir="false" afterPath="$PROJECT_DIR$/champion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeChampion.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/listeChampion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skin.html" beforeDir="false" afterPath="$PROJECT_DIR$/skin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/skin.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +58,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omist\Documents\.Ynov\Cours HTML\ProjetSite\js" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644399470716</updated>
-      <workItem from="1644399473733" duration="6361000" />
+      <workItem from="1644399473733" duration="10063000" />
     </task>
     <servers />
   </component>

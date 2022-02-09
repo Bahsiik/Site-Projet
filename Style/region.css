@@ -66,3 +66,17 @@ body {
 .region img {
     align-items: center;
 }
+
+@media (orientation: portrait) {
+    body {
+        background: linear-gradient(90deg, #01454a, #01454a, #1DA8B1, #01454a, #01454a);
+        background-size: 400%;
+        animation: glowing 30s linear infinite;
+    }
+
+    .region h1 {
+        font-size: 3em;
+        width: 40%;
+        margin: 25% 0 2% 30%;
+    }
+}
