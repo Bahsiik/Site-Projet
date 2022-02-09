@@ -19,9 +19,9 @@ const fetchApiDone = (json) => {
     const pE = document.getElementById("E");
     const pR = document.getElementById("R");
     const pGameplay = document.getElementById("gameplay");
-    const imgObjets = document.getElementById("img_objets");
-    const imgSkills = document.getElementById("img_skills");
-    const imgSorts = document.getElementById("img_sorts");
+    // const imgObjets = document.getElementById("img_objets");
+    // const imgSkills = document.getElementById("img_skills");
+    // const imgSorts = document.getElementById("img_sorts");
     const imgRunes = document.getElementById("img_runes");
 
 
@@ -42,10 +42,10 @@ const fetchApiDone = (json) => {
             pE.textContent = champion[champion.name].skills[3];
             pR.textContent = champion[champion.name].skills[4];
             pGameplay.textContent = champion[champion.name].gameplay;
-            imgObjets.src="Images/Gameplay/"+champion.name+"_objets.png"
-            imgSkills.src="Images/Gameplay/"+champion.name+"_runes.png"
-            imgSorts.src="Images/Gameplay/"+champion.name+"_skills.png"
-            imgRunes.src="Images/Gameplay/"+champion.name+"_sorts.png"
+            // imgObjets.src="Images/Gameplay/"+champion.name+"_objets.png"
+            imgRunes.src="Images/Gameplay/"+champion.name+"_runes.jpg"
+            // imgSorts.src="Images/Gameplay/"+champion.name+"_skills.png"
+            // imgSkills.src="Images/Gameplay/"+champion.name+"_sorts.png"
         }
     });
 };
