@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(45deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background: linear-gradient(90deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
     animation: glowing 30s linear infinite;
     height: 100vh;

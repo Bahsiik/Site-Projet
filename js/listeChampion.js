@@ -15,7 +15,6 @@ const fetchApiDone = (json) => {
         divChampion.className = "champion";
         divChampion.id = champion.name;
         divChampion.addEventListener("click", function(){
-            console.log("id: ", divChampion.id);
             localStorage.setItem('name_champ', divChampion.id);
         })
         divList.appendChild(divChampion);

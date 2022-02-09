@@ -10,14 +10,9 @@ const fetchApiDone = (json) => {
     const divCarrou = document.getElementById("carrou");
     const pTitle = document.getElementById("titre");
     json.forEach((champion) => {
-        console.log("champion: ", champion)
-        console.log("champion.name: ", champion.name)
-        console.log("champion.championName.totalSkin: ", champion[champion.name].totalSkin)
-
         if(champion.name === id_champ){
-            pTitle.textContent = "Skins_"+champion.name;
+            pTitle.textContent = "Skins "+champion.name;
             for(let i=0;i < champion[champion.name].totalSkin; i++){
-                console.log("Test i",i)
                 let divCarrousel = document.createElement("div");
                 if(i == 0)
                     divCarrousel.className = "carousel-item active";
