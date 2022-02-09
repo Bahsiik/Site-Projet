@@ -53,8 +53,9 @@ body {
 }
 
 .som {
+    margin: 0 200px 0 200px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 button {
@@ -62,10 +63,17 @@ button {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     width: 1.5em;
     font-family: Teko;
+    border-radius: 35%;
 }
 
 button:hover {
     background: linear-gradient(black, #CD9734, #7a5b1b);
+    cursor: pointer;
+}
+
+button:active {
+    background: linear-gradient(black, #CD9734, #7a5b1b);
+    border-radius: 50%;
 }
 
 h1 {
@@ -79,7 +87,7 @@ h1 {
 #retour_haut {
     position: fixed;
     left: 1%;
-    top: 90%;
+    top: 87.5%;
     height: 7%;
 }
 

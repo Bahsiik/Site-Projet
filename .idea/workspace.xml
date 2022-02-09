@@ -6,14 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="18706ad6-5db0-4cb7-8b03-b0b9fae39d3e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/Vierge_champ.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/champion.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Style/lexique.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/lexique.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style/skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style/skin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vierge_champ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Vierge_champ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lexique.html" beforeDir="false" afterPath="$PROJECT_DIR$/lexique.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listeChampion.html" beforeDir="false" afterPath="$PROJECT_DIR$/listeChampion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/region.html" beforeDir="false" afterPath="$PROJECT_DIR$/region.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vierge_graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/vierge_graph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/champion.html" beforeDir="false" afterPath="$PROJECT_DIR$/champion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skin.html" beforeDir="false" afterPath="$PROJECT_DIR$/skin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644399470716</updated>
-      <workItem from="1644399473733" duration="4409000" />
+      <workItem from="1644399473733" duration="6361000" />
     </task>
     <servers />
   </component>
