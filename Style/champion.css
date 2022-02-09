@@ -77,7 +77,7 @@ body {
 }
 
 #opentab1:checked ~ .tab-list .tab1 {
-    margin-top: 40%;
+    margin-top: 32%;
     width: 700px;
     text-align: center;
     transform: translateX(0%);
@@ -134,7 +134,7 @@ body {
 }
 
 #opentab4:checked ~ .tab-list .tab4 {
-    margin-top: 40%;
+    margin-top: 32%;
     width: 700px;
     text-align: center;
     transform: translateX(0%);
@@ -153,7 +153,7 @@ body {
 }
 
 #opentab5:checked ~ .tab-list .tab5 {
-    margin-top: 35%;
+    margin-top: 32%;
     width: 700px;
     text-align: center;
     transform: translateX(0%);
