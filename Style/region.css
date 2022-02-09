@@ -42,52 +42,27 @@ body {
     height: 10px;
 }
 
-#glossaire {
-    margin: 10% auto;
-    justify-content: center;
-    text-align: center;
-    width: 100%;
+.space {
+    height: 100px;
+}
+
+.region {
+    margin: 5em;
     font-size: 1.3em;
-    color: white;
+    text-align: center;
+    align-items: center;
     font-family: 'Bebas Neue', cursive;
+    color: #d0be95;
 }
 
-.som {
-    display: flex;
-    justify-content: center;
-}
-
-button {
-    font-size: 1.5em;
-    background: linear-gradient(#7a5b1b, #CD9734, black);
-    width: 1.5em;
-    font-family: Teko;
-}
-
-button:hover {
-    background: linear-gradient(black, #CD9734, #7a5b1b);
-}
-
-h1 {
-    margin: 5% 0 2% 0;
-    width: 100%;
+.region h1 {
+    margin: 5% 0 2% 40%;
     background: linear-gradient(#7a5b1b, #CD9734, #7a5b1b);
     color: black;
-    border-radius: 4px;
+    border-radius: 10px;
+    width: 20%;
 }
 
-#retour_haut {
-    position: fixed;
-    left: 1%;
-    top: 90%;
-    height: 7%;
-}
-
-#retour_haut a {
-    text-decoration: none;
-}
-
-strong {
-    font-size: 1.3em;
-    color: firebrick;
+.region img {
+    align-items: center;
 }
