@@ -26,7 +26,7 @@ body {
     }
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
 }
@@ -37,7 +37,7 @@ body {
     filter: blur(1px);
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
 }

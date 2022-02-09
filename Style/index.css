@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(45deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
+    background: linear-gradient(90deg, #01454a, #01454a, #01454a, #1DA8B1, #01454a, #01454a, #01454a);
     background-size: 400%;
     animation: glowing 30s linear infinite;
     height: 100vh;
@@ -25,7 +25,7 @@ body {
     }
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
 }
@@ -36,7 +36,7 @@ body {
     filter: blur(1px);
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
     width: 100%;
@@ -108,7 +108,7 @@ body {
         font-size: 6em;
     }
 
-    .separationBas {
+    .separationBottom {
         position: fixed;
         bottom: 140px;
     }

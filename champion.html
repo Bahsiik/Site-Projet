@@ -2,26 +2,26 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title id="titre"></title>
+		<title id="titre">champion</title>
 		<link href="Style/champion.css" rel="stylesheet">
 		<link href="Style/headerAndFooter.css" rel="stylesheet">
-		<link href="https://fonts.gstatic.com" rel="preconnect">
-		<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-		<link href="Utilitaire/LogoOfficiel2.png" rel="icon" type="image/png"/>
+		<link href="Images/Fond/LogoBanniere.png" rel="icon" type="image/png"/>
+		<script defer src="js/champ_base.js"></script>
+
 	</head>
 	<body>
-		<div class="bandeau">
-			<a href="index.html"><img alt="Logo Info Runeterra" class="logo" src="Utilitaire/LogoBanniere.png"></a>
-			<a class="btn" href="listeChampion.html">📒 Champions</a>
-			<a class="btn" href="region.html">✈ Régions</a>
-			<a class="btn" href="lexique.html">📄 Lexique</a>
+		<div class="header">
+			<a href="index.html"><img alt="Logo Info Runeterra" class="logo" src="Images/Fond/LogoBanniere.png"></a>
+			<a class="btn" href="listeChampion.html" title="Liste des champions">📒 Champions</a>
+			<a class="btn" href="region.html" title="Informations des régions">✈ Régions</a>
+			<a class="btn" href="lexique.html" title="Lexique">📄 Lexique</a>
 		</div>
-		<div class="separationHaut"></div>
+		<div class="separationTop"></div>
 		<!--    Insertion des modals -->
-		<div class="onglet">
+		<div class="tab">
 			<!--        Histoire        -->
 			<div class="wrapper">
-				<a data-toggle="modal" href="#ModHistoire" id="hist">Histoire</a>
+				<a data-toggle="modal" href="#ModHistoire" id="hist" title="Afficher l'onglet histoire">Histoire</a>
 			</div>
 			<div class="modal" id="ModHistoire">
 				<div class="modal-content">
@@ -34,7 +34,7 @@
 			</div>
 			<!--        Skills          -->
 			<div class="wrapper">
-				<a data-toggle="modal" href="#modal-tabbed" id="comp">Compétences</a>
+				<a data-toggle="modal" href="#modal-tabbed" id="comp" title="Afficher l'onglet compétence">Compétences</a>
 			</div>
 			<div class="modal" id="modal-tabbed">
 				<div class="modal-content">
@@ -43,27 +43,27 @@
 					<div class="modal-area">
 						<br>
 						<input checked="checked" id="opentab1" name="modaltabs" type="radio"/>
-						<label for="opentab1"><img alt="" id="img_opentab1"
-						                           src="../../Champions/Comp/<!--Img_Passif_Champ-->"></label>
+						<label for="opentab1" title="Afficher l'onglet du passif">
+							<img alt="" id="img_opentab1" src="../../Champions/Comp/">
+						</label>
 						<input id="opentab2" name="modaltabs" type="radio"/>
-						<label for="opentab2">
-							<img alt="" id="img_opentab2" src="../../Champions/Comp/<!--Img_A_Champ-->">
+						<label for="opentab2" title="Afficher l'onglet du A">
+							<img alt="" id="img_opentab2" src="../../Champions/Comp/">
 						</label>
 						<input id="opentab3" name="modaltabs" type="radio"/>
-						<label for="opentab3">
-							<img alt="" id="img_opentab3" src="../../Champions/Comp/<!--Img_Z_Champ-->">
+						<label for="opentab3" title="Afficher l'onglet du Z">
+							<img alt="" id="img_opentab3" src="../../Champions/Comp/">
 						</label>
 						<input id="opentab4" name="modaltabs" type="radio"/>
-						<label for="opentab4">
-							<img alt="" id="img_opentab4" src="../../Champions/Comp/<!--Img_E_Champ-->">
+						<label for="opentab4" title="Afficher l'onglet du E">
+							<img alt="" id="img_opentab4" src="../../Champions/Comp/">
 						</label>
 						<input id="opentab5" name="modaltabs" type="radio"/>
-						<label for="opentab5">
-							<img alt="" id="img_opentab5"
-							     src="../../Champions/Comp/<!--Img_R_Champ-->">
+						<label for="opentab5" title="Afficher l'onglet du R">
+							<img alt="" id="img_opentab5" src="../../Champions/Comp/">
 						</label>
 						<ul class="tab-list">
-							<li class="modal-tab tab1">
+							<li class="modal-tab tab1" title="Afficher l'onglet du passif">
 								<h2>Passif</h2>
 								<p id="passif">
 									<!--                            Text Passif champ                            -->
@@ -99,38 +99,37 @@
 			</div>
 			<!--        Gameplay           -->
 			<div class="wrapper">
-				<a data-toggle="modal" href="#ModGam" id="game">Gameplay</a>
+				<a data-toggle="modal" href="#ModGam" id="game" title="Afficher l'onglet gameplay">Gameplay</a>
 			</div>
 			<div class="modal" id="ModGam">
 				<div class="modal-content">
 					<!--					<a class="modal-close" href="#" title="Close Modal">X</a>-->
 					<h3>Gameplay</h3>
-					<pre>
+
 					<p class="gameplay" id="gameplay">
+					<pre>
 						<!--            Texte gameplay Champions            -->
 						</pre>
 					<div id="visio">
-<!--						<img id="img_skills">-->
-						<img id="img_runes">
+						<!--						<img id="img_skills">-->
+						<img id="img_runes" src="completedByJson" alt="completedByJson">
 					</div>
-					</p>
 				</div>
 			</div>
 			<!--        Graphismes          -->
 			<div class="wrapper">
-				<a data-toggle="modal" href="skin.html" id="skin">Skin</a>
+				<a data-toggle="modal" href="skin.html" id="skin" title="Afficher l'onglet skin">Skin</a>
 			</div>
 		</div>
-		<div class="separationBas"></div>
+		<div class="separationBottom"></div>
 		<div class="footer">
 			<p>©Mistral Oliver & Marthely Davy | 2021/2022 | Ynov Aix-en-Provence</p>
 			<p>Pour nous contacter : </p>
 			<div class="sigle">
-				<a href="https://discord.com/" target="_blank">
-					<img alt="LogoPEGI12" src="../../Images/discord.png">
+				<a href="https://discord.com/" target="_blank" title="Accéder à Discord">
+					<img alt="Logo Discord" src="../../Images/discord.png">
 				</a>
 			</div>
 		</div>
 	</body>
-	<script src="js/champ_base.js" type="text/javascript"></script>
 </html>

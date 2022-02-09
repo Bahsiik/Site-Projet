@@ -24,12 +24,12 @@ body {
     }
 }
 
-.separationHaut {
+.separationTop {
     background: linear-gradient(black, #7a5b1b, #CD9734, #7a5b1b);
     height: 10px;
 }
 
-.separationBas {
+.separationBottom {
     background: linear-gradient(#7a5b1b, #CD9734, black);
     height: 10px;
     width: 100%;
@@ -227,7 +227,7 @@ body {
         animation: glowing 30s linear infinite;
     }
 
-    .separationHaut {
+    .separationTop {
         margin-bottom: 50%;
     }
 
@@ -235,7 +235,7 @@ body {
         font-size: 2.7em;
     }
 
-    .separationBas {
+    .separationBottom {
         position: fixed;
         bottom: 140px;
     }
