@@ -48,7 +48,7 @@ body {
     text-align: center;
     width: 100%;
     font-size: 1.3em;
-    color: white;
+    color: #d0be95;
     font-family: 'Bebas Neue', cursive;
 }
 
@@ -89,5 +89,5 @@ h1 {
 
 strong {
     font-size: 1.3em;
-    color: firebrick;
+    color: #5f430b;
 }

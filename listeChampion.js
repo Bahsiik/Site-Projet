@@ -22,7 +22,7 @@ const fetchApiDone = (json) => {
 
         let aChampion = document.createElement("a");
         aChampion.textContent = champion.name;
-        aChampion.href = "Vierge_champ.html"
+        aChampion.href = "champion.html"
         divChampion.appendChild(aChampion);
 
         let imgChampion = document.createElement("img");

@@ -41,7 +41,7 @@ body {
     font-size: 2em;
 }
 
-.btn {
+.return {
     text-decoration: none;
     color: #FFF;
     transition: all 0.5s;
@@ -50,7 +50,7 @@ body {
     font-family: 'Bebas Neue', cursive;
 }
 
-.btn::before {
+.return::before {
     content: '';
     position: absolute;
     top: 0;
@@ -62,12 +62,12 @@ body {
     transition: all 0.3s;
 }
 
-.btn:hover::before {
+.return:hover::before {
     opacity: 0.5;
     transform: scale(1.5, 1.5);
 }
 
-.btn::after {
+.return::after {
     content: '';
     position: absolute;
     top: 0;
@@ -81,7 +81,7 @@ body {
     transform: scale(1.5, 1.5);
 }
 
-.btn:hover::after {
+.return:hover::after {
     opacity: 1;
     transform: scale(1.5, 1.5);
 }
